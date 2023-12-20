@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "citymap/wsgi.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "citymap/wsgi.py"
+      }
+    ]
+}
