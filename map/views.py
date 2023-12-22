@@ -84,3 +84,32 @@ class NeighborhoodView(APIView):
 
         serializer = TownSerializer(states, many=True)
         return Response(api_response(status="ok", data=serializer.data, message="success"))
+    
+class StreetView(APIView):
+    @swagger_auto_schema(manual_parameters=[
+        openapi.Parameter('city_id', in_=openapi.IN_QUERY, description='Either city_id or city_name is required', type=openapi.TYPE_INTEGER),
+        openapi.Parameter('city_name', in_=openapi.IN_QUERY, description='Either city_id or city_name is required', type=openapi.TYPE_STRING),
+        openapi.Parameter('town_id', in_=openapi.IN_QUERY, description='Either town_id or town_name is required', type=openapi.TYPE_INTEGER),
+        openapi.Parameter('town_name', in_=openapi.IN_QUERY, description='Either town_id or town_name is required', type=openapi.TYPE_STRING),
+    ])
+    def get(self, request, *args, **kwargs):
+        town_id = self.request.GET.get('town_id')
+        town_name = self.request.GET.get('town_name')
+        city_id = self.request.GET.get('city_id')
+        city_name = self.request.GET.get('city_name')
+        try:
+            if town_id:
+                states = Address.objects.filter(town_id=town_id)
+            elif town_name:
+                states = Address.objects.filter(town__name__icontains=town_name)
+            elif city_id:
+                states = Address.objects.filter(city_id=city_id)
+            elif city_name:
+                states = Address.objects.filter(city__name__icontains=city_name)
+            else:
+                return Response(api_response(status="error", data=[], message="Please include any of the following parameters in your request: town_id, town_name, city_id, or city_name."), status=status.HTTP_400_BAD_REQUEST)
+        except Exception as e:
+                return Response(api_response(status="error", data=[], message=e), status=status.HTTP_400_BAD_REQUEST)
+
+        serializer = AddressSerializer(states, many=True)
+        return Response(api_response(status="ok", data=serializer.data, message="success"))
