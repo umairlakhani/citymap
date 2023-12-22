@@ -15,7 +15,7 @@ db_params = {
 csv_file_path = 'map/data/town.csv'
 
 # Table name in the database
-table_name = 'map_town'
+table_name = 'map_address'
 
 # Open a connection to the PostgreSQL database
 conn = psycopg2.connect(**db_params)
@@ -29,7 +29,7 @@ with open(csv_file_path, 'r', encoding='utf-8') as file:
     next(reader)
 
     # Use the COPY command to insert data into the table
-    columns = ["name","city_id"]
+    columns = ["street","long","lat","city_id","town_id","neighborhood","postal"]
     # columns = ['nil' if not column else column for column in columns]
     cursor.copy_from(file, table_name, sep=',', columns=columns)
 

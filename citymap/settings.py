@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-@vzbqke6$whondi&=j_lf#4sa+9i_r&ulp4)ixqx+m82x=msyx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
@@ -134,28 +134,28 @@ WSGI_APPLICATION = 'citymap.wsgi.application'
 
 # settings.py
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'map',          # Replace with your desired database name
-#         'USER': 'postgres',          # Replace with your PostgreSQL username
-#         'PASSWORD': 'Guizza@123',  # Replace with your PostgreSQL password
-#         'HOST': 'localhost',           # Replace with your PostgreSQL host
-#         'PORT': '5432',                # Replace with your PostgreSQL port
-#     }
-# }
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'URL': 'postgresql://postgres:4A4FcEA1a3-5F3-C6-Ab6dF2ba3*CG3a@viaduct.proxy.rlwy.net:38060/railway',
-        'NAME': 'railway',
-        'USER': 'postgres',
-        'PASSWORD': '4A4FcEA1a3-5F3-C6-Ab6dF2ba3*CG3a',
-        'HOST': 'viaduct.proxy.rlwy.net',
-        'PORT': 38060,
+        'NAME': 'map',          # Replace with your desired database name
+        'USER': 'postgres',          # Replace with your PostgreSQL username
+        'PASSWORD': 'Guizza@123',  # Replace with your PostgreSQL password
+        'HOST': 'localhost',           # Replace with your PostgreSQL host
+        'PORT': '5432',                # Replace with your PostgreSQL port
     }
 }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'URL': 'postgresql://postgres:4A4FcEA1a3-5F3-C6-Ab6dF2ba3*CG3a@viaduct.proxy.rlwy.net:38060/railway',
+#         'NAME': 'railway',
+#         'USER': 'postgres',
+#         'PASSWORD': '4A4FcEA1a3-5F3-C6-Ab6dF2ba3*CG3a',
+#         'HOST': 'viaduct.proxy.rlwy.net',
+#         'PORT': 38060,
+#     }
+# }
 
 
 # Password validation

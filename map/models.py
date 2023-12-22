@@ -39,8 +39,10 @@ class Town(models.Model):
 
 class Address(models.Model):
     street = models.CharField(max_length=255)
-    long = models.CharField(max_length=255)
-    lat = models.CharField(max_length=255)
+    long = models.CharField(max_length=255, blank=True, null=True)
+    lat = models.CharField(max_length=255, blank=True, null=True)
+    postal = models.CharField(max_length=255, blank=True, null=True)
+    neighborhood = models.CharField(max_length=255, blank=True, null=True)
     town = models.ForeignKey(Town, on_delete=models.CASCADE, blank=True, null=True)
     city = models.ForeignKey(City, on_delete=models.CASCADE)
 

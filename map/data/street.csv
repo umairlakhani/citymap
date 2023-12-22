@@ -1,0 +1,3025 @@
+street,long,lat,city_id,town_id,neighborhood,postal
+Rua Coronel Cirilo Lopes de Morais,,,11,5,Centro,75680-001
+Rua São Paulo,,,11,5,Centro,75680-003
+Avenida Orozimbo Correa Neto,,,11,5,Centro,75680-005
+Rua Rio de Janeiro,,,11,5,Centro,75680-007
+Rua Brasília,,,11,5,Centro,75680-009
+Rua Goiânia,,,11,5,Centro,75680-011
+Praça Gilson Ribeiro de Macedo,,,11,5,Centro,75680-012
+Avenida Orcalino Santos,,,11,5,Centro,75680-013
+Rua Santos Dumont,,,11,5,Centro,75680-015
+Rua Pedro Branco de Souza,,,11,5,Centro,75680-017
+Rua Luiz José Pereira,,,11,5,Centro,75680-019
+Avenida Coronel Bento de Godoy,,,11,5,Centro,75680-021
+Rua do Eucalípto,,,11,5,Centro,75680-023
+Alameda Juca de Godoy,,,11,5,Centro,75680-024
+Alameda do Contorno,,,11,5,Centro,75680-025
+Rua da Península,,,11,5,Centro,75680-027
+Rua Capitão João Crisóstomo,,,11,5,Centro,75680-029
+Rua do Balneário,,,11,5,Centro,75680-031
+Rua Coronel João Batista,,,11,5,Centro,75680-033
+Rua Ilídio Lopes de Moraes,,,11,5,Centro,75680-035
+Rua Augusto Antônio Guimarães,,,11,5,Centro,75680-037
+Praça Mestre Orlando,,,11,5,Centro,75680-039
+Rua Major Victor,,,11,5,Centro,75680-041
+Rua A,,,11,5,Centro,75680-043
+Rua Antônio Coelho de Godoy,,,11,5,Centro,75680-045
+Rua Doutor Ciro Palmerston,,,11,5,Centro,75680-047
+Rua P,,,11,5,Centro,75680-049
+Rua José Borges,,,11,5,Centro,75680-051
+Rua Coronel Gonzaga,,,11,5,Centro,75680-053
+Rua Antônio Inocêncio,,,11,5,Centro,75680-055
+Rua Vera Cruz,,,11,5,Centro,75680-057
+Rua Professor Josino Bretas,,,11,5,Centro,75680-059
+Rua 14,,,11,5,Centro,75680-061
+Rua 13,,,11,5,Centro,75680-063
+Praça Monteiro Lobato,,,11,136,Termal,75680-070
+Rua Eça de Queiróz,,,11,136,Termal,75680-072
+Rua Machado de Assis,,,11,136,Termal,75680-074
+Rua Joaquim Nabuco,,,11,136,Termal,75680-076
+Rua Afonso Arinos,,,11,136,Termal,75680-078
+Avenida Contorno,,,11,136,Termal,75680-080
+Avenida Doutor João de Araújo Castro,,,11,136,Termal,75680-081
+Rua Antônio Inocêncio,,,11,129,Setor Oeste,75680-090
+Rua Dona Zilda Marini,,,11,129,Setor Oeste,75680-092
+Rua Antônio Coelho de Godoy,,,11,129,Setor Oeste,75680-094
+Rua São Judas Tadeu,,,11,129,Setor Oeste,75680-095
+Rua Tenente-Aviador Marini,,,11,129,Setor Oeste,75680-097
+Rua São Benedito,,,11,129,Setor Oeste,75680-099
+Rua Santo André,,,11,129,Setor Oeste,75680-102
+Rua São José,,,11,129,Setor Oeste,75680-104
+Rua Santo Antônio,,,11,129,Setor Oeste,75680-107
+Rua Santo Agostinho,,,11,129,Setor Oeste,75680-108
+Avenida Tiradentes,,,11,3,Bandeirante,75680-110
+Avenida Contorno,,,11,3,Bandeirante,75680-112
+Avenida Presidente Juscelino Kubitschek,,,11,3,Bandeirante,75680-114
+Rua 15 de Novembro,,,11,3,Bandeirante,75680-116
+Travessa 13 de Maio,,,11,3,Bandeirante,75680-118
+Rua 7 de Setembro,,,11,3,Bandeirante,75680-120
+Rua 1,,,11,3,Bandeirante,75680-122
+Rua 2,,,11,3,Bandeirante,75680-124
+Rua 4,,,11,3,Bandeirante,75680-126
+Avenida Presidente Kennedy,,,11,3,Bandeirante,75680-128
+Rua D 1,,,11,3,Bandeirante,75680-130
+Rua 25 de Dezembro,,,11,3,Bandeirante,75680-132
+Travessa 10 de Maio,,,11,3,Bandeirante,75680-134
+Rua 5,,,11,3,Bandeirante,75680-136
+Rua 3,,,11,3,Bandeirante,75680-138
+Rua 6,,,11,3,Bandeirante,75680-140
+Rua 7,,,11,3,Bandeirante,75680-142
+Rua 21 de Abril,,,11,3,Bandeirante,75680-144
+Rua 8,,,11,3,Bandeirante,75680-146
+Rua 28 de Setembro,,,11,3,Bandeirante,75680-148
+Rua 20 de Agosto,,,11,3,Bandeirante,75680-150
+Rua Dom Pedro II,,,11,3,Bandeirante,75680-152
+Rua 9,,,11,3,Bandeirante,75680-154
+Rua 10 B,,,11,3,Bandeirante,75680-156
+Rua 10,,,11,3,Bandeirante,75680-158
+Rua Interna,,,11,3,Bandeirante,75680-160
+Rua 11 B,,,11,3,Bandeirante,75680-162
+Rua 11,,,11,3,Bandeirante,75680-164
+Viela A,,,11,3,Bandeirante,75680-166
+Rua 12,,,11,3,Bandeirante,75680-168
+Rua 13,,,11,3,Bandeirante,75680-170
+Rua D 4,,,11,3,Bandeirante,75680-172
+Rua 15,,,11,3,Bandeirante,75680-174
+Rua 14,,,11,3,Bandeirante,75680-176
+Rua D 2,,,11,3,Bandeirante,75680-178
+Rua D 3,,,11,3,Bandeirante,75680-180
+Rua Doutor Ciro Palmerston,,,11,80,Parque dos Pomares,75680-210
+Rua 13,,,11,80,Parque dos Pomares,75680-212
+Avenida Coronel Bento de Godoy,,,11,80,Parque dos Pomares,75680-214
+Rua 11,,,11,80,Parque dos Pomares,75680-216
+Rua 10,,,11,80,Parque dos Pomares,75680-218
+Rua 9,,,11,80,Parque dos Pomares,75680-220
+Avenida Rondônia,,,11,80,Parque dos Pomares,75680-222
+Avenida Coronel Bento de Godoy,,,11,144,Vila São José,75680-230
+Rua 14,,,11,144,Vila São José,75680-232
+Rua Vera Cruz,,,11,144,Vila São José,75680-234
+Avenida Rondônia,,,11,144,Vila São José,75680-236
+Alameda do Contorno,,,11,144,Vila São José,75680-238
+Rua 12,,,11,144,Vila São José,75680-240
+Rua 11,,,11,144,Vila São José,75680-242
+Rua 10,,,11,144,Vila São José,75680-244
+Rua 9,,,11,144,Vila São José,75680-246
+Rua 8,,,11,144,Vila São José,75680-248
+Rua 7,,,11,144,Vila São José,75680-250
+Rua 6,,,11,144,Vila São José,75680-252
+Avenida Dom Pedro II,,,11,144,Vila São José,75680-254
+Avenida Brasília,,,11,144,Vila São José,75680-256
+Praça Nações Unidas,,,11,144,Vila São José,75680-258
+Rua 5,,,11,144,Vila São José,75680-260
+Rua 3,,,11,144,Vila São José,75680-262
+Rua 4,,,11,144,Vila São José,75680-264
+Rua 1,,,11,144,Vila São José,75680-266
+Rua 2,,,11,144,Vila São José,75680-268
+Avenida Marechal Deodoro da Fonseca,,,11,144,Vila São José,75680-270
+Avenida Coronel Bento de Godoy,,,11,50,Jardim Hanashiro,75680-280
+Avenida Marechal Deodoro da Fonseca,,,11,50,Jardim Hanashiro,75680-283
+Rua Olinto Alves Leite,,,11,50,Jardim Hanashiro,75680-286
+Rua 2,,,11,50,Jardim Hanashiro,75680-289
+Rua 3,,,11,50,Jardim Hanashiro,75680-292
+Rua 4,,,11,50,Jardim Hanashiro,75680-295
+Rua 5,,,11,50,Jardim Hanashiro,75680-298
+Viela 1,,,11,50,Jardim Hanashiro,75680-301
+Rua 6,,,11,50,Jardim Hanashiro,75680-304
+Viela 2,,,11,50,Jardim Hanashiro,75680-307
+Rua Seicho Hanashiro,,,11,50,Jardim Hanashiro,75680-310
+Viela 3,,,11,50,Jardim Hanashiro,75680-313
+Viela 4,,,11,50,Jardim Hanashiro,75680-316
+Viela 5,,,11,50,Jardim Hanashiro,75680-319
+Rua 8,,,11,50,Jardim Hanashiro,75680-322
+Rua Hernesto Shinoara,,,11,50,Jardim Hanashiro,75680-325
+Rua 9,,,11,50,Jardim Hanashiro,75680-328
+Rua 7,,,11,50,Jardim Hanashiro,75680-331
+Rua 11,,,11,50,Jardim Hanashiro,75680-334
+Rua 12,,,11,50,Jardim Hanashiro,75680-337
+Rua 13,,,11,50,Jardim Hanashiro,75680-340
+Rua 14,,,11,50,Jardim Hanashiro,75680-343
+Rua 15,,,11,50,Jardim Hanashiro,75680-346
+Avenida Tiradentes,,,11,39,Estância Itanhangá,75680-350
+Rua B 1,,,11,39,Estância Itanhangá,75680-352
+Avenida C,,,11,39,Estância Itanhangá,75680-354
+Rua B 28,,,11,39,Estância Itanhangá,75680-356
+Avenida Coronel Bento de Godoy,,,11,39,Estância Itanhangá,75680-358
+Rua C 1,,,11,39,Estância Itanhangá,75680-360
+Avenida B,,,11,39,Estância Itanhangá,75680-362
+Rua D 1,,,11,39,Estância Itanhangá,75680-364
+Rua D 15,,,11,39,Estância Itanhangá,75680-366
+Avenida E,,,11,39,Estância Itanhangá,75680-368
+Rua B 2,,,11,39,Estância Itanhangá,75680-370
+Rua B 3,,,11,39,Estância Itanhangá,75680-372
+Rua D 6,,,11,39,Estância Itanhangá,75680-374
+Rua D 11,,,11,39,Estância Itanhangá,75680-376
+Rua D 2,,,11,39,Estância Itanhangá,75680-378
+Rua B 4,,,11,39,Estância Itanhangá,75680-380
+Rua B 5,,,11,39,Estância Itanhangá,75680-382
+Rua B 26,,,11,39,Estância Itanhangá,75680-384
+Rua B 27,,,11,39,Estância Itanhangá,75680-386
+Rua C 7,,,11,39,Estância Itanhangá,75680-388
+Rua C 8,,,11,39,Estância Itanhangá,75680-390
+Rua B 6,,,11,39,Estância Itanhangá,75680-392
+Rua B 25,,,11,39,Estância Itanhangá,75680-394
+Rua D 7,,,11,39,Estância Itanhangá,75680-396
+Rua B 7,,,11,39,Estância Itanhangá,75680-398
+Rua D 3,,,11,39,Estância Itanhangá,75680-400
+Rua B 8,,,11,39,Estância Itanhangá,75680-402
+Rua C 2,,,11,39,Estância Itanhangá,75680-404
+Rua D 12,,,11,39,Estância Itanhangá,75680-406
+Rua D 8,,,11,39,Estância Itanhangá,75680-408
+Rua D 9,,,11,39,Estância Itanhangá,75680-410
+Rua D 4,,,11,39,Estância Itanhangá,75680-412
+Rua C 11,,,11,39,Estância Itanhangá,75680-414
+Rua C 3,,,11,39,Estância Itanhangá,75680-416
+Rua C 4,,,11,39,Estância Itanhangá,75680-418
+Rua C 9,,,11,39,Estância Itanhangá,75680-420
+Rua B 9,,,11,39,Estância Itanhangá,75680-422
+Rua B 10,,,11,39,Estância Itanhangá,75680-424
+Rua B 23,,,11,39,Estância Itanhangá,75680-426
+Rua B 24,,,11,39,Estância Itanhangá,75680-428
+Rua B 11,,,11,39,Estância Itanhangá,75680-430
+Rua B 12,,,11,39,Estância Itanhangá,75680-432
+Rua B 13,,,11,39,Estância Itanhangá,75680-434
+Rua B 14,,,11,39,Estância Itanhangá,75680-436
+Rua C 5,,,11,39,Estância Itanhangá,75680-438
+Rua D 10,,,11,39,Estância Itanhangá,75680-440
+Rua D 13,,,11,39,Estância Itanhangá,75680-442
+Rua C 13,,,11,39,Estância Itanhangá,75680-444
+Rua D 5,,,11,39,Estância Itanhangá,75680-446
+Rua C 12,,,11,39,Estância Itanhangá,75680-448
+Rua C 6,,,11,39,Estância Itanhangá,75680-450
+Rua B 15,,,11,39,Estância Itanhangá,75680-452
+Rua B 22,,,11,39,Estância Itanhangá,75680-454
+Rua B 21,,,11,39,Estância Itanhangá,75680-456
+Rua B 20,,,11,39,Estância Itanhangá,75680-458
+Rua B 19,,,11,39,Estância Itanhangá,75680-460
+Rua B 16,,,11,39,Estância Itanhangá,75680-462
+Rua B 17,,,11,39,Estância Itanhangá,75680-464
+Rua A 2,,,11,39,Estância Itanhangá,75680-466
+Rua A 3,,,11,39,Estância Itanhangá,75680-468
+Rua 11,,,11,39,Estância Itanhangá,75680-470
+Avenida D,,,11,39,Estância Itanhangá,75680-472
+Rua B 18,,,11,39,Estância Itanhangá,75680-474
+Rua C 10,,,11,39,Estância Itanhangá,75680-476
+Rua E 13,,,11,39,Estância Itanhangá,75680-478
+Rua E 1,,,11,39,Estância Itanhangá,75680-480
+Rua E 14,,,11,39,Estância Itanhangá,75680-482
+Rua D 14,,,11,39,Estância Itanhangá,75680-484
+Rua 69,,,11,39,Estância Itanhangá,75680-486
+Rua F 1,,,11,39,Estância Itanhangá,75680-488
+Rua F 2,,,11,39,Estância Itanhangá,75680-490
+Rua F 3,,,11,39,Estância Itanhangá,75680-492
+Rua E 2,,,11,39,Estância Itanhangá,75680-494
+Rua E 3,,,11,39,Estância Itanhangá,75680-496
+Rua E 4,,,11,39,Estância Itanhangá,75680-498
+Rua E 16,,,11,39,Estância Itanhangá,75680-500
+Rua F 4,,,11,39,Estância Itanhangá,75680-502
+Rua F 5,,,11,39,Estância Itanhangá,75680-504
+Rua E 5,,,11,39,Estância Itanhangá,75680-506
+Rua F 6,,,11,39,Estância Itanhangá,75680-508
+Rua E 6,,,11,39,Estância Itanhangá,75680-510
+Rua E 15,,,11,39,Estância Itanhangá,75680-512
+Rua E 7,,,11,39,Estância Itanhangá,75680-514
+Rua F 7,,,11,39,Estância Itanhangá,75680-516
+Rua F 8,,,11,39,Estância Itanhangá,75680-518
+Rua F 10,,,11,39,Estância Itanhangá,75680-520
+Rua F 11,,,11,39,Estância Itanhangá,75680-522
+Rua E 17,,,11,39,Estância Itanhangá,75680-524
+Rua E 8,,,11,39,Estância Itanhangá,75680-526
+Rua E 11,,,11,39,Estância Itanhangá,75680-528
+Rua E 9,,,11,39,Estância Itanhangá,75680-530
+Rua E 12,,,11,39,Estância Itanhangá,75680-532
+Rua E 10,,,11,39,Estância Itanhangá,75680-534
+Avenida F,,,11,39,Estância Itanhangá,75680-536
+Rua F 9,,,11,39,Estância Itanhangá,75680-538
+Rua C 10,,,11,59,Jardim Serrano,75680-540
+Avenida Ilídio Lopes de Moraes,,,11,59,Jardim Serrano,75680-543
+Rua B 20,,,11,59,Jardim Serrano,75680-546
+Rua B 18,,,11,59,Jardim Serrano,75680-549
+Rua Monte Castelo,,,11,59,Jardim Serrano,75680-552
+Rua dos Alpes,,,11,59,Jardim Serrano,75680-555
+Rua Monte Branco,,,11,59,Jardim Serrano,75680-558
+Rua Everest,,,11,59,Jardim Serrano,75680-561
+Rua dos Andes,,,11,59,Jardim Serrano,75680-564
+Rua Serra Dourada,,,11,59,Jardim Serrano,75680-567
+Rua Ararat,,,11,59,Jardim Serrano,75680-570
+Rua Monte Sinai,,,11,59,Jardim Serrano,75680-573
+Rua Serra Negra,,,11,59,Jardim Serrano,75680-576
+Rua Himalaia,,,11,59,Jardim Serrano,75680-579
+Rua Apeninos,,,11,59,Jardim Serrano,75680-582
+Rua Alegânis,,,11,59,Jardim Serrano,75680-585
+Rua Apalaches,,,11,59,Jardim Serrano,75680-588
+Avenida Pico da Neblina,,,11,59,Jardim Serrano,75680-591
+Rua Sião,,,11,59,Jardim Serrano,75680-594
+Praça Ciro Palmerston,,,11,59,Jardim Serrano,75680-595
+Rua Augusto Gonzaga de Menezes,,,11,59,Jardim Serrano,75680-597
+Rua Orcalino Lopes de Moraes,,,11,59,Jardim Serrano,75680-600
+Rua Pirineus,,,11,59,Jardim Serrano,75680-603
+Rua Serra do Mar,,,11,59,Jardim Serrano,75680-606
+Rua Ascelino Lopes de Moraes,,,11,59,Jardim Serrano,75680-609
+Rua Mantiqueira,,,11,59,Jardim Serrano,75680-612
+Rua das Camélias,,,11,46,Jardim dos Ipês,75680-640
+Rua das Alfazemas,,,11,46,Jardim dos Ipês,75680-643
+Rua das Alamandas,,,11,46,Jardim dos Ipês,75680-646
+Rua das Begônias,,,11,46,Jardim dos Ipês,75680-649
+Rua das Éricas,,,11,46,Jardim dos Ipês,75680-652
+Rua Ascelino Lopes de Moraes,,,11,46,Jardim dos Ipês,75680-655
+Rua dos Anís,,,11,46,Jardim dos Ipês,75680-658
+Rua das Flores do Campo,,,11,46,Jardim dos Ipês,75680-661
+Rua das Papoulas,,,11,46,Jardim dos Ipês,75680-664
+Rua das Aleganes,,,11,46,Jardim dos Ipês,75680-667
+Avenida Ilídio Lopes de Moraes,,,11,46,Jardim dos Ipês,75680-670
+Rua das Três-marias,,,11,46,Jardim dos Ipês,75680-673
+Rua dos Corais,,,11,46,Jardim dos Ipês,75680-676
+Rua das Azaléias,,,11,46,Jardim dos Ipês,75680-679
+Rua das Alpínias,,,11,46,Jardim dos Ipês,75680-682
+Rua dos Cravos,,,11,46,Jardim dos Ipês,75680-685
+Rua dos Copos-de-leite,,,11,46,Jardim dos Ipês,75680-688
+Avenida Hélio Lopes de Morais,,,11,46,Jardim dos Ipês,75680-691
+Rua das Verbenas,,,11,46,Jardim dos Ipês,75680-694
+Rua das Margaridas,,,11,46,Jardim dos Ipês,75680-697
+Rua das Violetas,,,11,46,Jardim dos Ipês,75680-700
+Rua das Orquídeas,,,11,46,Jardim dos Ipês,75680-703
+Rua das Tulipas,,,11,46,Jardim dos Ipês,75680-706
+Rua dos Lisiantos,,,11,46,Jardim dos Ipês,75680-709
+Rua dos Gerâneos,,,11,46,Jardim dos Ipês,75680-712
+Rua dos Lírios,,,11,46,Jardim dos Ipês,75680-715
+Rua dos Girassóis,,,11,46,Jardim dos Ipês,75680-718
+Rua das Estrelícias,,,11,46,Jardim dos Ipês,75680-721
+Rua dos Crisântemos,,,11,46,Jardim dos Ipês,75680-724
+Rua das Gardênias,,,11,46,Jardim dos Ipês,75680-727
+Rua dos Resedás,,,11,46,Jardim dos Ipês,75680-730
+Rua das Íris,,,11,46,Jardim dos Ipês,75680-733
+Rua dos Jasmins,,,11,46,Jardim dos Ipês,75680-736
+Rua das Açucenas,,,11,46,Jardim dos Ipês,75680-739
+Rua das Bromélias,,,11,46,Jardim dos Ipês,75680-742
+Rua das Hortênsias,,,11,46,Jardim dos Ipês,75680-745
+Rua das Petúnias,,,11,46,Jardim dos Ipês,75680-748
+Rua das Vincas,,,11,46,Jardim dos Ipês,75680-751
+Rua Mantiqueira,,,11,56,Jardim Park Sul,75680-760
+Rua Doutora Maria Luiza Póvoa Cruz,,,11,56,Jardim Park Sul,75680-763
+Rua Vicente Porfiro Pessoa,,,11,56,Jardim Park Sul,75680-766
+Rua Conselheiro Daniel Augusto Goulart,,,11,56,Jardim Park Sul,75680-769
+Rua Carlos Ivaldo Badan,,,11,56,Jardim Park Sul,75680-772
+Rua Doutor Archibald Silva,,,11,56,Jardim Park Sul,75680-775
+Rua Doutor Duílio Gomes,,,11,56,Jardim Park Sul,75680-778
+Avenida Heliane Morais de Castro,,,11,56,Jardim Park Sul,75680-781
+Avenida Ilídio Lopes de Moraes,,,11,56,Jardim Park Sul,75680-782
+Rua Desembargador Elcy Santos de Melo,,,11,56,Jardim Park Sul,75680-784
+Rua dos Corais,,,11,56,Jardim Park Sul,75680-787
+Avenida Hélio Lopes de Morais,,,11,56,Jardim Park Sul,75680-790
+Rua das Tulipas,,,11,56,Jardim Park Sul,75680-793
+Rua Doutor Aníbal Morais Torres,,,11,56,Jardim Park Sul,75680-796
+Rua Conselheiro Nelson Siqueira,,,11,56,Jardim Park Sul,75680-799
+Rua Odélio Lopes de Moraes,,,11,56,Jardim Park Sul,75680-802
+Rua Doutor Flávio Lúcio Rodrigues da Silva,,,11,56,Jardim Park Sul,75680-805
+Rua Thyemi de Araújo Fujioka,,,11,56,Jardim Park Sul,75680-808
+Rua Francisco de Castro Malheiros,,,11,56,Jardim Park Sul,75680-811
+Rua Leandro de Araújo Malheiros,,,11,56,Jardim Park Sul,75680-814
+Rua Neusa Vieira da Mota,,,11,56,Jardim Park Sul,75680-817
+Avenida Glória E Miranda Coelho,,,11,56,Jardim Park Sul,75680-820
+Rua Michelli Araújo Crisóstomo de Castro,,,11,56,Jardim Park Sul,75680-823
+Rua Juiz Hélio Antônio Crisóstomo de Castro,,,11,56,Jardim Park Sul,75680-826
+Rua Jordana Maria Crisóstomo de Castro Malheiros,,,11,56,Jardim Park Sul,75680-829
+Rua Victor Crisóstomo de Castro Malheiros,,,11,56,Jardim Park Sul,75680-832
+Rua Arthur Crisóstomo de Castro Malheiros,,,11,56,Jardim Park Sul,75680-835
+Avenida Doutor José Carlos Siqueira,,,11,56,Jardim Park Sul,75680-838
+Rua Stenius Antônio Crisóstomo de Castro Malheiros Júnior,,,11,56,Jardim Park Sul,75680-841
+Rua Hélio Antônio Crisóstomo de Castro Filho,,,11,56,Jardim Park Sul,75680-844
+Rua André Luiz Borges de Castro,,,11,56,Jardim Park Sul,75680-847
+Rua Marina Célia Crisóstomo de Castro,,,11,56,Jardim Park Sul,75680-850
+Rua Doutor Caius Lucilius de Castro Júnior,,,11,56,Jardim Park Sul,75680-853
+Rua Conselheiro Carlos Leopoldo Dayrell,,,11,56,Jardim Park Sul,75680-856
+Rua Deputado Wilmar Rocha,,,11,56,Jardim Park Sul,75680-859
+Rua José da Rocha,,,11,139,Vale do Buriti Mirim,75681-500
+Rua C,,,11,139,Vale do Buriti Mirim,75681-502
+Rua D,,,11,139,Vale do Buriti Mirim,75681-504
+Rua dos Buritis,,,11,139,Vale do Buriti Mirim,75681-506
+Rua F,,,11,139,Vale do Buriti Mirim,75681-508
+Rua P,,,11,139,Vale do Buriti Mirim,75681-510
+Rua Marginal A,,,11,35,Estância dos Buritis,75681-520
+Rua 17,,,11,35,Estância dos Buritis,75681-522
+Rua 18,,,11,35,Estância dos Buritis,75681-524
+Rua 16,,,11,35,Estância dos Buritis,75681-526
+Rua 15,,,11,35,Estância dos Buritis,75681-528
+Rua 15 A,,,11,35,Estância dos Buritis,75681-530
+Rua 14,,,11,35,Estância dos Buritis,75681-532
+Rua 13,,,11,35,Estância dos Buritis,75681-534
+Rua 12,,,11,35,Estância dos Buritis,75681-536
+Rua 11,,,11,35,Estância dos Buritis,75681-538
+Rua P,,,11,35,Estância dos Buritis,75681-540
+Rua 10,,,11,35,Estância dos Buritis,75681-542
+Rua 9,,,11,35,Estância dos Buritis,75681-544
+Rua 3,,,11,35,Estância dos Buritis,75681-546
+Rua 2,,,11,35,Estância dos Buritis,75681-548
+Rua 1,,,11,35,Estância dos Buritis,75681-550
+Rua 8,,,11,35,Estância dos Buritis,75681-552
+Rua 7,,,11,35,Estância dos Buritis,75681-554
+Rua 4,,,11,35,Estância dos Buritis,75681-556
+Rua 6,,,11,35,Estância dos Buritis,75681-558
+Rua 5,,,11,35,Estância dos Buritis,75681-560
+Rua João da Rocha Barbalho,,,11,35,Estância dos Buritis,75681-562
+Avenida Guarapari,,,11,89,Recanto dos Eucaliptos,75681-570
+Rua Dona Dadinha,,,11,89,Recanto dos Eucaliptos,75681-573
+Rua 2,,,11,89,Recanto dos Eucaliptos,75681-576
+Rua 1,,,11,89,Recanto dos Eucaliptos,75681-579
+Avenida Z,,,11,89,Recanto dos Eucaliptos,75681-582
+Avenida Z,,,11,45,Jardim dos Buritis,75681-590
+Rua das Hortênsias,,,11,45,Jardim dos Buritis,75681-592
+Rua das Alfazemas,,,11,45,Jardim dos Buritis,75681-594
+Rua das Avencas,,,11,45,Jardim dos Buritis,75681-596
+Rua das Orquídeas,,,11,45,Jardim dos Buritis,75681-598
+Alameda dos Buritis,,,11,45,Jardim dos Buritis,75681-600
+Rua Pedro Martins Lopes,,,11,86,Popular,75681-610
+Rua das Orquídeas,,,11,86,Popular,75681-612
+Travessa da Sorte,,,11,86,Popular,75681-614
+Travessa Central,,,11,86,Popular,75681-616
+Travessa Caldense,,,11,86,Popular,75681-618
+Rua Valdivino Paulo Ferreira,,,11,86,Popular,75681-620
+Rua da Harmonia,,,11,86,Popular,75681-622
+Rua da Luz,,,11,86,Popular,75681-624
+Rua da Alegria,,,11,86,Popular,75681-626
+Rua da Juventude,,,11,86,Popular,75681-628
+Rua da Fé,,,11,86,Popular,75681-630
+Rua dos Buritis,,,11,86,Popular,75681-632
+Rua da Felicidade,,,11,86,Popular,75681-634
+Rua P,,,11,74,Nova Vila,75681-640
+Avenida Z,,,11,74,Nova Vila,75681-642
+Rua O,,,11,74,Nova Vila,75681-644
+Rua Q,,,11,74,Nova Vila,75681-646
+Rua N,,,11,74,Nova Vila,75681-648
+Rua R,,,11,74,Nova Vila,75681-650
+Rua S,,,11,74,Nova Vila,75681-652
+Rua M,,,11,74,Nova Vila,75681-654
+Rua L,,,11,74,Nova Vila,75681-656
+Rua J,,,11,74,Nova Vila,75681-658
+Rua T,,,11,74,Nova Vila,75681-660
+Rua U,,,11,74,Nova Vila,75681-662
+Rua V,,,11,74,Nova Vila,75681-664
+Rua I,,,11,74,Nova Vila,75681-666
+Rua H,,,11,74,Nova Vila,75681-668
+Rua G,,,11,74,Nova Vila,75681-670
+Rua F,,,11,74,Nova Vila,75681-672
+Rua E,,,11,74,Nova Vila,75681-674
+Rua D,,,11,74,Nova Vila,75681-676
+Rua C,,,11,74,Nova Vila,75681-678
+Rua B,,,11,74,Nova Vila,75681-680
+Rua A,,,11,74,Nova Vila,75681-682
+Avenida Z,,,11,28,Conjunto Mara Morena,75681-690
+Rua 2,,,11,28,Conjunto Mara Morena,75681-692
+Rua 1,,,11,28,Conjunto Mara Morena,75681-694
+Avenida Z,,,11,38,Estância Itajá,75681-770
+Rua 3,,,11,38,Estância Itajá,75681-773
+Rua 2,,,11,38,Estância Itajá,75681-776
+Rua 4,,,11,38,Estância Itajá,75681-779
+Rua 1,,,11,38,Estância Itajá,75681-782
+Avenida A,,,11,38,Estância Itajá,75681-785
+Rua 5,,,11,38,Estância Itajá,75681-788
+Rua 7,,,11,38,Estância Itajá,75681-791
+Rua 6,,,11,38,Estância Itajá,75681-794
+Rua 18,,,11,38,Estância Itajá,75681-797
+Rua A,,,11,58,Jardim Roma,75681-800
+Rua P,,,11,58,Jardim Roma,75681-803
+Rua Major Victor,,,11,58,Jardim Roma,75681-806
+Rua José Borges,,,11,58,Jardim Roma,75681-809
+Rua B,,,11,58,Jardim Roma,75681-812
+Rua C,,,11,58,Jardim Roma,75681-815
+Rua D,,,11,58,Jardim Roma,75681-818
+Rua Coronel Gonzaga,,,11,58,Jardim Roma,75681-821
+Rodovia GO-015,,,11,58,Jardim Roma,75681-824
+Rua Q,,,11,58,Jardim Roma,75681-827
+Rua R,,,11,58,Jardim Roma,75681-830
+Rua S,,,11,58,Jardim Roma,75681-833
+Rua T,,,11,58,Jardim Roma,75681-836
+Rua T 1,,,11,58,Jardim Roma,75681-839
+Rua U,,,11,58,Jardim Roma,75681-842
+Rua V,,,11,58,Jardim Roma,75681-845
+Rua Y,,,11,58,Jardim Roma,75681-848
+Rua X,,,11,58,Jardim Roma,75681-851
+Avenida Z,,,11,58,Jardim Roma,75681-854
+Avenida das Acácias,,,11,47,Jardim dos Turistas,75681-860
+Rua Vitória Régia,,,11,47,Jardim dos Turistas,75681-863
+Rua das Violetas,,,11,47,Jardim dos Turistas,75681-866
+Rua do Ipê,,,11,47,Jardim dos Turistas,75681-869
+Rua das Magnólias,,,11,47,Jardim dos Turistas,75681-872
+Rua das Camélias,,,11,47,Jardim dos Turistas,75681-875
+Avenida das Rosas,,,11,47,Jardim dos Turistas,75681-878
+Rua dos Girassóis,,,11,47,Jardim dos Turistas,75681-881
+Avenida dos Turistas,,,11,47,Jardim dos Turistas,75681-884
+Rua dos Gerâneos,,,11,47,Jardim dos Turistas,75681-887
+Rua dos Jasmins,,,11,47,Jardim dos Turistas,75681-890
+Rua das Palmas,,,11,47,Jardim dos Turistas,75681-893
+Avenida das Nações,,,11,47,Jardim dos Turistas,75681-896
+Avenida Antônio Sanches Fernandes,,,11,36,Estância Itaguaí,75682-000
+Rua 1,,,11,36,Estância Itaguaí,75682-002
+Avenida A,,,11,36,Estância Itaguaí,75682-004
+Rua 3,,,11,36,Estância Itaguaí,75682-006
+Rua 5,,,11,36,Estância Itaguaí,75682-008
+Rua 7,,,11,36,Estância Itaguaí,75682-010
+Rua 9,,,11,36,Estância Itaguaí,75682-012
+Rua 11,,,11,36,Estância Itaguaí,75682-014
+Rua 13,,,11,36,Estância Itaguaí,75682-016
+Rua 15,,,11,36,Estância Itaguaí,75682-018
+Rua 17,,,11,36,Estância Itaguaí,75682-020
+Rua 19,,,11,36,Estância Itaguaí,75682-022
+Rua 8,,,11,36,Estância Itaguaí,75682-024
+Rua 21,,,11,36,Estância Itaguaí,75682-026
+Rua 23,,,11,36,Estância Itaguaí,75682-028
+Rua 14,,,11,36,Estância Itaguaí,75682-030
+Rua 25,,,11,36,Estância Itaguaí,75682-032
+Rua 27,,,11,36,Estância Itaguaí,75682-034
+Rua 29,,,11,36,Estância Itaguaí,75682-036
+Rua 24,,,11,36,Estância Itaguaí,75682-038
+Rua 33,,,11,36,Estância Itaguaí,75682-040
+Rua 35,,,11,36,Estância Itaguaí,75682-042
+Rua 28,,,11,36,Estância Itaguaí,75682-044
+Avenida B,,,11,36,Estância Itaguaí,75682-046
+Rua 4,,,11,36,Estância Itaguaí,75682-048
+Rua 18,,,11,36,Estância Itaguaí,75682-050
+Rua 37,,,11,36,Estância Itaguaí,75682-052
+Rua 43,,,11,36,Estância Itaguaí,75682-054
+Rua 6,,,11,36,Estância Itaguaí,75682-056
+Rua 12,,,11,36,Estância Itaguaí,75682-058
+Rua 45,,,11,36,Estância Itaguaí,75682-060
+Rua 32,,,11,36,Estância Itaguaí,75682-062
+Avenida D,,,11,36,Estância Itaguaí,75682-064
+Rua 39,,,11,36,Estância Itaguaí,75682-066
+Rua 38,,,11,36,Estância Itaguaí,75682-068
+Rua 44,,,11,36,Estância Itaguaí,75682-070
+Rua 48,,,11,36,Estância Itaguaí,75682-072
+Rua 52,,,11,36,Estância Itaguaí,75682-074
+Rua 41,,,11,36,Estância Itaguaí,75682-076
+Rua 47,,,11,36,Estância Itaguaí,75682-078
+Rua 53,,,11,36,Estância Itaguaí,75682-080
+Rua 58,,,11,36,Estância Itaguaí,75682-082
+Rua 59,,,11,36,Estância Itaguaí,75682-084
+Rua 51,,,11,36,Estância Itaguaí,75682-086
+Rua 49,,,11,36,Estância Itaguaí,75682-088
+Rua 55,,,11,36,Estância Itaguaí,75682-090
+Rua 61,,,11,36,Estância Itaguaí,75682-092
+Rua 65,,,11,36,Estância Itaguaí,75682-094
+Avenida C,,,11,36,Estância Itaguaí,75682-096
+Rua 22,,,11,36,Estância Itaguaí,75682-098
+Rua 26,,,11,36,Estância Itaguaí,75682-100
+Rua 67,,,11,36,Estância Itaguaí,75682-102
+Rua 57,,,11,36,Estância Itaguaí,75682-104
+Rua 63,,,11,36,Estância Itaguaí,75682-106
+Rua 36,,,11,36,Estância Itaguaí,75682-108
+Rua 69,,,11,36,Estância Itaguaí,75682-110
+Rua 2,,,11,36,Estância Itaguaí,75682-112
+Rua 10,,,11,36,Estância Itaguaí,75682-114
+Rua 16,,,11,36,Estância Itaguaí,75682-116
+Rua 30,,,11,36,Estância Itaguaí,75682-118
+Rua 73,,,11,36,Estância Itaguaí,75682-120
+Rua 81,,,11,36,Estância Itaguaí,75682-122
+Rua 75,,,11,36,Estância Itaguaí,75682-124
+Rua 34,,,11,36,Estância Itaguaí,75682-126
+Rua 42,,,11,36,Estância Itaguaí,75682-128
+Rua 83,,,11,36,Estância Itaguaí,75682-130
+Rua 50,,,11,36,Estância Itaguaí,75682-132
+Rua 54,,,11,36,Estância Itaguaí,75682-134
+Rua 85,,,11,36,Estância Itaguaí,75682-136
+Rua 60,,,11,36,Estância Itaguaí,75682-138
+Rua 62,,,11,36,Estância Itaguaí,75682-140
+Rua 77,,,11,36,Estância Itaguaí,75682-142
+Rua 64,,,11,36,Estância Itaguaí,75682-144
+Rua 89,,,11,36,Estância Itaguaí,75682-146
+Rua 97,,,11,36,Estância Itaguaí,75682-148
+Rua 56,,,11,36,Estância Itaguaí,75682-150
+Rua 46,,,11,36,Estância Itaguaí,75682-152
+Rua 40,,,11,36,Estância Itaguaí,75682-154
+Rua 95,,,11,36,Estância Itaguaí,75682-156
+Rua 87,,,11,36,Estância Itaguaí,75682-158
+Rua 93,,,11,36,Estância Itaguaí,75682-160
+Rua 91,,,11,36,Estância Itaguaí,75682-162
+Rua 99,,,11,36,Estância Itaguaí,75682-164
+Rua 20,,,11,36,Estância Itaguaí,75682-166
+Rua 101,,,11,36,Estância Itaguaí,75682-168
+Rua 102,,,11,36,Estância Itaguaí,75682-170
+Rua 105,,,11,36,Estância Itaguaí,75682-172
+Rua 6,,,11,53,Jardim Jussara,75682-180
+Rua 21,,,11,53,Jardim Jussara,75682-182
+Rua 19,,,11,53,Jardim Jussara,75682-184
+Rua 18,,,11,53,Jardim Jussara,75682-186
+Rua 17,,,11,53,Jardim Jussara,75682-188
+Rua 16,,,11,53,Jardim Jussara,75682-190
+Rua 15,,,11,53,Jardim Jussara,75682-192
+Rua 14,,,11,53,Jardim Jussara,75682-194
+Rua 22,,,11,53,Jardim Jussara,75682-196
+Rua 23,,,11,53,Jardim Jussara,75682-198
+Rua 24,,,11,53,Jardim Jussara,75682-200
+Rua 25,,,11,53,Jardim Jussara,75682-202
+Rua João Gonzaga de Menezes,,,11,53,Jardim Jussara,75682-204
+Rua 26,,,11,53,Jardim Jussara,75682-206
+Rua 27,,,11,53,Jardim Jussara,75682-208
+Rua 13,,,11,53,Jardim Jussara,75682-210
+Rua 7,,,11,53,Jardim Jussara,75682-212
+Rua 12,,,11,53,Jardim Jussara,75682-214
+Rua 11,,,11,53,Jardim Jussara,75682-216
+Rua 10,,,11,53,Jardim Jussara,75682-218
+Rua 9,,,11,53,Jardim Jussara,75682-220
+Rua 8,,,11,53,Jardim Jussara,75682-222
+Rua 5,,,11,53,Jardim Jussara,75682-224
+Rua 4,,,11,53,Jardim Jussara,75682-226
+Rua 2,,,11,53,Jardim Jussara,75682-228
+Rua 1,,,11,53,Jardim Jussara,75682-230
+Rua 3,,,11,53,Jardim Jussara,75682-232
+Rua Embaúba,,,11,117,Residencial Vale da Serra,75682-240
+Rua do Balsaminho,,,11,117,Residencial Vale da Serra,75682-242
+Rua 11,,,11,117,Residencial Vale da Serra,75682-244
+Rua do Angico,,,11,117,Residencial Vale da Serra,75682-246
+Rua do Jatobá,,,11,117,Residencial Vale da Serra,75682-248
+Rua do Murici,,,11,117,Residencial Vale da Serra,75682-250
+Rua do Vinhático,,,11,117,Residencial Vale da Serra,75682-252
+Rua da Guapira,,,11,117,Residencial Vale da Serra,75682-254
+Rua do Barbatimão,,,11,117,Residencial Vale da Serra,75682-256
+Rua do Ipê,,,11,117,Residencial Vale da Serra,75682-258
+Rua 1,,,11,117,Residencial Vale da Serra,75682-260
+Rua Alecrim,,,11,117,Residencial Vale da Serra,75682-262
+Rua da Tiborna,,,11,117,Residencial Vale da Serra,75682-264
+Rua da Tamanqueira,,,11,117,Residencial Vale da Serra,75682-266
+Rua da Guariroba,,,11,117,Residencial Vale da Serra,75682-268
+Rua do Carvoeiro,,,11,117,Residencial Vale da Serra,75682-270
+Rua da Pitanga,,,11,117,Residencial Vale da Serra,75682-272
+Rua do Vermelhão,,,11,117,Residencial Vale da Serra,75682-274
+Rua do Angelim,,,11,117,Residencial Vale da Serra,75682-276
+Rua da Sucupira,,,11,117,Residencial Vale da Serra,75682-278
+Rua da Mangabeira,,,11,117,Residencial Vale da Serra,75682-280
+Rua do Jacarandá,,,11,117,Residencial Vale da Serra,75682-282
+Rua do Pequi,,,11,117,Residencial Vale da Serra,75682-284
+Rua da Macaúba,,,11,117,Residencial Vale da Serra,75682-286
+Rua da Figueira,,,11,117,Residencial Vale da Serra,75682-288
+Rua da Mangueira,,,11,117,Residencial Vale da Serra,75682-290
+Rua do Guatambi,,,11,117,Residencial Vale da Serra,75682-292
+Rua da Aroeira,,,11,117,Residencial Vale da Serra,75682-294
+Rua da Paineira,,,11,117,Residencial Vale da Serra,75682-296
+Rua do Araça,,,11,117,Residencial Vale da Serra,75682-298
+Rua Jequitibá,,,11,117,Residencial Vale da Serra,75682-300
+Rua do Buriti,,,11,117,Residencial Vale da Serra,75682-302
+Rua do Araticum,,,11,117,Residencial Vale da Serra,75682-304
+Rua da Candeia,,,11,117,Residencial Vale da Serra,75682-306
+Rua do Baru,,,11,117,Residencial Vale da Serra,75682-308
+Rua do Tapiriri,,,11,117,Residencial Vale da Serra,75682-310
+Rua do Saputi,,,11,117,Residencial Vale da Serra,75682-312
+Rua do Pau-terra,,,11,117,Residencial Vale da Serra,75682-314
+Rua da Copaíba,,,11,117,Residencial Vale da Serra,75682-316
+Rua do Tingui do Cerrado,,,11,117,Residencial Vale da Serra,75682-318
+Rua 34,,,11,34,Estância Boa Vista,75682-390
+Rua 33,,,11,34,Estância Boa Vista,75682-392
+Rua 1,,,11,34,Estância Boa Vista,75682-394
+Rua 25,,,11,34,Estância Boa Vista,75682-396
+Rua 32,,,11,34,Estância Boa Vista,75682-398
+Rua 31,,,11,34,Estância Boa Vista,75682-400
+Rua 30,,,11,34,Estância Boa Vista,75682-402
+Rua 29,,,11,34,Estância Boa Vista,75682-404
+Rua 28,,,11,34,Estância Boa Vista,75682-406
+Rua 27,,,11,34,Estância Boa Vista,75682-408
+Rua 24,,,11,34,Estância Boa Vista,75682-410
+Rua 21,,,11,34,Estância Boa Vista,75682-412
+Rua 23,,,11,34,Estância Boa Vista,75682-414
+Rua 22,,,11,34,Estância Boa Vista,75682-416
+Rua 20,,,11,34,Estância Boa Vista,75682-418
+Rua 11,,,11,34,Estância Boa Vista,75682-420
+Rua 16 A,,,11,34,Estância Boa Vista,75682-422
+Rua 19,,,11,34,Estância Boa Vista,75682-424
+Rua 18,,,11,34,Estância Boa Vista,75682-426
+Rua 17,,,11,34,Estância Boa Vista,75682-428
+Rua 16,,,11,34,Estância Boa Vista,75682-430
+Rua 15,,,11,34,Estância Boa Vista,75682-432
+Rua 14,,,11,34,Estância Boa Vista,75682-434
+Rua 10,,,11,34,Estância Boa Vista,75682-436
+Rua 13,,,11,34,Estância Boa Vista,75682-438
+Rua 9,,,11,34,Estância Boa Vista,75682-440
+Rua 12,,,11,34,Estância Boa Vista,75682-442
+Rua 8,,,11,34,Estância Boa Vista,75682-444
+Rua 7,,,11,34,Estância Boa Vista,75682-446
+Rua 6,,,11,34,Estância Boa Vista,75682-448
+Rua 5,,,11,34,Estância Boa Vista,75682-450
+Rua 4,,,11,34,Estância Boa Vista,75682-452
+Rua 3,,,11,34,Estância Boa Vista,75682-454
+Rua 2,,,11,34,Estância Boa Vista,75682-456
+Rua 27,,,11,142,Vila Mutirão,75682-460
+Rua 25,,,11,142,Vila Mutirão,75682-462
+Rua 21,,,11,142,Vila Mutirão,75682-464
+Rua 26,,,11,142,Vila Mutirão,75682-466
+Rua Alcides Ferreira de Morais,,,11,142,Vila Mutirão,75682-468
+Rua 24,,,11,142,Vila Mutirão,75682-470
+Rua 5,,,11,96,Residencial Jardim Brasília,75682-520
+Rua 1,,,11,96,Residencial Jardim Brasília,75682-523
+Rua 7,,,11,96,Residencial Jardim Brasília,75682-526
+Rua 2,,,11,96,Residencial Jardim Brasília,75682-529
+Rua 3,,,11,96,Residencial Jardim Brasília,75682-532
+Rua 4,,,11,96,Residencial Jardim Brasília,75682-535
+Rua 6,,,11,96,Residencial Jardim Brasília,75682-538
+Rua 8,,,11,96,Residencial Jardim Brasília,75682-541
+Rua Gabriel de Carvalho Guimarães,,,11,113,Residencial Santa Clara,75682-550
+Rua 1,,,11,113,Residencial Santa Clara,75682-553
+Rua 2,,,11,113,Residencial Santa Clara,75682-556
+Rua 8,,,11,113,Residencial Santa Clara,75682-559
+Rua 3,,,11,113,Residencial Santa Clara,75682-562
+Rua 4,,,11,113,Residencial Santa Clara,75682-565
+Rua 5,,,11,113,Residencial Santa Clara,75682-568
+Rua 6,,,11,113,Residencial Santa Clara,75682-571
+Rua 7,,,11,113,Residencial Santa Clara,75682-574
+Avenida Antônio Sanches Fernandes,,,11,137,Thermas Veraneio,75682-620
+Rua 11,,,11,137,Thermas Veraneio,75682-623
+Rua 10,,,11,137,Thermas Veraneio,75682-626
+Rua 9,,,11,137,Thermas Veraneio,75682-629
+Rua 8,,,11,137,Thermas Veraneio,75682-632
+Rua 7,,,11,137,Thermas Veraneio,75682-635
+Rua 6,,,11,137,Thermas Veraneio,75682-638
+Rua 5,,,11,137,Thermas Veraneio,75682-641
+Rua 4,,,11,137,Thermas Veraneio,75682-644
+Rua 3,,,11,137,Thermas Veraneio,75682-647
+Rua 2,,,11,137,Thermas Veraneio,75682-650
+Rua 1,,,11,137,Thermas Veraneio,75682-653
+Avenida Antônio Sanches Fernandes,,,11,95,Residencial Eldorado Park II,75682-660
+Rua 18,,,11,95,Residencial Eldorado Park II,75682-663
+Rua 17,,,11,95,Residencial Eldorado Park II,75682-666
+Rua 16,,,11,95,Residencial Eldorado Park II,75682-669
+Rua 19,,,11,95,Residencial Eldorado Park II,75682-672
+Avenida Moysés Ferreira de Rezende,,,11,95,Residencial Eldorado Park II,75682-675
+Rua 20,,,11,95,Residencial Eldorado Park II,75682-678
+Rua 21,,,11,95,Residencial Eldorado Park II,75682-681
+Rua 22,,,11,95,Residencial Eldorado Park II,75682-684
+Rua 23,,,11,95,Residencial Eldorado Park II,75682-687
+Rua 15,,,11,95,Residencial Eldorado Park II,75682-690
+Rua 1,,,11,95,Residencial Eldorado Park II,75682-693
+Rua 14,,,11,95,Residencial Eldorado Park II,75682-696
+Rua da Sede,,,11,95,Residencial Eldorado Park II,75682-699
+Rua 13,,,11,95,Residencial Eldorado Park II,75682-702
+Rua 2,,,11,95,Residencial Eldorado Park II,75682-705
+Rua 3,,,11,95,Residencial Eldorado Park II,75682-708
+Rua 4,,,11,95,Residencial Eldorado Park II,75682-711
+Rua 5,,,11,95,Residencial Eldorado Park II,75682-714
+Rua 6,,,11,95,Residencial Eldorado Park II,75682-717
+Rua 12,,,11,95,Residencial Eldorado Park II,75682-720
+Rua 7,,,11,95,Residencial Eldorado Park II,75682-723
+Rua 8,,,11,95,Residencial Eldorado Park II,75682-726
+Rua 11,,,11,95,Residencial Eldorado Park II,75682-729
+Rua 10,,,11,95,Residencial Eldorado Park II,75682-732
+Rua 9,,,11,95,Residencial Eldorado Park II,75682-735
+Rodovia GO-139,,,11,95,Residencial Eldorado Park II,75682-738
+Avenida Antônio Sanches Fernandes,,,11,94,Residencial Eldorado Park I,75682-750
+Rua do Lago,,,11,94,Residencial Eldorado Park I,75682-753
+Rua 1,,,11,94,Residencial Eldorado Park I,75682-756
+Rua 11,,,11,94,Residencial Eldorado Park I,75682-759
+Rua 10,,,11,94,Residencial Eldorado Park I,75682-762
+Rua 9,,,11,94,Residencial Eldorado Park I,75682-765
+Rua 2,,,11,94,Residencial Eldorado Park I,75682-768
+Rua 3,,,11,94,Residencial Eldorado Park I,75682-771
+Rua 4,,,11,94,Residencial Eldorado Park I,75682-774
+Rua 5,,,11,94,Residencial Eldorado Park I,75682-777
+Rua 6,,,11,94,Residencial Eldorado Park I,75682-780
+Rua 7,,,11,94,Residencial Eldorado Park I,75682-783
+Rua 8,,,11,94,Residencial Eldorado Park I,75682-786
+Rua 1,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-790
+Rua 2,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-793
+Rua 4,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-796
+Rua 5,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-799
+Rua 6,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-802
+Rua 3,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-805
+Rua B,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-808
+Rua 7,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-811
+Avenida A,,,11,30,Distrito Agroindustrial de Caldas Novas,75682-814
+Rua 1,,,11,138,Vale das Fontes Quentes,75682-870
+Rua 2,,,11,138,Vale das Fontes Quentes,75682-873
+Rua 3,,,11,138,Vale das Fontes Quentes,75682-876
+Rua 8,,,11,138,Vale das Fontes Quentes,75682-879
+Rua 7,,,11,138,Vale das Fontes Quentes,75682-882
+Rua 6,,,11,138,Vale das Fontes Quentes,75682-885
+Rua 5,,,11,138,Vale das Fontes Quentes,75682-888
+Rua 4,,,11,138,Vale das Fontes Quentes,75682-891
+Rua 9,,,11,138,Vale das Fontes Quentes,75682-894
+Rua CH 16,,,11,79,Parque das Laranjeiras,75683-000
+Rua CH 9,,,11,79,Parque das Laranjeiras,75683-003
+Rua CH 15,,,11,79,Parque das Laranjeiras,75683-006
+Rua CH 8,,,11,79,Parque das Laranjeiras,75683-009
+Rua CH 7,,,11,79,Parque das Laranjeiras,75683-012
+Avenida CH 2,,,11,79,Parque das Laranjeiras,75683-015
+Rua CH 6,,,11,79,Parque das Laranjeiras,75683-018
+Rua CH 5,,,11,79,Parque das Laranjeiras,75683-021
+Rua CH 4,,,11,79,Parque das Laranjeiras,75683-024
+Rua CH 3,,,11,79,Parque das Laranjeiras,75683-027
+Rua CH 2,,,11,79,Parque das Laranjeiras,75683-030
+Rua CH 1A,,,11,79,Parque das Laranjeiras,75683-033
+Rua CH 1,,,11,79,Parque das Laranjeiras,75683-036
+Avenida CH 1,,,11,79,Parque das Laranjeiras,75683-039
+Rua CH 14,,,11,79,Parque das Laranjeiras,75683-042
+Rua CH 13,,,11,79,Parque das Laranjeiras,75683-045
+Rua CH 12,,,11,79,Parque das Laranjeiras,75683-048
+Rua CH 11,,,11,79,Parque das Laranjeiras,75683-051
+Rua CH 10,,,11,79,Parque das Laranjeiras,75683-054
+Rua 1,,,11,54,Jardim Metodista,75684-000
+Rua 14,,,11,54,Jardim Metodista,75684-002
+Rua 13,,,11,54,Jardim Metodista,75684-004
+Rua 2,,,11,54,Jardim Metodista,75684-006
+Rua 3,,,11,54,Jardim Metodista,75684-008
+Rua 4,,,11,54,Jardim Metodista,75684-010
+Rua 12,,,11,54,Jardim Metodista,75684-012
+Rua 5,,,11,54,Jardim Metodista,75684-014
+Rua 6,,,11,54,Jardim Metodista,75684-016
+Rua 7,,,11,54,Jardim Metodista,75684-018
+Rua 8,,,11,54,Jardim Metodista,75684-020
+Rua 9,,,11,54,Jardim Metodista,75684-022
+Rua 10,,,11,54,Jardim Metodista,75684-024
+Rua 11,,,11,54,Jardim Metodista,75684-026
+Viela 3,,,11,105,Residencial Ouro Verde,75684-030
+Rua 6,,,11,105,Residencial Ouro Verde,75684-033
+Rua 1,,,11,105,Residencial Ouro Verde,75684-036
+Viela 4,,,11,105,Residencial Ouro Verde,75684-039
+Rua 2,,,11,105,Residencial Ouro Verde,75684-042
+Rua 3,,,11,105,Residencial Ouro Verde,75684-045
+Rua 3A,,,11,105,Residencial Ouro Verde,75684-046
+Viela 2,,,11,105,Residencial Ouro Verde,75684-048
+Viela 1,,,11,105,Residencial Ouro Verde,75684-051
+Rua 5,,,11,105,Residencial Ouro Verde,75684-054
+Rua 4A,,,11,105,Residencial Ouro Verde,75684-056
+Rua 4,,,11,105,Residencial Ouro Verde,75684-057
+Rua 2,,,11,62,Jardins do Lago,75684-060
+Rua 1,,,11,62,Jardins do Lago,75684-063
+Rua 5,,,11,62,Jardins do Lago,75684-066
+Rua 3,,,11,62,Jardins do Lago,75684-069
+Rua 4,,,11,62,Jardins do Lago,75684-072
+Avenida Universitária,,,11,62,Jardins do Lago,75684-075
+Avenida Universitária,,,11,90,Recanto Passagem do Lago,75684-080
+Avenida Caminho do Lago,,,11,90,Recanto Passagem do Lago,75684-083
+Rua 2,,,11,133,Setor Universitário,75684-170
+Rua 11,,,11,133,Setor Universitário,75684-173
+Rua 12,,,11,133,Setor Universitário,75684-176
+Rua 1,,,11,133,Setor Universitário,75684-179
+Rua 13,,,11,133,Setor Universitário,75684-182
+Rua 3,,,11,133,Setor Universitário,75684-185
+Rua 4,,,11,133,Setor Universitário,75684-188
+Rua 5,,,11,133,Setor Universitário,75684-191
+Rua 6,,,11,133,Setor Universitário,75684-194
+Rua 7,,,11,133,Setor Universitário,75684-197
+Rua 10,,,11,133,Setor Universitário,75684-200
+Rua 14,,,11,133,Setor Universitário,75684-203
+Rua 15,,,11,133,Setor Universitário,75684-206
+Rua 16,,,11,133,Setor Universitário,75684-209
+Rua 17,,,11,133,Setor Universitário,75684-212
+Avenida Universitária,,,11,133,Setor Universitário,75684-215
+Rua 22,,,11,133,Setor Universitário,75684-218
+Rua 23,,,11,133,Setor Universitário,75684-221
+Rua 24,,,11,133,Setor Universitário,75684-224
+Rua 25,,,11,133,Setor Universitário,75684-227
+Rua 26,,,11,133,Setor Universitário,75684-230
+Rua do Mato,,,11,133,Setor Universitário,75684-233
+Rua 18,,,11,133,Setor Universitário,75684-236
+Rua 9,,,11,133,Setor Universitário,75684-239
+Rua 8,,,11,133,Setor Universitário,75684-242
+Rua 19,,,11,133,Setor Universitário,75684-245
+Avenida Antônio Sanches Fernandes,,,11,10,Chácaras Vereda das Lajes,75684-250
+Avenida Universitária,,,11,10,Chácaras Vereda das Lajes,75684-255
+Rua VS 15,,,11,10,Chácaras Vereda das Lajes,75684-260
+Avenida Universitária,,,11,42,Estância Tamburi,75684-270
+Rua 7,,,11,42,Estância Tamburi,75684-273
+Rua 29,,,11,42,Estância Tamburi,75684-276
+Rua 22,,,11,42,Estância Tamburi,75684-279
+Rua 37,,,11,42,Estância Tamburi,75684-282
+Rua 38,,,11,42,Estância Tamburi,75684-285
+Rua 39,,,11,42,Estância Tamburi,75684-288
+Rua do Mato,,,11,42,Estância Tamburi,75684-291
+Rua 31,,,11,42,Estância Tamburi,75684-294
+Rua 30,,,11,42,Estância Tamburi,75684-297
+Rua 53,,,11,42,Estância Tamburi,75684-300
+Rua 24,,,11,42,Estância Tamburi,75684-303
+Rua 32,,,11,42,Estância Tamburi,75684-306
+Rua 33,,,11,42,Estância Tamburi,75684-309
+Rua 52,,,11,42,Estância Tamburi,75684-312
+Rua 51,,,11,42,Estância Tamburi,75684-315
+Rua 40,,,11,42,Estância Tamburi,75684-318
+Rua 27,,,11,42,Estância Tamburi,75684-321
+Rua 23,,,11,42,Estância Tamburi,75684-324
+Rua 48,,,11,42,Estância Tamburi,75684-327
+Rua 26,,,11,42,Estância Tamburi,75684-330
+Rua 49,,,11,42,Estância Tamburi,75684-333
+Rua 25,,,11,42,Estância Tamburi,75684-336
+Rua 45,,,11,42,Estância Tamburi,75684-339
+Rua 44,,,11,42,Estância Tamburi,75684-342
+Rua 35,,,11,42,Estância Tamburi,75684-345
+Rua 46,,,11,42,Estância Tamburi,75684-348
+Rua 47,,,11,42,Estância Tamburi,75684-351
+Rua 36,,,11,42,Estância Tamburi,75684-354
+Rua 36 A,,,11,42,Estância Tamburi,75684-357
+Rua 36 B,,,11,42,Estância Tamburi,75684-360
+Rua 36 D,,,11,42,Estância Tamburi,75684-363
+Rua 36 E,,,11,42,Estância Tamburi,75684-366
+Rua 47 A,,,11,42,Estância Tamburi,75684-369
+Rua 41,,,11,42,Estância Tamburi,75684-372
+Rua RG 1,,,11,110,Residencial Recanto das Garças,75684-470
+Rua RG 5,,,11,110,Residencial Recanto das Garças,75684-475
+Avenida das Garças,,,11,110,Residencial Recanto das Garças,75684-480
+Rua RG 2,,,11,110,Residencial Recanto das Garças,75684-485
+Rua RG 3,,,11,110,Residencial Recanto das Garças,75684-490
+Rua RG 4,,,11,110,Residencial Recanto das Garças,75684-495
+Avenida das Garças,,,11,7,Chácaras Aconchego,75684-500
+Rua 7,,,11,66,Mansões Aldeia do Lago,75684-520
+Rua 7A,,,11,66,Mansões Aldeia do Lago,75684-525
+Rua Wilson de Oliveira Lôbo,,,11,107,Residencial Portal do Lago,75684-530
+Rua José Freire Filho,,,11,107,Residencial Portal do Lago,75684-533
+Rua Francisco Vieira de Andrade,,,11,107,Residencial Portal do Lago,75684-536
+Rua Umbelina Miranda Alla,,,11,107,Residencial Portal do Lago,75684-539
+Rua Mariinha Gonçalves dos Reis,,,11,107,Residencial Portal do Lago,75684-542
+Rua Sérgio da Veiga Jardim,,,11,107,Residencial Portal do Lago,75684-545
+Rua Alpheu da Veiga Jardim,,,11,107,Residencial Portal do Lago,75684-548
+Avenida Portal do Lago,,,11,107,Residencial Portal do Lago,75684-551
+Rua Maria Teresa Perillo dos Reis,,,11,107,Residencial Portal do Lago,75684-554
+Rua Cristiano Borges Alla,,,11,107,Residencial Portal do Lago,75684-557
+Rua Geraldo Augusto Curado,,,11,107,Residencial Portal do Lago,75684-560
+Rua Joaquim Rosendo Pinto Filho,,,11,107,Residencial Portal do Lago,75684-563
+Rua Capitão Luís Orlando da Cunha,,,11,107,Residencial Portal do Lago,75684-566
+Rua Maria Edilla Curado Jardim,,,11,107,Residencial Portal do Lago,75684-569
+Rua Rogério da Cunha Rispoli,,,11,107,Residencial Portal do Lago,75684-572
+Rua Antônio Gilberto Rodarte Filho,,,11,107,Residencial Portal do Lago,75684-575
+Rua Nivaldo Rodrigues da Cunha,,,11,107,Residencial Portal do Lago,75684-578
+Rua Carlos de Araújo Cintra Filho,,,11,107,Residencial Portal do Lago,75684-581
+Rua Odete Alla Cunha,,,11,107,Residencial Portal do Lago,75684-584
+Rua Rui dos Reis Gonçalves,,,11,107,Residencial Portal do Lago,75684-587
+Rua Lázaro Diogo,,,11,107,Residencial Portal do Lago,75684-590
+Rua Zilda Rodrigues da Cunha,,,11,107,Residencial Portal do Lago,75684-593
+Rua Benedita de Jesus,,,11,107,Residencial Portal do Lago,75684-596
+Rua Brassil Alla,,,11,107,Residencial Portal do Lago,75684-599
+Rua Jorge Jungmann,,,11,107,Residencial Portal do Lago,75684-602
+Rua Ulisses Alla,,,11,107,Residencial Portal do Lago,75684-605
+Rua João Ozeda Alla Filho,,,11,107,Residencial Portal do Lago,75684-608
+Avenida Eronildes Curado Alla,,,11,107,Residencial Portal do Lago,75684-611
+Rua Gumercino Sarmento,,,11,107,Residencial Portal do Lago,75684-614
+Rua Pardel dos Reis,,,11,107,Residencial Portal do Lago,75684-617
+Rua Wildes Alfredo Moraes,,,11,107,Residencial Portal do Lago,75684-620
+Rua Edilberto da Veiga Jardim,,,11,107,Residencial Portal do Lago,75684-623
+Rua VS 15,,,11,118,Residencial Vale do Sol,75684-660
+Rua VS 7,,,11,118,Residencial Vale do Sol,75684-663
+Rua VS 13,,,11,118,Residencial Vale do Sol,75684-666
+Rua VS 8,,,11,118,Residencial Vale do Sol,75684-669
+Rua VS 14,,,11,118,Residencial Vale do Sol,75684-672
+Rua VS 9,,,11,118,Residencial Vale do Sol,75684-675
+Rua VS 12,,,11,118,Residencial Vale do Sol,75684-678
+Rua VS 11,,,11,118,Residencial Vale do Sol,75684-681
+Rua VS 10,,,11,118,Residencial Vale do Sol,75684-684
+Avenida Portal do Lago,,,11,118,Residencial Vale do Sol,75684-687
+Rua VS 1,,,11,118,Residencial Vale do Sol,75684-690
+Rua VS 4,,,11,118,Residencial Vale do Sol,75684-693
+Rua VS 5,,,11,118,Residencial Vale do Sol,75684-696
+Rua VS 3,,,11,118,Residencial Vale do Sol,75684-699
+Rua VS 2,,,11,118,Residencial Vale do Sol,75684-702
+Rua VS 6,,,11,118,Residencial Vale do Sol,75684-705
+Alameda da Orla,,,11,73,Noua Condomínio Náutico,75685-000
+Alameda da Brisa,,,11,73,Noua Condomínio Náutico,75685-003
+Travessa Porto Luna,,,11,73,Noua Condomínio Náutico,75685-006
+Alameda Sombra do Sol,,,11,73,Noua Condomínio Náutico,75685-009
+Alameda Peixe Azul,,,11,73,Noua Condomínio Náutico,75685-012
+Alameda Flor das Águas,,,11,73,Noua Condomínio Náutico,75685-015
+Alameda dos Corais,,,11,73,Noua Condomínio Náutico,75685-018
+Alameda Luz da Lua,,,11,73,Noua Condomínio Náutico,75685-021
+Alameda Mar da Manhã,,,11,73,Noua Condomínio Náutico,75685-024
+Alameda das Estrelas,,,11,73,Noua Condomínio Náutico,75685-027
+Alameda das Canoas,,,11,73,Noua Condomínio Náutico,75685-030
+Alameda do Arpoador,,,11,73,Noua Condomínio Náutico,75685-033
+Alameda do Veleiro,,,11,73,Noua Condomínio Náutico,75685-036
+Alameda Sal do Mar,,,11,73,Noua Condomínio Náutico,75685-039
+Alameda das Conchas,,,11,73,Noua Condomínio Náutico,75685-042
+Avenida Otacílio de Araújo Lima,,,11,99,Residencial Lago das Aroeiras,75685-090
+Rua Joaquim Gonçalves da Cunha,,,11,99,Residencial Lago das Aroeiras,75685-093
+Rua Amilcar Rodrigues da Cunha,,,11,99,Residencial Lago das Aroeiras,75685-096
+Rua Célio Azevedo,,,11,99,Residencial Lago das Aroeiras,75685-099
+Rua Odílio Batista,,,11,99,Residencial Lago das Aroeiras,75685-102
+Rua Jonas Galvão,,,11,99,Residencial Lago das Aroeiras,75685-105
+Rua João Rodrigues de Godoy,,,11,99,Residencial Lago das Aroeiras,75685-108
+Rua Oclides de Castro,,,11,99,Residencial Lago das Aroeiras,75685-111
+Rua Doutor André Ala Filho,,,11,99,Residencial Lago das Aroeiras,75685-114
+Rua João Gonçalves de Souza,,,11,99,Residencial Lago das Aroeiras,75685-117
+Rua Agostinho Gonzaga de Menezes,,,11,99,Residencial Lago das Aroeiras,75685-120
+Rua João da Cruz,,,11,99,Residencial Lago das Aroeiras,75685-123
+Rua Luiza Vicente G de Souza,,,11,99,Residencial Lago das Aroeiras,75685-126
+Rua Leolinda Gonzaga,,,11,99,Residencial Lago das Aroeiras,75685-129
+Rua Osmundo Gonzaga de Menezes Filho,,,11,99,Residencial Lago das Aroeiras,75685-132
+Rua Deolinda Gonzaga Felipe,,,11,99,Residencial Lago das Aroeiras,75685-135
+Rua Augusto Gonzaga de Menezes,,,11,99,Residencial Lago das Aroeiras,75685-138
+Rua João Gonzaga de Menezes,,,11,99,Residencial Lago das Aroeiras,75685-141
+Rua Eudoxio Gonzaga de Menezes,,,11,99,Residencial Lago das Aroeiras,75685-144
+Rua Virgílio Alves de Rezende,,,11,99,Residencial Lago das Aroeiras,75685-147
+Rua Orlando Rodrigues da Cunha Junior,,,11,99,Residencial Lago das Aroeiras,75685-150
+Rua Nelson Ribeiro Guimarães,,,11,99,Residencial Lago das Aroeiras,75685-153
+Rua João Afonso de Oliveira,,,11,99,Residencial Lago das Aroeiras,75685-156
+Rua Geralda Miranda,,,11,99,Residencial Lago das Aroeiras,75685-159
+Avenida A,,,11,102,Residencial Lago dos Ipês,75685-280
+Avenida B,,,11,102,Residencial Lago dos Ipês,75685-284
+Rua 1,,,11,102,Residencial Lago dos Ipês,75685-288
+Rua 2,,,11,102,Residencial Lago dos Ipês,75685-292
+Rua 6,,,11,102,Residencial Lago dos Ipês,75685-296
+Rua 3,,,11,102,Residencial Lago dos Ipês,75685-300
+Avenida C,,,11,102,Residencial Lago dos Ipês,75685-304
+Rua 7,,,11,102,Residencial Lago dos Ipês,75685-308
+Rua 4,,,11,102,Residencial Lago dos Ipês,75685-312
+Rua 8,,,11,102,Residencial Lago dos Ipês,75685-316
+Rua 5,,,11,102,Residencial Lago dos Ipês,75685-320
+Avenida D,,,11,102,Residencial Lago dos Ipês,75685-324
+Rua 11,,,11,37,Estância Itaici,75686-000
+Rua 14,,,11,37,Estância Itaici,75686-003
+Rua 9,,,11,37,Estância Itaici,75686-006
+Rua 13,,,11,37,Estância Itaici,75686-009
+Rua 19,,,11,37,Estância Itaici,75686-012
+Rua 16,,,11,37,Estância Itaici,75686-015
+Rua 21,,,11,37,Estância Itaici,75686-018
+Rua 23,,,11,37,Estância Itaici,75686-021
+Rua 18,,,11,37,Estância Itaici,75686-024
+Rua 20,,,11,37,Estância Itaici,75686-027
+Rua 35,,,11,37,Estância Itaici,75686-030
+Rua 22,,,11,37,Estância Itaici,75686-033
+Rua 24,,,11,37,Estância Itaici,75686-036
+Rua 26,,,11,37,Estância Itaici,75686-039
+Rua 30,,,11,37,Estância Itaici,75686-042
+Rua 33,,,11,37,Estância Itaici,75686-045
+Rua 25,,,11,37,Estância Itaici,75686-048
+Rua 17,,,11,37,Estância Itaici,75686-051
+Rua 32,,,11,37,Estância Itaici,75686-054
+Avenida A,,,11,37,Estância Itaici,75686-057
+Rua 3,,,11,37,Estância Itaici,75686-060
+Rua 28,,,11,37,Estância Itaici,75686-063
+Rua 1,,,11,37,Estância Itaici,75686-066
+Rua 2,,,11,37,Estância Itaici,75686-069
+Rua 4,,,11,37,Estância Itaici,75686-072
+Rua 6,,,11,37,Estância Itaici,75686-075
+Rua 7,,,11,37,Estância Itaici,75686-078
+Rua 34,,,11,37,Estância Itaici,75686-081
+Rua 29,,,11,37,Estância Itaici,75686-084
+Rua 36,,,11,37,Estância Itaici,75686-087
+Rua 38,,,11,37,Estância Itaici,75686-090
+Rua 40,,,11,37,Estância Itaici,75686-093
+Avenida D,,,11,37,Estância Itaici,75686-096
+Rua 8,,,11,37,Estância Itaici,75686-099
+Rua das Palmas,,,11,37,Estância Itaici,75686-100
+Avenida B,,,11,37,Estância Itaici,75686-102
+Rua 10,,,11,37,Estância Itaici,75686-105
+Rua Benjamim Alves de Almeida,,,11,37,Estância Itaici,75686-108
+Rua 5,,,11,37,Estância Itaici,75686-111
+Rua 12,,,11,37,Estância Itaici,75686-114
+Avenida Antônio Sanches Fernandes,,,11,37,Estância Itaici,75686-117
+Alameda Chico Batata,,,11,37,Estância Itaici,75686-120
+Rua 15,,,11,37,Estância Itaici,75686-123
+Avenida C,,,11,37,Estância Itaici,75686-126
+Rua 27,,,11,37,Estância Itaici,75686-129
+Rua 31,,,11,37,Estância Itaici,75686-132
+Rua A,,,11,37,Estância Itaici,75686-135
+Rua B,,,11,37,Estância Itaici,75686-138
+Rua C,,,11,37,Estância Itaici,75686-141
+Avenida D,,,11,100,Residencial Lago das Brisas,75686-150
+Rua 3,,,11,100,Residencial Lago das Brisas,75686-153
+Rua 2,,,11,100,Residencial Lago das Brisas,75686-156
+Rua 1,,,11,100,Residencial Lago das Brisas,75686-159
+Rua 10,,,11,100,Residencial Lago das Brisas,75686-162
+Rua 4,,,11,100,Residencial Lago das Brisas,75686-165
+Rua 8,,,11,100,Residencial Lago das Brisas,75686-168
+Rua 7,,,11,100,Residencial Lago das Brisas,75686-171
+Rua 6,,,11,100,Residencial Lago das Brisas,75686-174
+Rua 5,,,11,100,Residencial Lago das Brisas,75686-177
+Rua Interna 1,,,11,26,Condomínio San Francisco,75686-180
+Rua Interna 2,,,11,26,Condomínio San Francisco,75686-183
+Rua Interna 3,,,11,26,Condomínio San Francisco,75686-186
+Rua Interna 4,,,11,26,Condomínio San Francisco,75686-189
+Rua Interna 5,,,11,26,Condomínio San Francisco,75686-192
+Rua Interna 6,,,11,26,Condomínio San Francisco,75686-195
+Rua Interna 7,,,11,26,Condomínio San Francisco,75686-198
+Rua Interna 8,,,11,26,Condomínio San Francisco,75686-201
+Rua Interna 9,,,11,26,Condomínio San Francisco,75686-204
+Rua Interna 10,,,11,26,Condomínio San Francisco,75686-207
+Rua Caminho do Lago,,,11,26,Condomínio San Francisco,75686-210
+Avenida D,,,11,78,Parque das Brisas III,75686-300
+Rua 10,,,11,78,Parque das Brisas III,75686-303
+Avenida A,,,11,78,Parque das Brisas III,75686-306
+Rua 9,,,11,78,Parque das Brisas III,75686-309
+Rua 1,,,11,78,Parque das Brisas III,75686-312
+Rua 2,,,11,78,Parque das Brisas III,75686-315
+Rua 3,,,11,78,Parque das Brisas III,75686-318
+Rua 4,,,11,78,Parque das Brisas III,75686-321
+Rua 5,,,11,78,Parque das Brisas III,75686-324
+Avenida B,,,11,78,Parque das Brisas III,75686-327
+Avenida C,,,11,78,Parque das Brisas III,75686-330
+Rua 6,,,11,78,Parque das Brisas III,75686-333
+Rua 7,,,11,78,Parque das Brisas III,75686-336
+Rua 8,,,11,78,Parque das Brisas III,75686-339
+Rua 8 A,,,11,78,Parque das Brisas III,75686-342
+Rua 8 B,,,11,78,Parque das Brisas III,75686-345
+Rua 9 A,,,11,78,Parque das Brisas III,75686-348
+Rua 9,,,11,41,Estância Jequitimar,75686-360
+Avenida D,,,11,41,Estância Jequitimar,75686-363
+Rua Heliane Morais de Castro,,,11,41,Estância Jequitimar,75686-369
+Rua Hélio Lopes de Morais,,,11,41,Estância Jequitimar,75686-372
+Rua Matanira Magalhães de Castro,,,11,41,Estância Jequitimar,75686-375
+Rua Leolinda Gonzaga,,,11,41,Estância Jequitimar,75686-378
+Avenida Eni de Oliveira,,,11,41,Estância Jequitimar,75686-381
+Avenida Otacílio de Araújo Lima,,,11,41,Estância Jequitimar,75686-384
+Rua Caius Lucilius de Castro,,,11,41,Estância Jequitimar,75686-387
+Rua João Santos,,,11,41,Estância Jequitimar,75686-390
+Rua Carlos Dayrell,,,11,41,Estância Jequitimar,75686-393
+Rua Maria Joana Santos Morais,,,11,41,Estância Jequitimar,75686-396
+Rua Nacif Belchara Daher,,,11,41,Estância Jequitimar,75686-399
+Rua Átila Ribeiro de Freitas,,,11,41,Estância Jequitimar,75686-402
+Avenida Heleni Morais Silva,,,11,41,Estância Jequitimar,75686-405
+Rua Essi de Oliveira,,,11,41,Estância Jequitimar,75686-408
+Rua José Geraldo de Alencar Júnior,,,11,41,Estância Jequitimar,75686-411
+Rua Antônio Crisóstomo de Castro,,,11,41,Estância Jequitimar,75686-414
+Rua Ranor Lopes Morais,,,11,41,Estância Jequitimar,75686-417
+Rua Ascelino Lopes de Moraes,,,11,41,Estância Jequitimar,75686-420
+Rua Luiz Fernando Martins,,,11,41,Estância Jequitimar,75686-423
+Rua Nelson Ribeiro Guimarães,,,11,41,Estância Jequitimar,75686-426
+Rua Aníbal José Alves Torres,,,11,41,Estância Jequitimar,75686-429
+Rua Augusto Rodrigues da Cunha,,,11,41,Estância Jequitimar,75686-432
+Rua Odilon de Souza,,,11,41,Estância Jequitimar,75686-435
+Rua Recenvindo Rocha,,,11,41,Estância Jequitimar,75686-438
+Rua Marina de Fátima B Moura,,,11,41,Estância Jequitimar,75686-441
+Rua Amilcar Rodrigues da Cunha,,,11,41,Estância Jequitimar,75686-444
+Rua Luiz Gonzaga de Menezes,,,11,41,Estância Jequitimar,75686-447
+Rua Agostinho Gonzaga de Menezes,,,11,41,Estância Jequitimar,75686-450
+Rua Maria Joana Ala,,,11,41,Estância Jequitimar,75686-453
+Rua Doutor Carlos Inácio de Paula,,,11,41,Estância Jequitimar,75686-456
+Rua José Pinto Neto,,,11,41,Estância Jequitimar,75686-459
+Rua Felicidade Estrela de Godoy,,,11,41,Estância Jequitimar,75686-462
+Rua Custódia Rabelo,,,11,41,Estância Jequitimar,75686-465
+Rua Ilídio Lopes de Moraes,,,11,41,Estância Jequitimar,75686-468
+Rua Vera Lúcia Machado de Souza,,,11,41,Estância Jequitimar,75686-471
+Rua Filadelfo Ferreira Rispoli,,,11,41,Estância Jequitimar,75686-474
+Rua Geni Gentil Borges,,,11,41,Estância Jequitimar,75686-477
+Rua Antônio Sanches Fernandes,,,11,41,Estância Jequitimar,75686-480
+Rua Acácio Fonseca,,,11,41,Estância Jequitimar,75686-483
+Rua Luiz Tafuri,,,11,41,Estância Jequitimar,75686-486
+Rua Mário Batista Gomes,,,11,41,Estância Jequitimar,75686-489
+Rua Juliano Fettine,,,11,41,Estância Jequitimar,75686-492
+Rua Antônio Carlos Firmino,,,11,41,Estância Jequitimar,75686-495
+Rua Elmo Bailoni,,,11,41,Estância Jequitimar,75686-498
+Rua Edézio Campos Horbylon,,,11,41,Estância Jequitimar,75686-501
+Rua Germiniano Moreira dos Santos,,,11,41,Estância Jequitimar,75686-504
+Rua João Araújo Lima,,,11,41,Estância Jequitimar,75686-507
+Rua Eliete Morais Alberice,,,11,41,Estância Jequitimar,75686-510
+Rua Alda Lucinea de Castro Dayrell,,,11,41,Estância Jequitimar,75686-513
+Rua Nassim Elias Tomé,,,11,41,Estância Jequitimar,75686-516
+Rua Alfredo Afonso Silva,,,11,41,Estância Jequitimar,75686-519
+Rua Sérgio Augusto Dias de Abreu,,,11,41,Estância Jequitimar,75686-522
+Rua João José Pires,,,11,41,Estância Jequitimar,75686-525
+Rua Terezinha R Nunes,,,11,41,Estância Jequitimar,75686-528
+Rua Osmundo Gonzaga de Menezes Filho,,,11,41,Estância Jequitimar,75686-531
+Rua Hélio Antônio Crisóstomo de Castro,,,11,41,Estância Jequitimar,75686-534
+Rua Luiz Carlos Moreira dos Santos,,,11,41,Estância Jequitimar,75686-537
+Rua Alderico Bittencourt,,,11,41,Estância Jequitimar,75686-540
+Rua João da Cruz,,,11,41,Estância Jequitimar,75686-542
+Rua Jurandir Floriano da Silva,,,11,41,Estância Jequitimar,75686-543
+Rua Ana de Oliveira Gonzaga,,,11,41,Estância Jequitimar,75686-546
+Rua Alexander Ferreira Trindade,,,11,41,Estância Jequitimar,75686-549
+Rua Jesuíno Lopes de Godoy,,,11,41,Estância Jequitimar,75686-552
+Rua Gustavo José Moura,,,11,41,Estância Jequitimar,75686-555
+Rua Djanira Santos Guimarães,,,11,41,Estância Jequitimar,75686-558
+Rua Emygdio Augusto Marques,,,11,41,Estância Jequitimar,75686-561
+Rua Martinho Palmerston,,,11,41,Estância Jequitimar,75686-564
+Rua Geraldo G de Oliveira,,,11,41,Estância Jequitimar,75686-567
+Rua Bartolomeu Inocêncio de Oliveira,,,11,41,Estância Jequitimar,75686-570
+Rua Emiliano Camilo Dias,,,11,41,Estância Jequitimar,75686-573
+Rua Sebastião Lopes de Moraes,,,11,41,Estância Jequitimar,75686-576
+Rua Antônio Bernardes de Morais,,,11,41,Estância Jequitimar,75686-579
+Rua Elaine Morais M de Mendonça,,,11,41,Estância Jequitimar,75686-582
+Rua André Ala Filho,,,11,41,Estância Jequitimar,75686-585
+Rua Eudoxio Gonzaga de Menezes,,,11,41,Estância Jequitimar,75686-588
+Rua Orcalino Lopes de Moraes,,,11,41,Estância Jequitimar,75686-591
+Rua Zulmira Carneiro Silva,,,11,41,Estância Jequitimar,75686-594
+Rua Aníbal Pereira,,,11,41,Estância Jequitimar,75686-597
+Rua Jonas Lopes de Morais,,,11,41,Estância Jequitimar,75686-600
+Rua Luíza Pereira Craveiro,,,11,41,Estância Jequitimar,75686-603
+Rua Besse Borges de Godoy,,,11,41,Estância Jequitimar,75686-606
+Rua Olegário Borges de Godoy,,,11,41,Estância Jequitimar,75686-609
+Rua 6,,,11,85,Parque Thermas Caldas,75686-620
+Rua 3,,,11,85,Parque Thermas Caldas,75686-623
+Rua 2,,,11,85,Parque Thermas Caldas,75686-626
+Rua 4,,,11,85,Parque Thermas Caldas,75686-629
+Rua 5,,,11,85,Parque Thermas Caldas,75686-632
+Rua Olegário Borges de Godoy,,,11,85,Parque Thermas Caldas,75686-635
+Rua Besse Borges de Godoy,,,11,85,Parque Thermas Caldas,75686-638
+Rua das Andorinhas,,,11,85,Parque Thermas Caldas,75686-641
+Rua dos Tucanos,,,11,85,Parque Thermas Caldas,75686-644
+Avenida Caminho do Lago,,,11,85,Parque Thermas Caldas,75686-647
+Rua 1,,,11,85,Parque Thermas Caldas,75686-650
+Avenida Caminho do Lago,,,11,88,Recanto dos Amigos,75686-660
+Rua dos Pica-paus,,,11,88,Recanto dos Amigos,75686-663
+Rua dos Tucanos,,,11,88,Recanto dos Amigos,75686-666
+Rua das Andorinhas,,,11,88,Recanto dos Amigos,75686-669
+Rua dos Pardais,,,11,88,Recanto dos Amigos,75686-672
+Rua dos Sabiás,,,11,88,Recanto dos Amigos,75686-675
+Rua das Tesourinhas,,,11,88,Recanto dos Amigos,75686-678
+Rua das Gralhas,,,11,88,Recanto dos Amigos,75686-681
+Rua das Rolinhas,,,11,88,Recanto dos Amigos,75686-684
+Rua das Pombas,,,11,88,Recanto dos Amigos,75686-687
+Rua dos Bem-ti-vis,,,11,88,Recanto dos Amigos,75686-690
+Rua dos Tico-ticos,,,11,88,Recanto dos Amigos,75686-693
+Rua das Juritis,,,11,88,Recanto dos Amigos,75686-696
+Rua das Arapongas,,,11,88,Recanto dos Amigos,75686-699
+Rua dos Gaviões,,,11,88,Recanto dos Amigos,75686-702
+Rua dos Colibris,,,11,88,Recanto dos Amigos,75686-705
+Rua dos Melros,,,11,88,Recanto dos Amigos,75686-708
+Rua das Patativas,,,11,88,Recanto dos Amigos,75686-711
+Rua dos Bicudos,,,11,88,Recanto dos Amigos,75686-714
+Rua dos Canários,,,11,88,Recanto dos Amigos,75686-717
+Rua das Araras,,,11,88,Recanto dos Amigos,75686-720
+Rua das Mulatas,,,11,88,Recanto dos Amigos,75686-723
+Rua dos Periquitos,,,11,88,Recanto dos Amigos,75686-726
+Rua dos Rouxinóis,,,11,88,Recanto dos Amigos,75686-729
+Rua dos Pintassilgos,,,11,88,Recanto dos Amigos,75686-732
+Rua dos Guachos,,,11,88,Recanto dos Amigos,75686-735
+Rua dos Assanhaços,,,11,88,Recanto dos Amigos,75686-738
+Rua dos João-de-barro,,,11,88,Recanto dos Amigos,75686-741
+Rua dos Uirapurus,,,11,88,Recanto dos Amigos,75686-744
+Rua Carlos Roberto de Albuquerque Lima,,,11,81,Parque Flamboyant,75686-810
+Rua MN 11,,,11,81,Parque Flamboyant,75686-813
+Rua Pedro Veríssimo da Silva,,,11,81,Parque Flamboyant,75686-816
+Rua Eurípedes Rosa de Oliveira,,,11,81,Parque Flamboyant,75686-819
+Rua José Nilson Pereira da Silva,,,11,81,Parque Flamboyant,75686-822
+Rua Eleusa Rosa de Oliveira,,,11,81,Parque Flamboyant,75686-825
+Rua Danerson Pereira da Silva,,,11,81,Parque Flamboyant,75686-828
+Rua Geralda Silvestre da Silva,,,11,81,Parque Flamboyant,75686-831
+Rua João Ferreira Leal,,,11,81,Parque Flamboyant,75686-834
+Rua Sebastião Francilino Ribeiro,,,11,81,Parque Flamboyant,75686-837
+Rua MN 7,,,11,81,Parque Flamboyant,75686-840
+Rua 2,,,11,18,Condomínio Marinas di Caldas,75686-850
+Rua 8,,,11,18,Condomínio Marinas di Caldas,75686-853
+Rua 9,,,11,18,Condomínio Marinas di Caldas,75686-856
+Rua 10,,,11,18,Condomínio Marinas di Caldas,75686-859
+Rua 1,,,11,18,Condomínio Marinas di Caldas,75686-862
+Rua 5,,,11,18,Condomínio Marinas di Caldas,75686-865
+Rua 11,,,11,18,Condomínio Marinas di Caldas,75686-868
+Rua 12,,,11,18,Condomínio Marinas di Caldas,75686-871
+Rua 16,,,11,18,Condomínio Marinas di Caldas,75686-874
+Rua 17,,,11,18,Condomínio Marinas di Caldas,75686-877
+Rua 13,,,11,18,Condomínio Marinas di Caldas,75686-880
+Rua 15,,,11,18,Condomínio Marinas di Caldas,75686-883
+Rua 14,,,11,18,Condomínio Marinas di Caldas,75686-886
+Rua 6,,,11,18,Condomínio Marinas di Caldas,75686-889
+Rua 4,,,11,18,Condomínio Marinas di Caldas,75686-892
+Rua 3,,,11,18,Condomínio Marinas di Caldas,75686-895
+Avenida Wilmar Manzi Cavalcanti,,,11,24,Condomínio Residencial Porto Seguro,75687-000
+Rua 4,,,11,24,Condomínio Residencial Porto Seguro,75687-003
+Rua 5,,,11,24,Condomínio Residencial Porto Seguro,75687-006
+Rua 1,,,11,24,Condomínio Residencial Porto Seguro,75687-009
+Rua 2,,,11,24,Condomínio Residencial Porto Seguro,75687-012
+Rua 3,,,11,24,Condomínio Residencial Porto Seguro,75687-015
+Rua 7,,,11,24,Condomínio Residencial Porto Seguro,75687-018
+Rua 6,,,11,24,Condomínio Residencial Porto Seguro,75687-021
+Rua 8,,,11,24,Condomínio Residencial Porto Seguro,75687-024
+Rua João Gonçalves Ribeiro Filho,,,11,24,Condomínio Residencial Porto Seguro,75687-027
+Avenida Grande Lago,,,11,24,Condomínio Residencial Porto Seguro,75687-030
+Rua 10,,,11,24,Condomínio Residencial Porto Seguro,75687-033
+Rua 9,,,11,24,Condomínio Residencial Porto Seguro,75687-036
+Viela 3,,,11,24,Condomínio Residencial Porto Seguro,75687-039
+Viela 2,,,11,24,Condomínio Residencial Porto Seguro,75687-042
+Viela 1,,,11,24,Condomínio Residencial Porto Seguro,75687-045
+Avenida Caminho do Lago,,,11,51,Jardim Interlago,75687-140
+Rua JI 1,,,11,51,Jardim Interlago,75687-143
+Rua JI 3,,,11,51,Jardim Interlago,75687-146
+Rua JI 2,,,11,51,Jardim Interlago,75687-149
+Rua JI 4,,,11,51,Jardim Interlago,75687-152
+Rua JI 5,,,11,51,Jardim Interlago,75687-155
+Rua JI 6,,,11,51,Jardim Interlago,75687-158
+Rua JI 7,,,11,51,Jardim Interlago,75687-161
+Rua JI 8,,,11,51,Jardim Interlago,75687-164
+Avenida Caminho do Lago,,,11,71,Marina Enseada Residence,75687-390
+Avenida Caminho do Lago,,,11,20,Condomínio Náutico Privê das Caldas,75687-400
+Rua 3,,,11,20,Condomínio Náutico Privê das Caldas,75687-404
+Rua 1,,,11,20,Condomínio Náutico Privê das Caldas,75687-408
+Rua 2,,,11,20,Condomínio Náutico Privê das Caldas,75687-412
+Rua 8,,,11,20,Condomínio Náutico Privê das Caldas,75687-416
+Rua 5,,,11,20,Condomínio Náutico Privê das Caldas,75687-420
+Rua 7,,,11,20,Condomínio Náutico Privê das Caldas,75687-424
+Rua 4,,,11,20,Condomínio Náutico Privê das Caldas,75687-428
+Rua 6,,,11,20,Condomínio Náutico Privê das Caldas,75687-432
+Rua 29,,,11,76,Parque das Brisas I,75687-500
+Rua 33,,,11,76,Parque das Brisas I,75687-502
+Avenida das Brisas,,,11,76,Parque das Brisas I,75687-504
+Rua A 1,,,11,76,Parque das Brisas I,75687-506
+Avenida D,,,11,76,Parque das Brisas I,75687-508
+Rua B 1,,,11,76,Parque das Brisas I,75687-510
+Rua B 2,,,11,76,Parque das Brisas I,75687-512
+Rua B 3,,,11,76,Parque das Brisas I,75687-514
+Rua B 4,,,11,76,Parque das Brisas I,75687-516
+Rua B 5,,,11,76,Parque das Brisas I,75687-518
+Rua B 6,,,11,76,Parque das Brisas I,75687-520
+Rua B 7,,,11,76,Parque das Brisas I,75687-522
+Rua B 8,,,11,76,Parque das Brisas I,75687-523
+Rua A 2,,,11,76,Parque das Brisas I,75687-524
+Rua B 9,,,11,76,Parque das Brisas I,75687-526
+Rua B 10,,,11,76,Parque das Brisas I,75687-528
+Rua B 11,,,11,76,Parque das Brisas I,75687-530
+Rua B 12,,,11,76,Parque das Brisas I,75687-532
+Rua B 13,,,11,76,Parque das Brisas I,75687-534
+Rua B 14,,,11,76,Parque das Brisas I,75687-536
+Avenida Cândido Rodrigues da Cunha,,,11,132,Setor Serrinha,75687-540
+Rua Volney Pereira dos Santos,,,11,132,Setor Serrinha,75687-541
+Rua João da Cruz,,,11,132,Setor Serrinha,75687-542
+Rua 25,,,11,132,Setor Serrinha,75687-544
+Rua 27,,,11,132,Setor Serrinha,75687-546
+Rua 28,,,11,132,Setor Serrinha,75687-548
+Rua 24,,,11,132,Setor Serrinha,75687-550
+Rua 26,,,11,132,Setor Serrinha,75687-552
+Rua 23,,,11,132,Setor Serrinha,75687-554
+Avenida Ilídio Lopes de Moraes,,,11,132,Setor Serrinha,75687-556
+Rua Custódia Rabelo,,,11,132,Setor Serrinha,75687-558
+Rua 14,,,11,132,Setor Serrinha,75687-560
+Rua 15,,,11,132,Setor Serrinha,75687-562
+Rua Vera Lúcia Machado de Souza,,,11,132,Setor Serrinha,75687-564
+Rua 16,,,11,132,Setor Serrinha,75687-566
+Rua 17,,,11,132,Setor Serrinha,75687-568
+Rua Antônio Sanches Fernandes,,,11,132,Setor Serrinha,75687-570
+Rua 18,,,11,132,Setor Serrinha,75687-572
+Rua 19,,,11,132,Setor Serrinha,75687-574
+Rua 20,,,11,132,Setor Serrinha,75687-576
+Rua 22,,,11,132,Setor Serrinha,75687-578
+Rua 21,,,11,132,Setor Serrinha,75687-580
+Rua 13,,,11,132,Setor Serrinha,75687-582
+Rua 12,,,11,132,Setor Serrinha,75687-584
+Rua 11,,,11,132,Setor Serrinha,75687-586
+Avenida B,,,11,132,Setor Serrinha,75687-588
+Rua 10,,,11,132,Setor Serrinha,75687-590
+Avenida Roberto Pinheiro de Castro,,,11,132,Setor Serrinha,75687-592
+Rua 8,,,11,132,Setor Serrinha,75687-594
+Avenida A,,,11,132,Setor Serrinha,75687-596
+Rua 5,,,11,132,Setor Serrinha,75687-598
+Rua 9,,,11,132,Setor Serrinha,75687-600
+Rua 6,,,11,132,Setor Serrinha,75687-602
+Rua 7,,,11,132,Setor Serrinha,75687-604
+Avenida Araxá,,,11,132,Setor Serrinha,75687-606
+Rua 4,,,11,132,Setor Serrinha,75687-608
+Rua 3,,,11,132,Setor Serrinha,75687-610
+Rua 2,,,11,132,Setor Serrinha,75687-612
+Rua 1,,,11,132,Setor Serrinha,75687-614
+Rua 12,,,11,48,Jardim Esmeralda,75687-620
+Rua 13,,,11,48,Jardim Esmeralda,75687-624
+Rua 7,,,11,48,Jardim Esmeralda,75687-628
+Rua 4,,,11,48,Jardim Esmeralda,75687-632
+Rua 3,,,11,48,Jardim Esmeralda,75687-636
+Avenida Araxá,,,11,48,Jardim Esmeralda,75687-640
+Rua 2,,,11,48,Jardim Esmeralda,75687-644
+Rua 1,,,11,48,Jardim Esmeralda,75687-648
+Rua 8,,,11,48,Jardim Esmeralda,75687-652
+Rua 5,,,11,48,Jardim Esmeralda,75687-656
+Rua 6,,,11,48,Jardim Esmeralda,75687-660
+Rua 14,,,11,48,Jardim Esmeralda,75687-664
+Rua 15,,,11,48,Jardim Esmeralda,75687-668
+Rua 9,,,11,48,Jardim Esmeralda,75687-672
+Rua 20,,,11,48,Jardim Esmeralda,75687-676
+Rua 10,,,11,48,Jardim Esmeralda,75687-680
+Rua Doutor Manoel Caixeta Ramos,,,11,48,Jardim Esmeralda,75687-684
+Rua Antônio Antenor Rodovalho,,,11,48,Jardim Esmeralda,75687-688
+Rua Desembargador Jorge Salomão,,,11,48,Jardim Esmeralda,75687-692
+Rua Engenheiro Varderci Simão Nascimento,,,11,48,Jardim Esmeralda,75687-696
+Rua 11,,,11,48,Jardim Esmeralda,75687-700
+Rua RA 2,,,11,48,Jardim Esmeralda,75687-704
+Rua 16,,,11,48,Jardim Esmeralda,75687-708
+Rua 17,,,11,48,Jardim Esmeralda,75687-712
+Rua 18,,,11,48,Jardim Esmeralda,75687-716
+Rua 19,,,11,48,Jardim Esmeralda,75687-720
+Rua 22,,,11,61,Jardim Vitória,75687-730
+Rua Antônio Sanches Fernandes,,,11,61,Jardim Vitória,75687-733
+Rua 19,,,11,61,Jardim Vitória,75687-736
+Rua 20,,,11,61,Jardim Vitória,75687-739
+Rua 9 JE,,,11,61,Jardim Vitória,75687-742
+Rua 21,,,11,61,Jardim Vitória,75687-745
+Rua 13,,,11,61,Jardim Vitória,75687-748
+Rua 23,,,11,61,Jardim Vitória,75687-751
+Rua 6,,,11,61,Jardim Vitória,75687-754
+Rua 24,,,11,61,Jardim Vitória,75687-757
+Rua 7,,,11,61,Jardim Vitória,75687-760
+Rua 18,,,11,61,Jardim Vitória,75687-763
+Rua 14,,,11,61,Jardim Vitória,75687-766
+Rua 15,,,11,61,Jardim Vitória,75687-769
+Rua 16,,,11,61,Jardim Vitória,75687-772
+Rua 10,,,11,61,Jardim Vitória,75687-775
+Rua 12,,,11,61,Jardim Vitória,75687-778
+Rua 11,,,11,61,Jardim Vitória,75687-781
+Rua 17,,,11,61,Jardim Vitória,75687-784
+Rua 10 A,,,11,61,Jardim Vitória,75687-787
+Rua 5,,,11,61,Jardim Vitória,75687-790
+Rua 4,,,11,61,Jardim Vitória,75687-793
+Rua 3,,,11,61,Jardim Vitória,75687-796
+Rua 9 A,,,11,61,Jardim Vitória,75687-799
+Rua 2,,,11,61,Jardim Vitória,75687-802
+Rua 1,,,11,61,Jardim Vitória,75687-805
+Avenida Getúlio Vargas,,,11,61,Jardim Vitória,75687-808
+Rua MN 23,,,11,103,Residencial Morada Nobre,75687-820
+Rua MN 22,,,11,103,Residencial Morada Nobre,75687-823
+Rua 8,,,11,103,Residencial Morada Nobre,75687-826
+Rua MN 21,,,11,103,Residencial Morada Nobre,75687-829
+Rua MN 20,,,11,103,Residencial Morada Nobre,75687-832
+Rua MN 18,,,11,103,Residencial Morada Nobre,75687-835
+Rua MN 19,,,11,103,Residencial Morada Nobre,75687-838
+Avenida Getúlio Vargas,,,11,103,Residencial Morada Nobre,75687-841
+Rua MN 17,,,11,103,Residencial Morada Nobre,75687-844
+Rua MN 15,,,11,103,Residencial Morada Nobre,75687-847
+Rua MN 16,,,11,103,Residencial Morada Nobre,75687-850
+Rua MN 14,,,11,103,Residencial Morada Nobre,75687-853
+Rua MN 13,,,11,103,Residencial Morada Nobre,75687-856
+Rua MN 10,,,11,103,Residencial Morada Nobre,75687-859
+Rua MN 9,,,11,103,Residencial Morada Nobre,75687-862
+Rua MN 12,,,11,103,Residencial Morada Nobre,75687-865
+Rua MN 11,,,11,103,Residencial Morada Nobre,75687-868
+Rua MN 7,,,11,103,Residencial Morada Nobre,75687-871
+Rua MN 4,,,11,103,Residencial Morada Nobre,75687-874
+Rua MN 8,,,11,103,Residencial Morada Nobre,75687-877
+Rua MN 2,,,11,103,Residencial Morada Nobre,75687-880
+Rua MN 1,,,11,103,Residencial Morada Nobre,75687-883
+Rua MN 5,,,11,103,Residencial Morada Nobre,75687-886
+Rua MN 6,,,11,103,Residencial Morada Nobre,75687-889
+Rua MN 3,,,11,103,Residencial Morada Nobre,75687-892
+Rua 9,,,11,92,Residencial Alto da Boa Vista,75688-000
+Rua 8,,,11,92,Residencial Alto da Boa Vista,75688-003
+Rua 5,,,11,92,Residencial Alto da Boa Vista,75688-006
+Rua 7,,,11,92,Residencial Alto da Boa Vista,75688-009
+Rua 6,,,11,92,Residencial Alto da Boa Vista,75688-012
+Avenida Getúlio Vargas,,,11,92,Residencial Alto da Boa Vista,75688-015
+Rua 4,,,11,92,Residencial Alto da Boa Vista,75688-018
+Rua 3,,,11,92,Residencial Alto da Boa Vista,75688-021
+Rua 2,,,11,92,Residencial Alto da Boa Vista,75688-024
+Rua 1,,,11,92,Residencial Alto da Boa Vista,75688-027
+Rua RA 22,,,11,92,Residencial Alto da Boa Vista,75688-030
+Rua RA 2,,,11,109,Residencial Recanto das Águas,75688-040
+Rua RA 3,,,11,109,Residencial Recanto das Águas,75688-043
+Avenida Getúlio Vargas,,,11,109,Residencial Recanto das Águas,75688-046
+Rua RA 1,,,11,109,Residencial Recanto das Águas,75688-049
+Rua RA 4,,,11,109,Residencial Recanto das Águas,75688-052
+Rua RA 5,,,11,109,Residencial Recanto das Águas,75688-055
+Rua RA 6,,,11,109,Residencial Recanto das Águas,75688-058
+Rua RA 7,,,11,109,Residencial Recanto das Águas,75688-061
+Rua RA 8,,,11,109,Residencial Recanto das Águas,75688-064
+Rua RA 9,,,11,109,Residencial Recanto das Águas,75688-067
+Rua RA 10,,,11,109,Residencial Recanto das Águas,75688-070
+Rua RA 11,,,11,109,Residencial Recanto das Águas,75688-073
+Rua RA 12,,,11,109,Residencial Recanto das Águas,75688-076
+Rua RA 21,,,11,109,Residencial Recanto das Águas,75688-079
+Rua RA 20,,,11,109,Residencial Recanto das Águas,75688-082
+Rua RA 19,,,11,109,Residencial Recanto das Águas,75688-085
+Rua RA 16,,,11,109,Residencial Recanto das Águas,75688-088
+Rua RA 18,,,11,109,Residencial Recanto das Águas,75688-091
+Rua RA 17,,,11,109,Residencial Recanto das Águas,75688-094
+Rua RA 15,,,11,109,Residencial Recanto das Águas,75688-097
+Rua RA 14,,,11,109,Residencial Recanto das Águas,75688-100
+Rua RA 13,,,11,109,Residencial Recanto das Águas,75688-103
+Rua RA 22,,,11,109,Residencial Recanto das Águas,75688-106
+Rua RA 17,,,11,126,Setor Lago Sul,75688-110
+Rua Eurípedes Rosa de Oliveira,,,11,126,Setor Lago Sul,75688-113
+Rua Elias Pimenta,,,11,126,Setor Lago Sul,75688-116
+Rua Nadima Maria Gomes,,,11,126,Setor Lago Sul,75688-119
+Rua Orlando Rosa de Oliveira,,,11,126,Setor Lago Sul,75688-122
+Rua Olívia Alves Batista,,,11,126,Setor Lago Sul,75688-125
+Rua Thiago Lopes da Silva,,,11,126,Setor Lago Sul,75688-128
+Rua Maria Cândida de Jesus,,,11,126,Setor Lago Sul,75688-131
+Rua Amiro Coelho,,,11,126,Setor Lago Sul,75688-134
+Rua Manoelina Pereira,,,11,126,Setor Lago Sul,75688-137
+Rua José Porfírio de Lima,,,11,126,Setor Lago Sul,75688-140
+Rua Dorvalina Filgueira,,,11,126,Setor Lago Sul,75688-143
+Rua Teresa Araújo Lima,,,11,126,Setor Lago Sul,75688-146
+Rua Maria Isabel Albuquerque Lima,,,11,126,Setor Lago Sul,75688-149
+Rua Pedro Ivan Albuquerque Lima,,,11,126,Setor Lago Sul,75688-152
+Rua João Gonçalves,,,11,126,Setor Lago Sul,75688-155
+Rua Ana Maria Albuquerque Lima,,,11,126,Setor Lago Sul,75688-158
+Rua Magali Izuwa,,,11,126,Setor Lago Sul,75688-161
+Rua Mário Rubens Albuquerque,,,11,126,Setor Lago Sul,75688-164
+Rua Charles Corbett,,,11,126,Setor Lago Sul,75688-167
+Rua Júlio Fábio Dias,,,11,126,Setor Lago Sul,75688-170
+Rua José Alves de Almeida,,,11,126,Setor Lago Sul,75688-173
+Rua Ary Carlos Arrater,,,11,126,Setor Lago Sul,75688-176
+Rua Pedro Henrique Klug Silva,,,11,126,Setor Lago Sul,75688-179
+Rua Marrie d'Angel,,,11,126,Setor Lago Sul,75688-182
+Rua Eleusa Rosa de Oliveira,,,11,126,Setor Lago Sul,75688-185
+Rua José Nilson da Silva,,,11,126,Setor Lago Sul,75688-188
+Rua Pierre Curty,,,11,126,Setor Lago Sul,75688-191
+Rua Joana Lopes,,,11,126,Setor Lago Sul,75688-194
+Rua José Maria da Silva,,,11,126,Setor Lago Sul,75688-197
+Rua Carlos Alberto de Albuquerque Lima,,,11,126,Setor Lago Sul,75688-200
+Rua Vanessa Klug Silvestre,,,11,126,Setor Lago Sul,75688-203
+Rua Melquíades Luiz Neto,,,11,126,Setor Lago Sul,75688-206
+Rua Carlos Ramon,,,11,126,Setor Lago Sul,75688-209
+Rua Sebastião Francilino Ribeiro,,,11,126,Setor Lago Sul,75688-212
+Rua Patrícia Ramon,,,11,126,Setor Lago Sul,75688-215
+Rua Gabriel de Carvalho Guimarães,,,11,126,Setor Lago Sul,75688-218
+Rua Milena A de Carvalho Guimarães,,,11,126,Setor Lago Sul,75688-221
+Rua Lorenzo A de Carvalho Guimarães,,,11,126,Setor Lago Sul,75688-224
+Avenida Getúlio Vargas,,,11,126,Setor Lago Sul,75688-227
+Rua 1,,,11,70,Mansões Solar do Lago,75688-740
+Rua 2,,,11,70,Mansões Solar do Lago,75688-745
+Rua 1 A,,,11,70,Mansões Solar do Lago,75688-750
+Rua 2 A,,,11,70,Mansões Solar do Lago,75688-755
+Avenida Beira Lago,,,11,70,Mansões Solar do Lago,75688-760
+Avenida Península do Lago,,,11,19,Condomínio Morada do Lago,75688-780
+Avenida Tancredo Neves,,,11,15,Condomínio Barra do Pirapitinga,75688-790
+Rua 1,,,11,15,Condomínio Barra do Pirapitinga,75688-795
+Avenida Caldas Novas,,,11,4,Caldas do Oeste,75689-000
+Avenida Guarapari,,,11,4,Caldas do Oeste,75689-003
+Rua 35,,,11,4,Caldas do Oeste,75689-006
+Rua 29,,,11,4,Caldas do Oeste,75689-009
+Rua 2,,,11,4,Caldas do Oeste,75689-012
+Rua 4,,,11,4,Caldas do Oeste,75689-015
+Avenida Araxá,,,11,4,Caldas do Oeste,75689-018
+Rua 23,,,11,4,Caldas do Oeste,75689-021
+Rua 14,,,11,4,Caldas do Oeste,75689-024
+Rua 16,,,11,4,Caldas do Oeste,75689-027
+Avenida Águas da Prata,,,11,4,Caldas do Oeste,75689-030
+Rua 15,,,11,4,Caldas do Oeste,75689-033
+Rua 39,,,11,4,Caldas do Oeste,75689-036
+Avenida Lindóia,,,11,4,Caldas do Oeste,75689-039
+Rua 17,,,11,4,Caldas do Oeste,75689-042
+Rua 9,,,11,4,Caldas do Oeste,75689-045
+Rua 11,,,11,4,Caldas do Oeste,75689-048
+Rua 18,,,11,4,Caldas do Oeste,75689-051
+Rua 5,,,11,4,Caldas do Oeste,75689-054
+Rua 1,,,11,4,Caldas do Oeste,75689-057
+Rua 41,,,11,4,Caldas do Oeste,75689-060
+Rua 13,,,11,4,Caldas do Oeste,75689-063
+Avenida Poços de Caldas,,,11,4,Caldas do Oeste,75689-066
+Rua 19,,,11,4,Caldas do Oeste,75689-069
+Rua 20,,,11,4,Caldas do Oeste,75689-072
+Rua 21,,,11,4,Caldas do Oeste,75689-075
+Rua 6,,,11,4,Caldas do Oeste,75689-078
+Rua 27,,,11,4,Caldas do Oeste,75689-081
+Rua 31,,,11,4,Caldas do Oeste,75689-084
+Rua 33,,,11,4,Caldas do Oeste,75689-087
+Rua 37,,,11,4,Caldas do Oeste,75689-090
+Rua 8,,,11,4,Caldas do Oeste,75689-093
+Avenida Caxambu,,,11,4,Caldas do Oeste,75689-096
+Rua 10,,,11,4,Caldas do Oeste,75689-099
+Rua 12,,,11,4,Caldas do Oeste,75689-102
+Rua 25,,,11,4,Caldas do Oeste,75689-105
+Rua 3,,,11,4,Caldas do Oeste,75689-108
+Avenida Serra Negra,,,11,4,Caldas do Oeste,75689-111
+Avenida Guarapari,,,11,83,Parque Real,75689-120
+Rua Jovelina de Melo,,,11,83,Parque Real,75689-123
+Rua do Contorno,,,11,83,Parque Real,75689-126
+Rua Maria Tereza de Godoy,,,11,83,Parque Real,75689-129
+Rua Joaquim Rodrigues de Godoy,,,11,83,Parque Real,75689-132
+Rua Mário de Godoy,,,11,83,Parque Real,75689-135
+Rua Francisco Borges de Almeida,,,11,83,Parque Real,75689-138
+Rua Josino Bretas,,,11,83,Parque Real,75689-141
+Rua Olegário Borges de Godoy,,,11,83,Parque Real,75689-144
+Rua André Ala,,,11,83,Parque Real,75689-147
+Rua Antônio Santos,,,11,83,Parque Real,75689-150
+Rua Ascelino Lopes de Moraes,,,11,83,Parque Real,75689-153
+Rua Deputado José de Assis,,,11,83,Parque Real,75689-156
+Rua Djanira Palmerston,,,11,83,Parque Real,75689-159
+Rua Paulo Machado,,,11,83,Parque Real,75689-162
+Rua Leonel Fleury,,,11,83,Parque Real,75689-165
+Rua Doutor Emílio Fleury,,,11,83,Parque Real,75689-168
+Alameda das Paineiras,,,11,83,Parque Real,75689-171
+Rua Dona Irani Borges Santos,,,11,83,Parque Real,75689-174
+Rua Doutor Sebastião de Souza,,,11,83,Parque Real,75689-177
+Rua Dona Maria Joana Santos Morais,,,11,83,Parque Real,75689-180
+Rua Doutor Gumercindo Otero,,,11,83,Parque Real,75689-183
+Rua Samuel de Souza,,,11,83,Parque Real,75689-186
+Rua Luiz Gonzaga de Menezes,,,11,83,Parque Real,75689-189
+Rua Doutor Olavo de Castro,,,11,83,Parque Real,75689-192
+Rua José Luiz de Medeiros,,,11,83,Parque Real,75689-195
+Rua do Bicudo,,,11,83,Parque Real,75689-198
+Rua Fernando Gonzaga,,,11,83,Parque Real,75689-201
+Avenida Bento de Godoy Neto,,,11,121,Santa Efigênia,75689-210
+Rua Recenvindo Rocha,,,11,121,Santa Efigênia,75689-213
+Rua Antônio José Pinto Neto,,,11,121,Santa Efigênia,75689-216
+Rua Aníbal Pereira,,,11,121,Santa Efigênia,75689-219
+Rua Joaquim Firmino dos Reis,,,11,121,Santa Efigênia,75689-222
+Rua Valdivina Divina Ribeiro,,,11,121,Santa Efigênia,75689-225
+Rua Zacarias Martins de Lima,,,11,121,Santa Efigênia,75689-228
+Rua João Silvestre de Moraes,,,11,121,Santa Efigênia,75689-231
+Rua José Calzavara,,,11,121,Santa Efigênia,75689-234
+Rua João Araújo Lima,,,11,121,Santa Efigênia,75689-237
+Rua Eudoxio Gonzaga de Menezes,,,11,121,Santa Efigênia,75689-240
+Rua Otacílio de Araújo Lima,,,11,121,Santa Efigênia,75689-243
+Rua João da Cruz,,,11,121,Santa Efigênia,75689-246
+Rua João Silvestre,,,11,121,Santa Efigênia,75689-249
+Rua Zulmira Carneiro,,,11,121,Santa Efigênia,75689-252
+Rua Luiz de Brito,,,11,121,Santa Efigênia,75689-255
+Rua João de Brito,,,11,121,Santa Efigênia,75689-258
+Rua Filadelfo Ferreira Rispoli,,,11,121,Santa Efigênia,75689-261
+Rua José Monteiro de Carvalho,,,11,121,Santa Efigênia,75689-264
+Rua Anaídes de Brito,,,11,121,Santa Efigênia,75689-267
+Rua Ladislau Hon,,,11,121,Santa Efigênia,75689-270
+Rua Doutor Jair Pimenta Carneiro,,,11,121,Santa Efigênia,75689-273
+Rua Moacir Diniz,,,11,121,Santa Efigênia,75689-276
+Rua Gilberto dos Reis Junqueira,,,11,121,Santa Efigênia,75689-279
+Rua Archimedes de Melo,,,11,121,Santa Efigênia,75689-282
+Rua Edson Pires dos Santos,,,11,121,Santa Efigênia,75689-285
+Rua Américo Ribeiro de Lima,,,11,121,Santa Efigênia,75689-288
+Rua Geferson Aragão Júnior,,,11,121,Santa Efigênia,75689-291
+Rua Cesária Rosa da Silva,,,11,121,Santa Efigênia,75689-294
+Rua Antônio Antenor Rodovalho,,,11,121,Santa Efigênia,75689-297
+Rua Dona Maria Joana Santos Morais,,,11,122,Setor Aeroporto,75689-330
+Rua Doutor Isalto,,,11,122,Setor Aeroporto,75689-332
+Rua A 3,,,11,122,Setor Aeroporto,75689-334
+Rua A 5,,,11,122,Setor Aeroporto,75689-336
+Rua A 4,,,11,122,Setor Aeroporto,75689-338
+Rua A 2,,,11,122,Setor Aeroporto,75689-340
+Rua A 1,,,11,122,Setor Aeroporto,75689-342
+Alameda das Paineiras,,,11,122,Setor Aeroporto,75689-344
+Rua A 6,,,11,122,Setor Aeroporto,75689-346
+Rua A 7,,,11,122,Setor Aeroporto,75689-348
+Rua A 8,,,11,122,Setor Aeroporto,75689-350
+Avenida Coronel Bento de Godoy,,,11,122,Setor Aeroporto,75689-352
+Rua Eduardo Godoy de Freitas,,,11,122,Setor Aeroporto,75689-354
+Rua A 12,,,11,122,Setor Aeroporto,75689-356
+Rua A 13,,,11,122,Setor Aeroporto,75689-358
+Rua A 14,,,11,122,Setor Aeroporto,75689-360
+Rua A 15,,,11,122,Setor Aeroporto,75689-362
+Rua A 16,,,11,122,Setor Aeroporto,75689-364
+Rua A 17,,,11,122,Setor Aeroporto,75689-366
+Rua A 18,,,11,122,Setor Aeroporto,75689-368
+Rua A 19,,,11,122,Setor Aeroporto,75689-370
+Rua A 20,,,11,122,Setor Aeroporto,75689-372
+Rua A 21,,,11,122,Setor Aeroporto,75689-374
+Rua A 12,,,11,124,Setor Bela Vista,75689-420
+Avenida Coronel Bento de Godoy,,,11,124,Setor Bela Vista,75689-422
+Rua Eduardo Godoy de Freitas,,,11,124,Setor Bela Vista,75689-424
+Rua BV 1,,,11,124,Setor Bela Vista,75689-426
+Rua A 19,,,11,124,Setor Bela Vista,75689-428
+Rua A 21,,,11,124,Setor Bela Vista,75689-430
+Rua BV 2,,,11,124,Setor Bela Vista,75689-432
+Rua BV 15,,,11,124,Setor Bela Vista,75689-434
+Avenida Marginal Leste,,,11,124,Setor Bela Vista,75689-436
+Rua BV 3,,,11,124,Setor Bela Vista,75689-438
+Rua BV 4,,,11,124,Setor Bela Vista,75689-440
+Rua BV 5,,,11,124,Setor Bela Vista,75689-442
+Rua BV 6,,,11,124,Setor Bela Vista,75689-444
+Rua BV 7,,,11,124,Setor Bela Vista,75689-446
+Rua BV 8,,,11,124,Setor Bela Vista,75689-448
+Rua BV 9,,,11,124,Setor Bela Vista,75689-450
+Rua BV 10,,,11,124,Setor Bela Vista,75689-452
+Rua BV 11,,,11,124,Setor Bela Vista,75689-454
+Rua BV 12,,,11,124,Setor Bela Vista,75689-456
+Rua BV 13,,,11,124,Setor Bela Vista,75689-458
+Rua BV 14,,,11,124,Setor Bela Vista,75689-460
+Rua BV 16,,,11,124,Setor Bela Vista,75689-462
+Rua BV 22,,,11,124,Setor Bela Vista,75689-464
+Rua BV 21,,,11,124,Setor Bela Vista,75689-466
+Rua BV 20,,,11,124,Setor Bela Vista,75689-468
+Rua BV 19,,,11,124,Setor Bela Vista,75689-470
+Rua BV 18,,,11,124,Setor Bela Vista,75689-472
+Rua BV 17,,,11,124,Setor Bela Vista,75689-474
+Rua JPC 20,,,11,124,Setor Bela Vista,75689-476
+Alameda Ribeirão das Caldas,,,11,57,Jardim Privê das Caldas,75689-480
+Rua JPC 20,,,11,57,Jardim Privê das Caldas,75689-482
+Rua JPC 26,,,11,57,Jardim Privê das Caldas,75689-484
+Rua 01,,,11,57,Jardim Privê das Caldas,75689-485
+Rua JPC 25,,,11,57,Jardim Privê das Caldas,75689-486
+Rua 02,,,11,57,Jardim Privê das Caldas,75689-487
+Rua JPC 24A,,,11,57,Jardim Privê das Caldas,75689-488
+Rua JPC 24B,,,11,57,Jardim Privê das Caldas,75689-490
+Rua JPC 1,,,11,57,Jardim Privê das Caldas,75689-492
+Avenida Marginal Leste,,,11,57,Jardim Privê das Caldas,75689-494
+Rua JPC 24,,,11,57,Jardim Privê das Caldas,75689-496
+Rua JPC 23,,,11,57,Jardim Privê das Caldas,75689-498
+Rua JPC 22,,,11,57,Jardim Privê das Caldas,75689-500
+Avenida das Palmeiras,,,11,57,Jardim Privê das Caldas,75689-502
+Rua JPC 21,,,11,57,Jardim Privê das Caldas,75689-504
+Avenida Coronel Bento de Godoy,,,11,57,Jardim Privê das Caldas,75689-506
+Rua JPC 2,,,11,57,Jardim Privê das Caldas,75689-508
+Rua JPC 13,,,11,57,Jardim Privê das Caldas,75689-510
+Rua JPC 14,,,11,57,Jardim Privê das Caldas,75689-512
+Rua JPC 15,,,11,57,Jardim Privê das Caldas,75689-514
+Rua JPC 16,,,11,57,Jardim Privê das Caldas,75689-516
+Rua JPC 17,,,11,57,Jardim Privê das Caldas,75689-518
+Rua JPC 18,,,11,57,Jardim Privê das Caldas,75689-520
+Rua Interna,,,11,57,Jardim Privê das Caldas,75689-522
+Rua JPC 19,,,11,57,Jardim Privê das Caldas,75689-524
+Avenida das Brisas,,,11,57,Jardim Privê das Caldas,75689-526
+Avenida Ipameri,,,11,57,Jardim Privê das Caldas,75689-528
+Rua JPC 12,,,11,57,Jardim Privê das Caldas,75689-530
+Rua JPC 3,,,11,57,Jardim Privê das Caldas,75689-532
+Rua JPC 4,,,11,57,Jardim Privê das Caldas,75689-534
+Rua JPC 5,,,11,57,Jardim Privê das Caldas,75689-536
+Rua JPC 20B,,,11,57,Jardim Privê das Caldas,75689-538
+Avenida Saint Hilarie,,,11,57,Jardim Privê das Caldas,75689-540
+Praça das Flores,,,11,57,Jardim Privê das Caldas,75689-541
+Rua JPC 20A,,,11,57,Jardim Privê das Caldas,75689-542
+Rua JPC 20C,,,11,57,Jardim Privê das Caldas,75689-544
+Rua JPC 20D,,,11,57,Jardim Privê das Caldas,75689-546
+Rua JPC 6,,,11,57,Jardim Privê das Caldas,75689-548
+Rua JPC 20E,,,11,57,Jardim Privê das Caldas,75689-550
+Rua JPC 20F,,,11,57,Jardim Privê das Caldas,75689-552
+Rua JPC 20G,,,11,57,Jardim Privê das Caldas,75689-554
+Rua JPC 7,,,11,57,Jardim Privê das Caldas,75689-556
+Rua JPC 8,,,11,57,Jardim Privê das Caldas,75689-558
+Rua JPC 9,,,11,57,Jardim Privê das Caldas,75689-560
+Rua JPC 13A,,,11,57,Jardim Privê das Caldas,75689-562
+Rua JPC 10,,,11,57,Jardim Privê das Caldas,75689-564
+Rua JPC 11,,,11,57,Jardim Privê das Caldas,75689-566
+Rua JPC 11A,,,11,57,Jardim Privê das Caldas,75689-568
+Rua JPC 13B,,,11,57,Jardim Privê das Caldas,75689-570
+Rua JPC 13C,,,11,57,Jardim Privê das Caldas,75689-572
+Rua JPC 11B,,,11,57,Jardim Privê das Caldas,75689-574
+Rua JPC 11C,,,11,57,Jardim Privê das Caldas,75689-576
+Rua JPC 11D,,,11,57,Jardim Privê das Caldas,75689-578
+Rua JPC 11E,,,11,57,Jardim Privê das Caldas,75689-580
+Rua JPC 11F,,,11,57,Jardim Privê das Caldas,75689-582
+Rua JPC 11G,,,11,57,Jardim Privê das Caldas,75689-584
+Rua JPC 27,,,11,57,Jardim Privê das Caldas,75689-586
+Rua JPC 28,,,11,57,Jardim Privê das Caldas,75689-588
+Rua JPC 29,,,11,57,Jardim Privê das Caldas,75689-590
+Rua JPC 30,,,11,57,Jardim Privê das Caldas,75689-592
+Rua JPC 31,,,11,57,Jardim Privê das Caldas,75689-594
+Rua JPC 32,,,11,57,Jardim Privê das Caldas,75689-596
+Rua JPC 27A,,,11,57,Jardim Privê das Caldas,75689-598
+Rua Américo Ribeiro de Lima,,,11,60,Jardim Tangará,75689-600
+Rua JT 10,,,11,60,Jardim Tangará,75689-603
+Rua JT 7,,,11,60,Jardim Tangará,75689-606
+Rua JT 6,,,11,60,Jardim Tangará,75689-609
+Rua JT 5,,,11,60,Jardim Tangará,75689-612
+Rua JT 4,,,11,60,Jardim Tangará,75689-615
+Rua JT 3,,,11,60,Jardim Tangará,75689-618
+Rua JT 2,,,11,60,Jardim Tangará,75689-621
+Rua JT 1,,,11,60,Jardim Tangará,75689-624
+Rua Antônio Antenor Rodovalho,,,11,60,Jardim Tangará,75689-627
+Rua Desembargador Jorge Salomão,,,11,60,Jardim Tangará,75689-630
+Rua Engenheiro Varderci Simão Nascimento,,,11,60,Jardim Tangará,75689-633
+Rua Doutor Wellington Seabra Guimarães,,,11,60,Jardim Tangará,75689-636
+Rua José Roriz de Paiva,,,11,60,Jardim Tangará,75689-639
+Rua JT 8,,,11,60,Jardim Tangará,75689-642
+Rua JT 9,,,11,60,Jardim Tangará,75689-645
+Avenida Mirian Caixeta Bandeira,,,11,60,Jardim Tangará,75689-648
+Rua Amauri Gerim de Amorim,,,11,60,Jardim Tangará,75689-651
+Rua Achiles de Pina Filho,,,11,60,Jardim Tangará,75689-654
+Rua Carlos de Pina Junior,,,11,60,Jardim Tangará,75689-657
+Rua Doutor Oton Teles de Oliveira,,,11,60,Jardim Tangará,75689-660
+Rua JT 11,,,11,60,Jardim Tangará,75689-663
+Rua CL 2,,,11,60,Jardim Tangará,75689-666
+Rua Eladir Pimentel,,,11,84,Parque Residencial Holliday,75689-670
+Rua Olímpio de Oliveira,,,11,84,Parque Residencial Holliday,75689-672
+Rua Joaquim Firmino dos Reis,,,11,84,Parque Residencial Holliday,75689-674
+Rua Doutor Manoel Caixeta Ramos,,,11,84,Parque Residencial Holliday,75689-676
+Avenida Antônio Augusto Bandeira,,,11,84,Parque Residencial Holliday,75689-678
+Rua Antônio Antenor Rodovalho,,,11,84,Parque Residencial Holliday,75689-680
+Rua Desembargador Jorge Salomão,,,11,84,Parque Residencial Holliday,75689-682
+Rua Engenheiro Varderci Simão Nascimento,,,11,84,Parque Residencial Holliday,75689-684
+Rua Doutor Wellington Seabra Guimarães,,,11,84,Parque Residencial Holliday,75689-686
+Rua José Roriz de Paiva,,,11,84,Parque Residencial Holliday,75689-688
+Avenida Mirian Caixeta Bandeira,,,11,84,Parque Residencial Holliday,75689-690
+Rua Amauri Gerim de Amorim,,,11,84,Parque Residencial Holliday,75689-692
+Rua Achiles de Pina Filho,,,11,84,Parque Residencial Holliday,75689-694
+Rua Carlos de Pina Junior,,,11,84,Parque Residencial Holliday,75689-696
+Rua Doutor Oton Teles de Oliveira,,,11,84,Parque Residencial Holliday,75689-698
+Rua Ivon da Cunha Bastos,,,11,84,Parque Residencial Holliday,75689-700
+Rua Orlando Rodrigues da Cunha,,,11,84,Parque Residencial Holliday,75689-702
+Rua Teófilo Venâncio de Faria,,,11,84,Parque Residencial Holliday,75689-704
+Rua Geny Rodrigues de Souza,,,11,84,Parque Residencial Holliday,75689-706
+Rua Sinhozinho,,,11,84,Parque Residencial Holliday,75689-708
+Rua CL 17,,,11,93,Residencial Caminho do Lago,75689-710
+Rua Geny Rodrigues de Souza,,,11,93,Residencial Caminho do Lago,75689-712
+Rua CL 10,,,11,93,Residencial Caminho do Lago,75689-714
+Rua CL 4,,,11,93,Residencial Caminho do Lago,75689-716
+Avenida Antônio Augusto Bandeira,,,11,93,Residencial Caminho do Lago,75689-718
+Rua CL 11,,,11,93,Residencial Caminho do Lago,75689-720
+Rua CL 9,,,11,93,Residencial Caminho do Lago,75689-722
+Rua CL 8,,,11,93,Residencial Caminho do Lago,75689-724
+Rua CL 7,,,11,93,Residencial Caminho do Lago,75689-726
+Rua CL 5,,,11,93,Residencial Caminho do Lago,75689-728
+Rua CL 6,,,11,93,Residencial Caminho do Lago,75689-730
+Rua CL 3,,,11,93,Residencial Caminho do Lago,75689-732
+Rua CL 2,,,11,93,Residencial Caminho do Lago,75689-734
+Rua CL 1,,,11,93,Residencial Caminho do Lago,75689-736
+Rua CL 12,,,11,93,Residencial Caminho do Lago,75689-738
+Avenida Central,,,11,93,Residencial Caminho do Lago,75689-740
+Rua CL 13,,,11,93,Residencial Caminho do Lago,75689-742
+Avenida Caminho do Lago,,,11,93,Residencial Caminho do Lago,75689-744
+Rua CL 15,,,11,93,Residencial Caminho do Lago,75689-746
+Rua CL 18,,,11,93,Residencial Caminho do Lago,75689-748
+Rua CL 16,,,11,93,Residencial Caminho do Lago,75689-750
+Rua CL 14,,,11,93,Residencial Caminho do Lago,75689-752
+Rua CL 19,,,11,93,Residencial Caminho do Lago,75689-754
+Rua CL 21,,,11,93,Residencial Caminho do Lago,75689-756
+Rua CL 20,,,11,93,Residencial Caminho do Lago,75689-758
+Rua CL 20,,,11,111,Residencial Recanto de Caldas,75689-760
+Rua CL 21,,,11,111,Residencial Recanto de Caldas,75689-762
+Rua RC 1,,,11,111,Residencial Recanto de Caldas,75689-764
+Rua CL 11,,,11,111,Residencial Recanto de Caldas,75689-766
+Rua RC 2,,,11,111,Residencial Recanto de Caldas,75689-768
+Rua RC 3,,,11,111,Residencial Recanto de Caldas,75689-770
+Rua RC 5,,,11,111,Residencial Recanto de Caldas,75689-772
+Rua RC 4,,,11,111,Residencial Recanto de Caldas,75689-774
+Avenida Ayrton Senna da Silva,,,11,111,Residencial Recanto de Caldas,75689-776
+Rua RC 7,,,11,111,Residencial Recanto de Caldas,75689-778
+Rua RC 6,,,11,111,Residencial Recanto de Caldas,75689-780
+Rua RC 8,,,11,111,Residencial Recanto de Caldas,75689-782
+Rua RC 9,,,11,111,Residencial Recanto de Caldas,75689-784
+Rua RC 11A,,,11,111,Residencial Recanto de Caldas,75689-786
+Rua RC 11,,,11,111,Residencial Recanto de Caldas,75689-788
+Rua RC 10A,,,11,111,Residencial Recanto de Caldas,75689-790
+Rua RC 10,,,11,111,Residencial Recanto de Caldas,75689-792
+Rua RC 13,,,11,111,Residencial Recanto de Caldas,75689-794
+Rua RC 12,,,11,111,Residencial Recanto de Caldas,75689-796
+Rua RC 14,,,11,111,Residencial Recanto de Caldas,75689-798
+Rua RC 15,,,11,111,Residencial Recanto de Caldas,75689-800
+Rua RC 16,,,11,111,Residencial Recanto de Caldas,75689-802
+Rua RC 17,,,11,111,Residencial Recanto de Caldas,75689-804
+Rua RC 18,,,11,111,Residencial Recanto de Caldas,75689-806
+Avenida JK,,,11,111,Residencial Recanto de Caldas,75689-808
+Rua RC 21,,,11,111,Residencial Recanto de Caldas,75689-810
+Rua RC 23,,,11,111,Residencial Recanto de Caldas,75689-812
+Rua RC 24,,,11,111,Residencial Recanto de Caldas,75689-814
+Rua RC 25,,,11,111,Residencial Recanto de Caldas,75689-816
+Rua RC 27,,,11,111,Residencial Recanto de Caldas,75689-818
+Rua RC 28,,,11,111,Residencial Recanto de Caldas,75689-820
+Rua RC 31,,,11,111,Residencial Recanto de Caldas,75689-822
+Rua RC 26,,,11,111,Residencial Recanto de Caldas,75689-824
+Rua RC 29,,,11,111,Residencial Recanto de Caldas,75689-826
+Rua RC 30,,,11,111,Residencial Recanto de Caldas,75689-828
+Avenida Tancredo Neves,,,11,111,Residencial Recanto de Caldas,75689-830
+Rua RC 22,,,11,111,Residencial Recanto de Caldas,75689-832
+Rua RC 32,,,11,111,Residencial Recanto de Caldas,75689-834
+Rua RC 33,,,11,111,Residencial Recanto de Caldas,75689-836
+Rua RC 20,,,11,111,Residencial Recanto de Caldas,75689-838
+Rua RC 19,,,11,111,Residencial Recanto de Caldas,75689-840
+Rua SM 20,,,11,27,Condomínio Sonho Meu,75689-850
+Rua SM 22,,,11,27,Condomínio Sonho Meu,75689-853
+Rua SM 23,,,11,27,Condomínio Sonho Meu,75689-856
+Rua SM 27,,,11,27,Condomínio Sonho Meu,75689-859
+Rua SM 24,,,11,27,Condomínio Sonho Meu,75689-862
+Rua SM 25,,,11,27,Condomínio Sonho Meu,75689-865
+Rua SM 26,,,11,27,Condomínio Sonho Meu,75689-868
+Rua SM 21,,,11,27,Condomínio Sonho Meu,75689-871
+Rua SM 19,,,11,27,Condomínio Sonho Meu,75689-874
+Rua SM 18,,,11,27,Condomínio Sonho Meu,75689-877
+Rua SM 17,,,11,27,Condomínio Sonho Meu,75689-880
+Rua SM 16,,,11,27,Condomínio Sonho Meu,75689-883
+Rua RC 31,,,11,27,Condomínio Sonho Meu,75689-886
+Avenida JK,,,11,27,Condomínio Sonho Meu,75689-889
+Rua SM 1,,,11,27,Condomínio Sonho Meu,75689-892
+Rua RC 31,,,11,116,Residencial Sonho Meu,75690-001
+Rua SM 1,,,11,116,Residencial Sonho Meu,75690-004
+Rua SM 15,,,11,116,Residencial Sonho Meu,75690-007
+Rua SM 14,,,11,116,Residencial Sonho Meu,75690-010
+Rua SM 13,,,11,116,Residencial Sonho Meu,75690-013
+Rua SM 11,,,11,116,Residencial Sonho Meu,75690-016
+Avenida JK,,,11,116,Residencial Sonho Meu,75690-019
+Rua SM 2,,,11,116,Residencial Sonho Meu,75690-022
+Rua SM 3,,,11,116,Residencial Sonho Meu,75690-025
+Rua SM 4,,,11,116,Residencial Sonho Meu,75690-028
+Rua SM 5,,,11,116,Residencial Sonho Meu,75690-031
+Rua SM 6,,,11,116,Residencial Sonho Meu,75690-034
+Rua SM 7,,,11,116,Residencial Sonho Meu,75690-037
+Rua SM 8,,,11,116,Residencial Sonho Meu,75690-040
+Rua SM 9,,,11,116,Residencial Sonho Meu,75690-043
+Rua SM 10,,,11,116,Residencial Sonho Meu,75690-046
+Rua SM 12,,,11,116,Residencial Sonho Meu,75690-049
+Alameda Sonho Meu,,,11,116,Residencial Sonho Meu,75690-052
+Avenida JK,,,11,119,Residencial Vera Cruz,75690-060
+Avenida C,,,11,119,Residencial Vera Cruz,75690-062
+Rua C 1,,,11,119,Residencial Vera Cruz,75690-064
+Avenida A,,,11,119,Residencial Vera Cruz,75690-066
+Rua A 1,,,11,119,Residencial Vera Cruz,75690-068
+Rua A 2,,,11,119,Residencial Vera Cruz,75690-070
+Rua A 3,,,11,119,Residencial Vera Cruz,75690-072
+Rua A 5,,,11,119,Residencial Vera Cruz,75690-074
+Rua A 6,,,11,119,Residencial Vera Cruz,75690-076
+Rua A 8,,,11,119,Residencial Vera Cruz,75690-078
+Rua A 9,,,11,119,Residencial Vera Cruz,75690-080
+Rua A 10,,,11,119,Residencial Vera Cruz,75690-082
+Rua A 11,,,11,119,Residencial Vera Cruz,75690-084
+Rua A 12,,,11,119,Residencial Vera Cruz,75690-086
+Rua A 13,,,11,119,Residencial Vera Cruz,75690-088
+Rua A 14,,,11,119,Residencial Vera Cruz,75690-090
+Rua A 15,,,11,119,Residencial Vera Cruz,75690-092
+Rua A 16,,,11,119,Residencial Vera Cruz,75690-094
+Rua A 17,,,11,119,Residencial Vera Cruz,75690-096
+Rua B,,,11,119,Residencial Vera Cruz,75690-098
+Rua B 4,,,11,119,Residencial Vera Cruz,75690-100
+Rua A 4,,,11,119,Residencial Vera Cruz,75690-102
+Avenida D,,,11,119,Residencial Vera Cruz,75690-104
+Rua B 3,,,11,119,Residencial Vera Cruz,75690-106
+Rua B 2,,,11,119,Residencial Vera Cruz,75690-108
+Rua A 7,,,11,119,Residencial Vera Cruz,75690-110
+Rua B,,,11,101,Residencial Lago de Cristal,75690-120
+Rua RC 8,,,11,101,Residencial Lago de Cristal,75690-122
+Rua 1,,,11,101,Residencial Lago de Cristal,75690-124
+Rua 16,,,11,101,Residencial Lago de Cristal,75690-126
+Rua 15,,,11,101,Residencial Lago de Cristal,75690-128
+Rua 17,,,11,101,Residencial Lago de Cristal,75690-130
+Rua 2,,,11,101,Residencial Lago de Cristal,75690-132
+Rua 3,,,11,101,Residencial Lago de Cristal,75690-134
+Rua 14,,,11,101,Residencial Lago de Cristal,75690-136
+Rua 4,,,11,101,Residencial Lago de Cristal,75690-138
+Rua 5,,,11,101,Residencial Lago de Cristal,75690-140
+Avenida A,,,11,101,Residencial Lago de Cristal,75690-142
+Rua 7,,,11,101,Residencial Lago de Cristal,75690-144
+Rua 8,,,11,101,Residencial Lago de Cristal,75690-146
+Rua 9,,,11,101,Residencial Lago de Cristal,75690-148
+Rua 10,,,11,101,Residencial Lago de Cristal,75690-150
+Rua 13,,,11,101,Residencial Lago de Cristal,75690-152
+Rua 12,,,11,101,Residencial Lago de Cristal,75690-154
+Rua 6,,,11,101,Residencial Lago de Cristal,75690-156
+Rua 11,,,11,101,Residencial Lago de Cristal,75690-158
+Rua 18,,,11,101,Residencial Lago de Cristal,75690-160
+Rua 19,,,11,101,Residencial Lago de Cristal,75690-162
+Rua 27,,,11,101,Residencial Lago de Cristal,75690-164
+Rua 26,,,11,101,Residencial Lago de Cristal,75690-166
+Rua 20,,,11,101,Residencial Lago de Cristal,75690-168
+Rua 21,,,11,101,Residencial Lago de Cristal,75690-170
+Rua 22,,,11,101,Residencial Lago de Cristal,75690-172
+Rua 25,,,11,101,Residencial Lago de Cristal,75690-174
+Rua 23,,,11,101,Residencial Lago de Cristal,75690-176
+Rua 24,,,11,101,Residencial Lago de Cristal,75690-178
+Rua 28,,,11,101,Residencial Lago de Cristal,75690-180
+Rua 29,,,11,101,Residencial Lago de Cristal,75690-182
+Rua 30,,,11,101,Residencial Lago de Cristal,75690-184
+Rua 31,,,11,101,Residencial Lago de Cristal,75690-186
+Rua 32,,,11,101,Residencial Lago de Cristal,75690-188
+Rua 36,,,11,101,Residencial Lago de Cristal,75690-190
+Rua 33,,,11,101,Residencial Lago de Cristal,75690-192
+Rua 34,,,11,101,Residencial Lago de Cristal,75690-194
+Rua 35,,,11,101,Residencial Lago de Cristal,75690-196
+Rua 37,,,11,101,Residencial Lago de Cristal,75690-198
+Avenida A,,,11,114,Residencial Santa Cruz,75690-200
+Rua 17,,,11,114,Residencial Santa Cruz,75690-203
+Rua 7,,,11,114,Residencial Santa Cruz,75690-206
+Rua 8,,,11,114,Residencial Santa Cruz,75690-209
+Rua 5,,,11,114,Residencial Santa Cruz,75690-212
+Rua 9,,,11,114,Residencial Santa Cruz,75690-214
+Rua 6,,,11,114,Residencial Santa Cruz,75690-215
+Rua 4,,,11,114,Residencial Santa Cruz,75690-221
+Rua 3,,,11,114,Residencial Santa Cruz,75690-224
+Rua 2,,,11,114,Residencial Santa Cruz,75690-227
+Rua 1,,,11,114,Residencial Santa Cruz,75690-230
+Alameda Corumbá,,,11,17,Condomínio Mansões Ilha Bela,75691-000
+Via Kerigma,,,11,12,Condomínio Àgua Viva,75691-020
+Via Manahim,,,11,12,Condomínio Àgua Viva,75691-023
+Via Monte Horebe,,,11,12,Condomínio Àgua Viva,75691-026
+Via Canaã,,,11,12,Condomínio Àgua Viva,75691-029
+Via Monte das Oliveiras,,,11,12,Condomínio Àgua Viva,75691-032
+Via Koynonia,,,11,12,Condomínio Àgua Viva,75691-035
+Via Shalom,,,11,12,Condomínio Àgua Viva,75691-038
+Via Shekinah,,,11,12,Condomínio Àgua Viva,75691-041
+Avenida A,,,11,112,Residencial Recanto do Lago,75691-150
+Rua 1,,,11,112,Residencial Recanto do Lago,75691-153
+Rua 14,,,11,112,Residencial Recanto do Lago,75691-156
+Rua 2,,,11,112,Residencial Recanto do Lago,75691-159
+Rua 15,,,11,112,Residencial Recanto do Lago,75691-162
+Rua 16,,,11,112,Residencial Recanto do Lago,75691-165
+Rua 17,,,11,112,Residencial Recanto do Lago,75691-168
+Rua 18,,,11,112,Residencial Recanto do Lago,75691-171
+Rua 19,,,11,112,Residencial Recanto do Lago,75691-174
+Rua 20,,,11,112,Residencial Recanto do Lago,75691-177
+Rua 3,,,11,112,Residencial Recanto do Lago,75691-180
+Rua 21,,,11,112,Residencial Recanto do Lago,75691-183
+Rua 22,,,11,112,Residencial Recanto do Lago,75691-186
+Rua 4,,,11,112,Residencial Recanto do Lago,75691-189
+Rua 5,,,11,112,Residencial Recanto do Lago,75691-192
+Rua 6,,,11,112,Residencial Recanto do Lago,75691-195
+Rua 7,,,11,112,Residencial Recanto do Lago,75691-198
+Rua 8,,,11,112,Residencial Recanto do Lago,75691-201
+Rua 25,,,11,112,Residencial Recanto do Lago,75691-204
+Rua 9,,,11,112,Residencial Recanto do Lago,75691-207
+Rua 10,,,11,112,Residencial Recanto do Lago,75691-210
+Rua 11,,,11,112,Residencial Recanto do Lago,75691-213
+Rua 26,,,11,112,Residencial Recanto do Lago,75691-216
+Rua 27,,,11,112,Residencial Recanto do Lago,75691-219
+Rua 12,,,11,112,Residencial Recanto do Lago,75691-222
+Rua 24,,,11,112,Residencial Recanto do Lago,75691-225
+Rua 23,,,11,112,Residencial Recanto do Lago,75691-228
+Rua 13,,,11,112,Residencial Recanto do Lago,75691-231
+Avenida do Lago,,,11,68,Mansões Privê do Lago,75691-240
+Avenida PL 1,,,11,68,Mansões Privê do Lago,75691-246
+Avenida PL 2,,,11,68,Mansões Privê do Lago,75691-252
+Alameda Juca de Godoy,,,11,141,Vila Morais,75691-500
+Rua Dona Amância de Morais,,,11,141,Vila Morais,75691-502
+Rua da Família,,,11,141,Vila Morais,75691-504
+Alameda do Contorno,,,11,141,Vila Morais,75691-506
+Avenida Castelo Novo,,,11,141,Vila Morais,75691-508
+Rua Tomázia Dias Carneiro,,,11,141,Vila Morais,75691-510
+Rua Santos Dumont,,,11,143,Vila Olegário Pinto,75691-540
+Avenida Orozimbo Correa Neto,,,11,143,Vila Olegário Pinto,75691-542
+Rua Vítor de Ozeda Ala,,,11,143,Vila Olegário Pinto,75691-544
+Avenida Osmundo Gonzaga de Menezes,,,11,143,Vila Olegário Pinto,75691-546
+Avenida Castelo Novo,,,11,143,Vila Olegário Pinto,75691-548
+Rua José Machado Fontes,,,11,143,Vila Olegário Pinto,75691-550
+Rua Belém,,,11,143,Vila Olegário Pinto,75691-552
+Rua Manoel Branco de Souza,,,11,143,Vila Olegário Pinto,75691-554
+Rua Orcalino Veloso dos Santos,,,11,143,Vila Olegário Pinto,75691-556
+Rua Jonas Galvão,,,11,143,Vila Olegário Pinto,75691-557
+Rua José Luiz de Medeiros,,,11,143,Vila Olegário Pinto,75691-558
+Rua Monte Castelo,,,11,143,Vila Olegário Pinto,75691-560
+Avenida do Expedicionário,,,11,143,Vila Olegário Pinto,75691-562
+Praça Bento de Godoy,,,11,143,Vila Olegário Pinto,75691-563
+Rua América,,,11,143,Vila Olegário Pinto,75691-564
+Rua Ernesto José de Sousa,,,11,143,Vila Olegário Pinto,75691-566
+Rua Antônio Augusto Guimarães,,,11,143,Vila Olegário Pinto,75691-568
+Rua Cleóbulo Rabelo,,,11,143,Vila Olegário Pinto,75691-570
+Rua Clarimundo Gonzaga de Menezes,,,11,143,Vila Olegário Pinto,75691-572
+Rua Joaquim Gonzaga de Menezes,,,11,143,Vila Olegário Pinto,75691-574
+Rua Joaquim Rodrigues de Rezende,,,11,143,Vila Olegário Pinto,75691-576
+Rua Lídio Silva Pinto,,,11,143,Vila Olegário Pinto,75691-578
+Rua 9,,,11,1,Anhanguera,75691-600
+Rua 1,,,11,1,Anhanguera,75691-602
+Avenida Coronel Bento de Godoy,,,11,1,Anhanguera,75691-604
+Rua 2,,,11,1,Anhanguera,75691-606
+Rua 3,,,11,1,Anhanguera,75691-608
+Rua 4,,,11,1,Anhanguera,75691-610
+Rua 9,,,11,55,Jardim Paraíso,75691-660
+Rua 2,,,11,55,Jardim Paraíso,75691-662
+Rua 8,,,11,55,Jardim Paraíso,75691-664
+Rua 1,,,11,55,Jardim Paraíso,75691-666
+Rua 7,,,11,55,Jardim Paraíso,75691-668
+Rua 10,,,11,55,Jardim Paraíso,75691-670
+Rua 3,,,11,55,Jardim Paraíso,75691-672
+Rua 6,,,11,55,Jardim Paraíso,75691-674
+Rua 5,,,11,55,Jardim Paraíso,75691-676
+Rua 4,,,11,55,Jardim Paraíso,75691-678
+Rua 3 A,,,11,55,Jardim Paraíso,75691-680
+Rua 11,,,11,55,Jardim Paraíso,75691-682
+Rua 12,,,11,55,Jardim Paraíso,75691-684
+Rua 25,,,11,55,Jardim Paraíso,75691-686
+Rua 13,,,11,55,Jardim Paraíso,75691-688
+Rua 14,,,11,55,Jardim Paraíso,75691-690
+Rua 15,,,11,55,Jardim Paraíso,75691-692
+Rua 23,,,11,55,Jardim Paraíso,75691-694
+Rua 18,,,11,55,Jardim Paraíso,75691-696
+Rua 16,,,11,55,Jardim Paraíso,75691-698
+Rua 29,,,11,55,Jardim Paraíso,75691-700
+Rua 30,,,11,55,Jardim Paraíso,75691-702
+Rua 31,,,11,55,Jardim Paraíso,75691-704
+Rua 32,,,11,55,Jardim Paraíso,75691-706
+Rua 21,,,11,55,Jardim Paraíso,75691-708
+Rua 22,,,11,55,Jardim Paraíso,75691-710
+Rua 24,,,11,55,Jardim Paraíso,75691-712
+Rua 20,,,11,55,Jardim Paraíso,75691-714
+Rua 17,,,11,55,Jardim Paraíso,75691-716
+Avenida Coronel Bento de Godoy,,,11,55,Jardim Paraíso,75691-718
+Rua 19,,,11,55,Jardim Paraíso,75691-720
+Rua 27,,,11,55,Jardim Paraíso,75691-722
+Rua 28,,,11,55,Jardim Paraíso,75691-724
+Avenida A,,,11,55,Jardim Paraíso,75691-726
+Rua Áustria,,,11,21,Condomínio Residence Rohr,75691-730
+Rua Mônaco,,,11,21,Condomínio Residence Rohr,75691-733
+Rua Itália,,,11,21,Condomínio Residence Rohr,75691-736
+Rua Polônia,,,11,21,Condomínio Residence Rohr,75691-739
+Rua Bulgária,,,11,21,Condomínio Residence Rohr,75691-742
+Avenida França,,,11,21,Condomínio Residence Rohr,75691-745
+Rua Dinamarca,,,11,21,Condomínio Residence Rohr,75691-748
+Rua Turquia,,,11,21,Condomínio Residence Rohr,75691-751
+Avenida Alemanha,,,11,21,Condomínio Residence Rohr,75691-754
+Rua Espanha,,,11,21,Condomínio Residence Rohr,75691-757
+Avenida Hungria,,,11,21,Condomínio Residence Rohr,75691-760
+Rua Suécia,,,11,21,Condomínio Residence Rohr,75691-763
+Rua Grécia,,,11,21,Condomínio Residence Rohr,75691-766
+Rua Bélgica,,,11,21,Condomínio Residence Rohr,75691-769
+Rua Holanda,,,11,21,Condomínio Residence Rohr,75691-772
+Rua Antônio Barbosa da Silva Neto,,,11,140,Vila Matheus,75691-800
+Rua 17,,,11,140,Vila Matheus,75691-801
+Rua Lázara David Ferreira,,,11,140,Vila Matheus,75691-802
+Rua Lourival Machado Matheus,,,11,140,Vila Matheus,75691-804
+Via 4,,,11,140,Vila Matheus,75691-805
+Rua 4,,,11,106,Residencial Paraíso,75691-810
+Rua 2,,,11,106,Residencial Paraíso,75691-812
+Rua 3,,,11,106,Residencial Paraíso,75691-814
+Rua 1,,,11,106,Residencial Paraíso,75691-816
+Via 5,,,11,125,Setor Itaparica,75691-820
+Via 1,,,11,125,Setor Itaparica,75691-822
+Via 2,,,11,125,Setor Itaparica,75691-824
+Via 3,,,11,125,Setor Itaparica,75691-826
+Via 6,,,11,125,Setor Itaparica,75691-828
+Via 7,,,11,125,Setor Itaparica,75691-830
+Via 4,,,11,125,Setor Itaparica,75691-832
+Via 8,,,11,125,Setor Itaparica,75691-834
+Via 12,,,11,125,Setor Itaparica,75691-836
+Via 9,,,11,125,Setor Itaparica,75691-838
+Via 10,,,11,125,Setor Itaparica,75691-840
+Via 11,,,11,125,Setor Itaparica,75691-842
+Rua SP 10,,,11,125,Setor Itaparica,75691-844
+Rua Presidente Getúlio Vargas,,,11,97,Residencial Konesuk,75691-850
+Rodovia GO-213,,,11,97,Residencial Konesuk,75691-851
+Rua K 7,,,11,97,Residencial Konesuk,75691-852
+Rua K 5,,,11,97,Residencial Konesuk,75691-854
+Rua K 6,,,11,97,Residencial Konesuk,75691-856
+Rua K 3,,,11,97,Residencial Konesuk,75691-858
+Rua K 2,,,11,97,Residencial Konesuk,75691-860
+Rua K 1,,,11,97,Residencial Konesuk,75691-862
+Rua K 4,,,11,97,Residencial Konesuk,75691-864
+Rua SP 1,,,11,130,Setor Planalto,75691-870
+Rua SP 10,,,11,130,Setor Planalto,75691-873
+Rua SP 9,,,11,130,Setor Planalto,75691-876
+Rua SP 8,,,11,130,Setor Planalto,75691-879
+Rua SP 7,,,11,130,Setor Planalto,75691-882
+Rua SP 6,,,11,130,Setor Planalto,75691-885
+Rua SP 5,,,11,130,Setor Planalto,75691-888
+Rua SP 4,,,11,130,Setor Planalto,75691-891
+Rua SP 3,,,11,130,Setor Planalto,75691-894
+Rua SP 2,,,11,130,Setor Planalto,75691-895
+Rua RP 1,,,11,130,Setor Planalto,75691-897
+Rua SP 10,,,11,108,Residencial Primavera,75692-020
+Rua RP 8,,,11,108,Residencial Primavera,75692-023
+Rua SP 1,,,11,108,Residencial Primavera,75692-026
+Rua SP 4,,,11,108,Residencial Primavera,75692-029
+Rua RP 1,,,11,108,Residencial Primavera,75692-032
+Rua RP 4,,,11,108,Residencial Primavera,75692-035
+Rua RP 5,,,11,108,Residencial Primavera,75692-038
+Rua RP 6,,,11,108,Residencial Primavera,75692-041
+Rua RP 3,,,11,108,Residencial Primavera,75692-044
+Rua RP 7,,,11,108,Residencial Primavera,75692-047
+Rua RP 11,,,11,108,Residencial Primavera,75692-050
+Rua RP 10,,,11,108,Residencial Primavera,75692-053
+Rua RP 2,,,11,108,Residencial Primavera,75692-056
+Rua RP 9,,,11,108,Residencial Primavera,75692-059
+Rua RP 12,,,11,108,Residencial Primavera,75692-062
+Rua RP 13,,,11,108,Residencial Primavera,75692-065
+Avenida A,,,11,75,Parque das Águas Quentes 2,75692-230
+Avenida B,,,11,75,Parque das Águas Quentes 2,75692-233
+Rua 5,,,11,75,Parque das Águas Quentes 2,75692-236
+Rua 6,,,11,75,Parque das Águas Quentes 2,75692-239
+Rua 7,,,11,75,Parque das Águas Quentes 2,75692-242
+Rua 8,,,11,75,Parque das Águas Quentes 2,75692-245
+Rua 1,,,11,75,Parque das Águas Quentes 2,75692-248
+Rua 2,,,11,75,Parque das Águas Quentes 2,75692-251
+Rua 3,,,11,75,Parque das Águas Quentes 2,75692-254
+Rua Presidente Getúlio Vargas,,,11,127,Setor Lagoa Quente,75692-460
+Avenida Presidente Lyra Tavares,,,11,127,Setor Lagoa Quente,75692-463
+Rua Presidente Eurico Dutra,,,11,127,Setor Lagoa Quente,75692-466
+Rua 48,,,11,127,Setor Lagoa Quente,75692-469
+Rua Presidente Café Filho,,,11,127,Setor Lagoa Quente,75692-472
+Rua Presidente Carlos Luz,,,11,127,Setor Lagoa Quente,75692-475
+Rua Presidente Nereu Ramos,,,11,127,Setor Lagoa Quente,75692-478
+Rua Presidente Juscelino Kubitschek,,,11,127,Setor Lagoa Quente,75692-481
+Via Interna,,,11,127,Setor Lagoa Quente,75692-484
+Avenida Presidente Rademaker,,,11,127,Setor Lagoa Quente,75692-487
+Alameda Dom Pedro II,,,11,127,Setor Lagoa Quente,75692-490
+Rua 46,,,11,127,Setor Lagoa Quente,75692-493
+Rua Presidente Jânio Quadros,,,11,127,Setor Lagoa Quente,75692-496
+Rua Presidente Ranieri Mazilli,,,11,127,Setor Lagoa Quente,75692-499
+Rua Presidente Sousa e Melo,,,11,127,Setor Lagoa Quente,75692-502
+Rua Presidente Castelo Branco,,,11,127,Setor Lagoa Quente,75692-505
+Rua Presidente Costa e Silva,,,11,127,Setor Lagoa Quente,75692-508
+Rua 40,,,11,127,Setor Lagoa Quente,75692-511
+Rua 38,,,11,127,Setor Lagoa Quente,75692-514
+Rua 36,,,11,127,Setor Lagoa Quente,75692-517
+Rua Presidente Médice,,,11,127,Setor Lagoa Quente,75692-520
+Rua 30,,,11,127,Setor Lagoa Quente,75692-523
+Rua 32,,,11,127,Setor Lagoa Quente,75692-526
+Rua 34,,,11,127,Setor Lagoa Quente,75692-529
+Rua Presidente Geisel,,,11,127,Setor Lagoa Quente,75692-532
+Rua 22,,,11,127,Setor Lagoa Quente,75692-535
+Rua 24,,,11,127,Setor Lagoa Quente,75692-538
+Rua 26,,,11,127,Setor Lagoa Quente,75692-541
+Rua 28,,,11,127,Setor Lagoa Quente,75692-544
+Rua 20,,,11,127,Setor Lagoa Quente,75692-547
+Rua 18,,,11,127,Setor Lagoa Quente,75692-550
+Rua Presidente João Goulart,,,11,127,Setor Lagoa Quente,75692-553
+Rua Presidente Figueiredo,,,11,127,Setor Lagoa Quente,75692-556
+Rua 8,,,11,127,Setor Lagoa Quente,75692-559
+Rua 6,,,11,127,Setor Lagoa Quente,75692-562
+Rua Presidente José Linhares,,,11,127,Setor Lagoa Quente,75692-565
+Rua 4,,,11,127,Setor Lagoa Quente,75692-568
+Rua 2,,,11,127,Setor Lagoa Quente,75692-571
+Avenida Princesa Isabel,,,11,127,Setor Lagoa Quente,75692-574
+Rua 12,,,11,127,Setor Lagoa Quente,75692-577
+Avenida Lagoa Quente,,,11,127,Setor Lagoa Quente,75692-580
+Rua 10,,,11,127,Setor Lagoa Quente,75692-583
+Rua Presidente José Noronha,,,11,127,Setor Lagoa Quente,75692-586
+Avenida Presidente Rosa e Silva,,,11,127,Setor Lagoa Quente,75692-589
+Rua Presidente Mena Barreto,,,11,127,Setor Lagoa Quente,75692-592
+Avenida Presidente Deodoro da Fonseca,,,11,127,Setor Lagoa Quente,75692-595
+Rua Presidente Tasso Fragoso,,,11,127,Setor Lagoa Quente,75692-598
+Rua Presidente Júlio Prestes,,,11,127,Setor Lagoa Quente,75692-601
+Rua 37,,,11,127,Setor Lagoa Quente,75692-604
+Rua 39,,,11,127,Setor Lagoa Quente,75692-607
+Rua 41,,,11,127,Setor Lagoa Quente,75692-610
+Rua Presidente Antônio Carlos,,,11,127,Setor Lagoa Quente,75692-613
+Rua Presidente Campos Sales,,,11,127,Setor Lagoa Quente,75692-616
+Avenida Presidente Prudente,,,11,127,Setor Lagoa Quente,75692-619
+Rua 33,,,11,127,Setor Lagoa Quente,75692-622
+Avenida Presidente Floriano Peixoto,,,11,127,Setor Lagoa Quente,75692-625
+Rua 31,,,11,127,Setor Lagoa Quente,75692-628
+Rua Presidente Washington Luís,,,11,127,Setor Lagoa Quente,75692-631
+Rua Presidente Artur Bernardes,,,11,127,Setor Lagoa Quente,75692-634
+Rua Presidente Epitácio Pessoa,,,11,127,Setor Lagoa Quente,75692-637
+Rua 27,,,11,127,Setor Lagoa Quente,75692-640
+Rua Presidente Delfim Moreira,,,11,127,Setor Lagoa Quente,75692-643
+Rua Presidente Urbano Araújo,,,11,127,Setor Lagoa Quente,75692-646
+Rua Presidente Venceslau Braz,,,11,127,Setor Lagoa Quente,75692-649
+Rua Presidente Hermes da Fonseca,,,11,127,Setor Lagoa Quente,75692-652
+Rua 25,,,11,127,Setor Lagoa Quente,75692-655
+Rua 19,,,11,127,Setor Lagoa Quente,75692-658
+Rua Presidente Nilo Peçanha,,,11,127,Setor Lagoa Quente,75692-661
+Rua Presidente Afonso Pena,,,11,127,Setor Lagoa Quente,75692-664
+Rua 13,,,11,127,Setor Lagoa Quente,75692-667
+Rua Presidente Rodrigues Alves,,,11,127,Setor Lagoa Quente,75692-670
+Rua 17,,,11,127,Setor Lagoa Quente,75692-673
+Rua 3,,,11,127,Setor Lagoa Quente,75692-676
+Alameda Dom Pedro I,,,11,127,Setor Lagoa Quente,75692-679
+Rua Presidente Vitorino Pereira,,,11,127,Setor Lagoa Quente,75692-682
+Rua 5,,,11,127,Setor Lagoa Quente,75692-685
+Rua 7,,,11,127,Setor Lagoa Quente,75692-688
+Rua 14,,,11,127,Setor Lagoa Quente,75692-691
+Rua 11,,,11,127,Setor Lagoa Quente,75692-694
+Avenida Central,,,11,14,Condomínio Alphaville-6,75692-700
+Alameda Contorno,,,11,14,Condomínio Alphaville-6,75692-703
+Rua A,,,11,14,Condomínio Alphaville-6,75692-706
+Rua B,,,11,14,Condomínio Alphaville-6,75692-709
+Rua C,,,11,14,Condomínio Alphaville-6,75692-712
+Rua D,,,11,14,Condomínio Alphaville-6,75692-715
+Avenida Getúlio Vargas,,,11,134,Sítio de Recreio Pirapitinga,75693-000
+Rua BV 1,,,11,123,Setor Alto da Boa Vista,75693-100
+Rua BV 2,,,11,123,Setor Alto da Boa Vista,75693-103
+Rua BV 3,,,11,123,Setor Alto da Boa Vista,75693-106
+Rua BV 4,,,11,123,Setor Alto da Boa Vista,75693-109
+Rua BV 5,,,11,123,Setor Alto da Boa Vista,75693-112
+Rua BV 6,,,11,123,Setor Alto da Boa Vista,75693-115
+Rua BV 7,,,11,123,Setor Alto da Boa Vista,75693-118
+Rua BV 8,,,11,123,Setor Alto da Boa Vista,75693-121
+Rua BV 9,,,11,123,Setor Alto da Boa Vista,75693-124
+Rua BV 10,,,11,123,Setor Alto da Boa Vista,75693-127
+Rua BV 11,,,11,123,Setor Alto da Boa Vista,75693-130
+Rua BV 17,,,11,123,Setor Alto da Boa Vista,75693-133
+Rua BV 13,,,11,123,Setor Alto da Boa Vista,75693-136
+Rua BV 12,,,11,123,Setor Alto da Boa Vista,75693-139
+Rua BV 14,,,11,123,Setor Alto da Boa Vista,75693-142
+Rua BV 15,,,11,123,Setor Alto da Boa Vista,75693-145
+Rua BV 16,,,11,123,Setor Alto da Boa Vista,75693-148
+Rua BV 18,,,11,123,Setor Alto da Boa Vista,75693-151
+Avenida B,,,11,123,Setor Alto da Boa Vista,75693-154
+Rua BV 20,,,11,123,Setor Alto da Boa Vista,75693-157
+Rua BV 19,,,11,123,Setor Alto da Boa Vista,75693-160
+Rua BV 23,,,11,123,Setor Alto da Boa Vista,75693-163
+Rua BV 25,,,11,123,Setor Alto da Boa Vista,75693-166
+Rua BV 27,,,11,123,Setor Alto da Boa Vista,75693-169
+Rua BV 22,,,11,123,Setor Alto da Boa Vista,75693-172
+Rua BV 21,,,11,123,Setor Alto da Boa Vista,75693-175
+Rua BV 24,,,11,123,Setor Alto da Boa Vista,75693-178
+Rua BV 26,,,11,123,Setor Alto da Boa Vista,75693-181
+Rua BV 28,,,11,123,Setor Alto da Boa Vista,75693-184
+Rua BV 29,,,11,123,Setor Alto da Boa Vista,75693-187
+Rua BV 30,,,11,123,Setor Alto da Boa Vista,75693-190
+Rua BV 31,,,11,123,Setor Alto da Boa Vista,75693-193
+Rua BV 32,,,11,123,Setor Alto da Boa Vista,75693-196
+Rua BV 33,,,11,123,Setor Alto da Boa Vista,75693-199
+Rua BV 34,,,11,123,Setor Alto da Boa Vista,75693-202
+Avenida A,,,11,123,Setor Alto da Boa Vista,75693-205
+Avenida A,,,11,67,Mansões Le Village Blanc,75693-210
+Rua 9,,,11,67,Mansões Le Village Blanc,75693-213
+Rua 11,,,11,67,Mansões Le Village Blanc,75693-216
+Rua 12,,,11,67,Mansões Le Village Blanc,75693-219
+Rua 10,,,11,67,Mansões Le Village Blanc,75693-222
+Rua 8,,,11,67,Mansões Le Village Blanc,75693-225
+Rua 7,,,11,67,Mansões Le Village Blanc,75693-228
+Rua 6,,,11,67,Mansões Le Village Blanc,75693-231
+Rua 5,,,11,67,Mansões Le Village Blanc,75693-234
+Rua 4,,,11,67,Mansões Le Village Blanc,75693-237
+Rua 3,,,11,67,Mansões Le Village Blanc,75693-240
+Rua 2,,,11,67,Mansões Le Village Blanc,75693-243
+Rua 1,,,11,67,Mansões Le Village Blanc,75693-246
+Rua Londres,,,11,128,Setor Mansões Pirapitinga,75693-250
+Rua Oslo,,,11,128,Setor Mansões Pirapitinga,75693-253
+Rua Copenhagem,,,11,128,Setor Mansões Pirapitinga,75693-256
+Rua Polônia,,,11,128,Setor Mansões Pirapitinga,75693-259
+Rua Hungria,,,11,128,Setor Mansões Pirapitinga,75693-262
+Rua Inglaterra,,,11,128,Setor Mansões Pirapitinga,75693-265
+Avenida Pirapitinga,,,11,128,Setor Mansões Pirapitinga,75693-268
+Rua Malta,,,11,128,Setor Mansões Pirapitinga,75693-271
+Rua Grécia,,,11,128,Setor Mansões Pirapitinga,75693-274
+Rua Creta,,,11,128,Setor Mansões Pirapitinga,75693-277
+Rua Sicília,,,11,128,Setor Mansões Pirapitinga,75693-280
+Rua Corsina,,,11,128,Setor Mansões Pirapitinga,75693-283
+Rua Estônia,,,11,128,Setor Mansões Pirapitinga,75693-286
+Rua Luxemburgo,,,11,128,Setor Mansões Pirapitinga,75693-289
+Rua Dinamarca,,,11,128,Setor Mansões Pirapitinga,75693-292
+Rua França,,,11,128,Setor Mansões Pirapitinga,75693-295
+Rua Itália,,,11,128,Setor Mansões Pirapitinga,75693-298
+Rua Pérsia,,,11,128,Setor Mansões Pirapitinga,75693-301
+Rua Letônia,,,11,128,Setor Mansões Pirapitinga,75693-304
+Rua Espanha,,,11,128,Setor Mansões Pirapitinga,75693-307
+Rua Noruega,,,11,128,Setor Mansões Pirapitinga,75693-310
+Rua Áustria,,,11,128,Setor Mansões Pirapitinga,75693-313
+Rua Mônaco,,,11,128,Setor Mansões Pirapitinga,75693-316
+Rua Albânia,,,11,128,Setor Mansões Pirapitinga,75693-319
+Rua Suécia,,,11,128,Setor Mansões Pirapitinga,75693-322
+Rua Munique,,,11,128,Setor Mansões Pirapitinga,75693-325
+Rua Nice,,,11,128,Setor Mansões Pirapitinga,75693-328
+Rua Viena,,,11,128,Setor Mansões Pirapitinga,75693-331
+Rua Dublim,,,11,128,Setor Mansões Pirapitinga,75693-334
+Rua Verdi,,,11,128,Setor Mansões Pirapitinga,75693-337
+Rua Bristol,,,11,128,Setor Mansões Pirapitinga,75693-340
+Rua Veneza,,,11,128,Setor Mansões Pirapitinga,75693-343
+Rua Nanci,,,11,128,Setor Mansões Pirapitinga,75693-346
+Avenida Circular,,,11,128,Setor Mansões Pirapitinga,75693-349
+Rua Colônia,,,11,128,Setor Mansões Pirapitinga,75693-352
+Rua Bilbao,,,11,128,Setor Mansões Pirapitinga,75693-355
+Rua Paris,,,11,128,Setor Mansões Pirapitinga,75693-358
+Rua Turim,,,11,128,Setor Mansões Pirapitinga,75693-361
+Rua Florença,,,11,128,Setor Mansões Pirapitinga,75693-364
+Rua Escócia,,,11,128,Setor Mansões Pirapitinga,75693-367
+Rua Finlândia,,,11,128,Setor Mansões Pirapitinga,75693-370
+Rua Irlanda,,,11,128,Setor Mansões Pirapitinga,75693-373
+Avenida Santo Amaro,,,11,6,Chácara Roma,75694-020
+Via de Acesso Marina Mofatto,,,11,6,Chácara Roma,75694-025
+Via Circular Francisca Lima Bezerra,,,11,6,Chácara Roma,75694-030
+Via Cora Coralina,,,11,6,Chácara Roma,75694-035
+Via Gercina Borges Teixeira,,,11,6,Chácara Roma,75694-040
+Via Irene Rohr,,,11,6,Chácara Roma,75694-045
+Rua Presidente Getúlio Vargas,,,11,22,Condomínio Residencial dos Girassóis,75694-070
+Rua 42,,,11,65,Mansões Águas Quentes,75694-120
+Rua 41,,,11,65,Mansões Águas Quentes,75694-123
+Rua 40,,,11,65,Mansões Águas Quentes,75694-126
+Rua 39,,,11,65,Mansões Águas Quentes,75694-129
+Avenida E,,,11,65,Mansões Águas Quentes,75694-132
+Rua 41 A,,,11,65,Mansões Águas Quentes,75694-135
+Rua 43,,,11,65,Mansões Águas Quentes,75694-138
+Rua 44,,,11,65,Mansões Águas Quentes,75694-141
+Rua 45,,,11,65,Mansões Águas Quentes,75694-144
+Rua 50,,,11,65,Mansões Águas Quentes,75694-147
+Rua 49,,,11,65,Mansões Águas Quentes,75694-150
+Rua 48,,,11,65,Mansões Águas Quentes,75694-153
+Rua 47,,,11,65,Mansões Águas Quentes,75694-156
+Rua 46,,,11,65,Mansões Águas Quentes,75694-159
+Rua 59,,,11,65,Mansões Águas Quentes,75694-162
+Rua 60,,,11,65,Mansões Águas Quentes,75694-165
+Rua 55,,,11,65,Mansões Águas Quentes,75694-168
+Rua 61,,,11,65,Mansões Águas Quentes,75694-171
+Rua 62,,,11,65,Mansões Águas Quentes,75694-174
+Rua 56,,,11,65,Mansões Águas Quentes,75694-177
+Rua 57,,,11,65,Mansões Águas Quentes,75694-180
+Rua 58,,,11,65,Mansões Águas Quentes,75694-183
+Rua 63,,,11,65,Mansões Águas Quentes,75694-186
+Rua 64,,,11,65,Mansões Águas Quentes,75694-189
+Rua 65,,,11,65,Mansões Águas Quentes,75694-192
+Rua 66,,,11,65,Mansões Águas Quentes,75694-195
+Rua 67,,,11,65,Mansões Águas Quentes,75694-198
+Rua 68,,,11,65,Mansões Águas Quentes,75694-201
+Avenida F,,,11,65,Mansões Águas Quentes,75694-204
+Avenida Presidente Deodoro da Fonseca,,,11,65,Mansões Águas Quentes,75694-207
+Rua 69,,,11,65,Mansões Águas Quentes,75694-210
+Rua 65 A,,,11,65,Mansões Águas Quentes,75694-213
+Rua 70,,,11,65,Mansões Águas Quentes,75694-216
+Avenida C,,,11,65,Mansões Águas Quentes,75694-219
+Rua 54,,,11,65,Mansões Águas Quentes,75694-222
+Avenida 71,,,11,65,Mansões Águas Quentes,75694-225
+Rua 36 A,,,11,65,Mansões Águas Quentes,75694-228
+Rua 51,,,11,65,Mansões Águas Quentes,75694-231
+Rua 36,,,11,65,Mansões Águas Quentes,75694-234
+Rua 35,,,11,65,Mansões Águas Quentes,75694-237
+Rua 34,,,11,65,Mansões Águas Quentes,75694-240
+Rua 21,,,11,65,Mansões Águas Quentes,75694-243
+Rua 33,,,11,65,Mansões Águas Quentes,75694-246
+Rua 20,,,11,65,Mansões Águas Quentes,75694-249
+Rua 32,,,11,65,Mansões Águas Quentes,75694-252
+Avenida D,,,11,65,Mansões Águas Quentes,75694-255
+Rua 31,,,11,65,Mansões Águas Quentes,75694-258
+Rua 30,,,11,65,Mansões Águas Quentes,75694-261
+Rua 29,,,11,65,Mansões Águas Quentes,75694-264
+Rua 53,,,11,65,Mansões Águas Quentes,75694-267
+Rua 52,,,11,65,Mansões Águas Quentes,75694-270
+Rua 19 B,,,11,65,Mansões Águas Quentes,75694-273
+Rua 35 B,,,11,65,Mansões Águas Quentes,75694-276
+Rua 35 A,,,11,65,Mansões Águas Quentes,75694-279
+Rua 19 A,,,11,65,Mansões Águas Quentes,75694-282
+Rua 19,,,11,65,Mansões Águas Quentes,75694-285
+Rua 18,,,11,65,Mansões Águas Quentes,75694-288
+Rua 33 A,,,11,65,Mansões Águas Quentes,75694-291
+Rua 28,,,11,65,Mansões Águas Quentes,75694-294
+Rua 27,,,11,65,Mansões Águas Quentes,75694-297
+Rua 26,,,11,65,Mansões Águas Quentes,75694-300
+Rua 25,,,11,65,Mansões Águas Quentes,75694-303
+Rua 24,,,11,65,Mansões Águas Quentes,75694-306
+Rua 17,,,11,65,Mansões Águas Quentes,75694-309
+Rua 23,,,11,65,Mansões Águas Quentes,75694-312
+Rua 22,,,11,65,Mansões Águas Quentes,75694-315
+Rua 12,,,11,65,Mansões Águas Quentes,75694-318
+Rua 16,,,11,65,Mansões Águas Quentes,75694-321
+Rua 15,,,11,65,Mansões Águas Quentes,75694-324
+Rua 38,,,11,65,Mansões Águas Quentes,75694-327
+Rua 37,,,11,65,Mansões Águas Quentes,75694-330
+Rua 14,,,11,65,Mansões Águas Quentes,75694-333
+Rua 13,,,11,65,Mansões Águas Quentes,75694-336
+Rua 8,,,11,65,Mansões Águas Quentes,75694-339
+Rua 9,,,11,65,Mansões Águas Quentes,75694-342
+Rua 10,,,11,65,Mansões Águas Quentes,75694-345
+Rua 7,,,11,65,Mansões Águas Quentes,75694-348
+Rua 11,,,11,65,Mansões Águas Quentes,75694-351
+Rua 6,,,11,65,Mansões Águas Quentes,75694-354
+Rua 5,,,11,65,Mansões Águas Quentes,75694-357
+Rua 4,,,11,65,Mansões Águas Quentes,75694-360
+Rua 1,,,11,65,Mansões Águas Quentes,75694-363
+Rua 3,,,11,65,Mansões Águas Quentes,75694-366
+Rua 2,,,11,65,Mansões Águas Quentes,75694-369
+Avenida A,,,11,65,Mansões Águas Quentes,75694-372
+Rua 73,,,11,65,Mansões Águas Quentes,75694-375
+Rua 79,,,11,65,Mansões Águas Quentes,75694-378
+Rua 82,,,11,65,Mansões Águas Quentes,75694-381
+Rua 75,,,11,65,Mansões Águas Quentes,75694-384
+Rua 78,,,11,65,Mansões Águas Quentes,75694-387
+Rua 80,,,11,65,Mansões Águas Quentes,75694-390
+Rua 81,,,11,65,Mansões Águas Quentes,75694-393
+Rua 83,,,11,65,Mansões Águas Quentes,75694-396
+Rua 72,,,11,65,Mansões Águas Quentes,75694-399
+Rua 74,,,11,65,Mansões Águas Quentes,75694-402
+Rua 76,,,11,65,Mansões Águas Quentes,75694-405
+Rua 77 A,,,11,65,Mansões Águas Quentes,75694-408
+Rua 77,,,11,65,Mansões Águas Quentes,75694-411
+Avenida B,,,11,65,Mansões Águas Quentes,75694-414
+Rua 84,,,11,65,Mansões Águas Quentes,75694-417
+Rua 85,,,11,65,Mansões Águas Quentes,75694-420
+Rua 86,,,11,65,Mansões Águas Quentes,75694-423
+Rua 87,,,11,65,Mansões Águas Quentes,75694-426
+Rua 88,,,11,65,Mansões Águas Quentes,75694-429
+Rua 89,,,11,65,Mansões Águas Quentes,75694-432
+Rua 94,,,11,65,Mansões Águas Quentes,75694-435
+Rua 95,,,11,65,Mansões Águas Quentes,75694-438
+Rua 98,,,11,65,Mansões Águas Quentes,75694-441
+Rua 90,,,11,65,Mansões Águas Quentes,75694-444
+Rua 92,,,11,65,Mansões Águas Quentes,75694-447
+Rua 96,,,11,65,Mansões Águas Quentes,75694-450
+Rua 91,,,11,65,Mansões Águas Quentes,75694-453
+Rua 99,,,11,65,Mansões Águas Quentes,75694-456
+Rua 97,,,11,65,Mansões Águas Quentes,75694-459
+Rua 100,,,11,65,Mansões Águas Quentes,75694-462
+Rua 101,,,11,65,Mansões Águas Quentes,75694-465
+Rua 100 A,,,11,65,Mansões Águas Quentes,75694-468
+Rua 102,,,11,65,Mansões Águas Quentes,75694-471
+Rua 103,,,11,65,Mansões Águas Quentes,75694-474
+Rua 104,,,11,65,Mansões Águas Quentes,75694-477
+Rua 105,,,11,65,Mansões Águas Quentes,75694-480
+Rua 106,,,11,65,Mansões Águas Quentes,75694-483
+Rua 107,,,11,65,Mansões Águas Quentes,75694-486
+Rua 108,,,11,65,Mansões Águas Quentes,75694-488
+Rua 109,,,11,65,Mansões Águas Quentes,75694-489
+Rua 93,,,11,65,Mansões Águas Quentes,75694-492
+Rua 114,,,11,65,Mansões Águas Quentes,75694-495
+Rua 113,,,11,65,Mansões Águas Quentes,75694-498
+Rua 110,,,11,65,Mansões Águas Quentes,75694-501
+Rua 111,,,11,65,Mansões Águas Quentes,75694-504
+Rua 112,,,11,65,Mansões Águas Quentes,75694-507
+Rua 124,,,11,65,Mansões Águas Quentes,75694-510
+Rua 115,,,11,65,Mansões Águas Quentes,75694-513
+Rua 116,,,11,65,Mansões Águas Quentes,75694-516
+Rua 117,,,11,65,Mansões Águas Quentes,75694-519
+Rua 118,,,11,65,Mansões Águas Quentes,75694-522
+Rua 119,,,11,65,Mansões Águas Quentes,75694-525
+Rua 120,,,11,65,Mansões Águas Quentes,75694-528
+Rua 121,,,11,65,Mansões Águas Quentes,75694-531
+Rua 122,,,11,65,Mansões Águas Quentes,75694-534
+Rua 123,,,11,65,Mansões Águas Quentes,75694-537
+Rua 130,,,11,65,Mansões Águas Quentes,75694-540
+Rua 131,,,11,65,Mansões Águas Quentes,75694-543
+Rua 136,,,11,65,Mansões Águas Quentes,75694-546
+Rua 137,,,11,65,Mansões Águas Quentes,75694-549
+Rua 134,,,11,65,Mansões Águas Quentes,75694-552
+Rua 135,,,11,65,Mansões Águas Quentes,75694-555
+Rua 138,,,11,65,Mansões Águas Quentes,75694-558
+Rua 125,,,11,65,Mansões Águas Quentes,75694-561
+Rua 132,,,11,65,Mansões Águas Quentes,75694-564
+Rua 133,,,11,65,Mansões Águas Quentes,75694-567
+Rua 139,,,11,65,Mansões Águas Quentes,75694-570
+Rua 140,,,11,65,Mansões Águas Quentes,75694-573
+Rua 126,,,11,65,Mansões Águas Quentes,75694-576
+Rua 141,,,11,65,Mansões Águas Quentes,75694-579
+Rua 142,,,11,65,Mansões Águas Quentes,75694-582
+Rua 127,,,11,65,Mansões Águas Quentes,75694-585
+Rua 143,,,11,65,Mansões Águas Quentes,75694-588
+Rua 128,,,11,65,Mansões Águas Quentes,75694-591
+Rua 144,,,11,65,Mansões Águas Quentes,75694-594
+Rua 129,,,11,65,Mansões Águas Quentes,75694-597
+Avenida A,,,11,9,Chácaras Primavera,75694-600
+Rua 1,,,11,9,Chácaras Primavera,75694-605
+Rua 2,,,11,9,Chácaras Primavera,75694-610
+Rua 3,,,11,9,Chácaras Primavera,75694-615
+Rua 4,,,11,9,Chácaras Primavera,75694-620
+Rua 5,,,11,9,Chácaras Primavera,75694-625
+Rua 6,,,11,9,Chácaras Primavera,75694-630
+Rua 7,,,11,9,Chácaras Primavera,75694-635
+Alameda Carajás,,,11,91,Residencial Aldeia das Thermas,75694-720
+Rua Pataxós,,,11,91,Residencial Aldeia das Thermas,75694-723
+Rua Avá Canoeiros,,,11,91,Residencial Aldeia das Thermas,75694-726
+Rua Tapuias,,,11,91,Residencial Aldeia das Thermas,75694-729
+Alameda Xavantes,,,11,91,Residencial Aldeia das Thermas,75694-732
+Rua Krikatis,,,11,91,Residencial Aldeia das Thermas,75694-735
+Rua Xerentes,,,11,91,Residencial Aldeia das Thermas,75694-738
+Rua Kamayuras,,,11,91,Residencial Aldeia das Thermas,75694-741
+Alameda Kaiabis,,,11,91,Residencial Aldeia das Thermas,75694-744
+Alameda Javaés,,,11,91,Residencial Aldeia das Thermas,75694-747
+Alameda Kaiapós,,,11,91,Residencial Aldeia das Thermas,75694-750
+Alameda Macuxis,,,11,91,Residencial Aldeia das Thermas,75694-753
+Alameda Yanomami,,,11,91,Residencial Aldeia das Thermas,75694-756
+Alameda Kraôs,,,11,91,Residencial Aldeia das Thermas,75694-759
+Alameda Bororós,,,11,91,Residencial Aldeia das Thermas,75694-762
+Avenida Jaqueline Mattar,,,11,33,Don Felipe,75695-001
+Avenida Dom Felipe,,,11,33,Don Felipe,75695-004
+Rua Kimie Shibata,,,11,33,Don Felipe,75695-007
+Rua Kátia Mattar,,,11,33,Don Felipe,75695-010
+Rua Edgar Rodrigues,,,11,33,Don Felipe,75695-013
+Rua Doutor Aristides Rodrigues,,,11,33,Don Felipe,75695-016
+Rua Jamil Mattar,,,11,33,Don Felipe,75695-019
+Rua Santarém Caldas,,,11,33,Don Felipe,75695-022
+Rua Doutor Rui Alves,,,11,33,Don Felipe,75695-025
+Rua Lúcia Costa,,,11,33,Don Felipe,75695-028
+Rua Marcelo Mattar,,,11,33,Don Felipe,75695-031
+Rua Claudina Ferreira,,,11,33,Don Felipe,75695-034
+Avenida Dona Adélia,,,11,33,Don Felipe,75695-037
+Avenida Principal,,,11,98,Residencial Lafaiete de Godoi,75695-041
+Avenida Dona Adélia,,,11,98,Residencial Lafaiete de Godoi,75695-044
+Avenida F,,,11,98,Residencial Lafaiete de Godoi,75695-047
+Avenida E,,,11,98,Residencial Lafaiete de Godoi,75695-050
+Avenida D,,,11,98,Residencial Lafaiete de Godoi,75695-053
+Avenida C,,,11,98,Residencial Lafaiete de Godoi,75695-056
+Rua 7,,,11,98,Residencial Lafaiete de Godoi,75695-059
+Rua 6,,,11,98,Residencial Lafaiete de Godoi,75695-062
+Rua 5,,,11,98,Residencial Lafaiete de Godoi,75695-065
+Rua 4,,,11,98,Residencial Lafaiete de Godoi,75695-068
+Avenida B,,,11,98,Residencial Lafaiete de Godoi,75695-071
+Rua 3,,,11,98,Residencial Lafaiete de Godoi,75695-074
+Rua 2,,,11,98,Residencial Lafaiete de Godoi,75695-077
+Rua 1,,,11,98,Residencial Lafaiete de Godoi,75695-080
+Avenida A,,,11,98,Residencial Lafaiete de Godoi,75695-083
+Rua 12,,,11,98,Residencial Lafaiete de Godoi,75695-086
+Rua 13,,,11,98,Residencial Lafaiete de Godoi,75695-089
+Rua 14,,,11,98,Residencial Lafaiete de Godoi,75695-092
+Rua 15,,,11,98,Residencial Lafaiete de Godoi,75695-095
+Rua 16,,,11,98,Residencial Lafaiete de Godoi,75695-098
+Rua 8,,,11,98,Residencial Lafaiete de Godoi,75695-101
+Rua 9,,,11,98,Residencial Lafaiete de Godoi,75695-104
+Rua 10,,,11,98,Residencial Lafaiete de Godoi,75695-107
+Rua 11,,,11,98,Residencial Lafaiete de Godoi,75695-110
+Rua 1,,,11,131,Setor Santo André,75695-841
+Rua 8,,,11,131,Setor Santo André,75695-844
+Rua 9,,,11,131,Setor Santo André,75695-847
+Rua 10,,,11,131,Setor Santo André,75695-850
+Rua 2,,,11,131,Setor Santo André,75695-853
+Rua 3,,,11,131,Setor Santo André,75695-856
+Rua 4,,,11,131,Setor Santo André,75695-859
+Rua 5,,,11,131,Setor Santo André,75695-862
+Rua 6,,,11,131,Setor Santo André,75695-865
+Rua 7,,,11,131,Setor Santo André,75695-868
+Rua 1,,,11,72,Nossa Senhora de Fátima,75695-871
+Rodovia GO-139,,,11,72,Nossa Senhora de Fátima,75695-872
+Rua 9,,,11,72,Nossa Senhora de Fátima,75695-874
+Rua 2,,,11,72,Nossa Senhora de Fátima,75695-877
+Rua 3,,,11,72,Nossa Senhora de Fátima,75695-880
+Rua 4,,,11,72,Nossa Senhora de Fátima,75695-883
+Rua 5,,,11,72,Nossa Senhora de Fátima,75695-886
+Rua 6,,,11,72,Nossa Senhora de Fátima,75695-889
+Rua 7,,,11,72,Nossa Senhora de Fátima,75695-892
+Rua 8,,,11,72,Nossa Senhora de Fátima,75695-895
+Rua do Turismo,,,11,31,Do Turista,75696-000
+Alameda das Thermas,,,11,31,Do Turista,75696-002
+Rua Dona Francisca Alla Cunha,,,11,31,Do Turista,75696-004
+Rua Maria Paula,,,11,31,Do Turista,75696-006
+Rua do Balneário,,,11,31,Do Turista,75696-008
+Rua Presidente Castelo Branco,,,11,31,Do Turista,75696-010
+Rua Dona Madalena,,,11,31,Do Turista,75696-012
+Rua Nair Lopes de Moraes,,,11,31,Do Turista,75696-014
+Avenida Coronel Cirilo Lopes de Morais,,,11,31,Do Turista,75696-016
+Rua Coronel Luiz José Pereira,,,11,31,Do Turista,75696-018
+Rua Coronel Ilídio Lopes de Moraes,,,11,31,Do Turista,75696-020
+Rua Mestre Orlando,,,11,31,Do Turista,75696-022
+Rua Adalgisa,,,11,31,Do Turista,75696-024
+Rua São Bento,,,11,31,Do Turista,75696-026
+Rua Donato Rispoli,,,11,31,Do Turista,75696-028
+Rua São Cristóvão,,,11,135,Solar de Caldas Novas,75696-030
+Rua São José,,,11,135,Solar de Caldas Novas,75696-033
+Rua Santa Catarina,,,11,135,Solar de Caldas Novas,75696-036
+Rua São João,,,11,135,Solar de Caldas Novas,75696-039
+Rua São Bartolomeu,,,11,135,Solar de Caldas Novas,75696-042
+Rua São Paulo,,,11,135,Solar de Caldas Novas,75696-045
+Rua São Jorge,,,11,135,Solar de Caldas Novas,75696-048
+Rua São Carlos,,,11,135,Solar de Caldas Novas,75696-051
+Rua São Braz,,,11,135,Solar de Caldas Novas,75696-054
+Avenida Santo Amaro,,,11,135,Solar de Caldas Novas,75696-057
+Rodovia GO-213,,,11,135,Solar de Caldas Novas,75696-058
+Rua São Genaro,,,11,135,Solar de Caldas Novas,75696-060
+Rua Alfredo Dias de Morais,,,11,32,Do Turista 2ª Etapa,75696-070
+Avenida Nivaldo Rodrigues da Cunha,,,11,32,Do Turista 2ª Etapa,75696-073
+Rua 1,,,11,32,Do Turista 2ª Etapa,75696-075
+Rua 2,,,11,32,Do Turista 2ª Etapa,75696-076
+Rua 6,,,11,32,Do Turista 2ª Etapa,75696-079
+Rua 5,,,11,32,Do Turista 2ª Etapa,75696-082
+Rua 7,,,11,32,Do Turista 2ª Etapa,75696-085
+Rua 8,,,11,32,Do Turista 2ª Etapa,75696-088
+Rua 12,,,11,32,Do Turista 2ª Etapa,75696-091
+Rua 3,,,11,32,Do Turista 2ª Etapa,75696-094
+Rua 10,,,11,32,Do Turista 2ª Etapa,75696-097
+Rua 14,,,11,32,Do Turista 2ª Etapa,75696-100
+Rua 9,,,11,32,Do Turista 2ª Etapa,75696-103
+Rua 28,,,11,32,Do Turista 2ª Etapa,75696-106
+Avenida Orcalino Lopes de Moraes,,,11,32,Do Turista 2ª Etapa,75696-109
+Rua 34,,,11,32,Do Turista 2ª Etapa,75696-112
+Rua 4,,,11,32,Do Turista 2ª Etapa,75696-115
+Rua 11,,,11,32,Do Turista 2ª Etapa,75696-118
+Rua 24,,,11,32,Do Turista 2ª Etapa,75696-121
+Rua 13,,,11,32,Do Turista 2ª Etapa,75696-124
+Rua 30,,,11,32,Do Turista 2ª Etapa,75696-127
+Rua 26,,,11,32,Do Turista 2ª Etapa,75696-130
+Rua 16,,,11,32,Do Turista 2ª Etapa,75696-133
+Rua 18,,,11,32,Do Turista 2ª Etapa,75696-136
+Rua 15,,,11,32,Do Turista 2ª Etapa,75696-139
+Rua 17,,,11,32,Do Turista 2ª Etapa,75696-142
+Rua 19,,,11,32,Do Turista 2ª Etapa,75696-145
+Rua 20,,,11,32,Do Turista 2ª Etapa,75696-148
+Rua 22,,,11,32,Do Turista 2ª Etapa,75696-151
+Rua 21,,,11,32,Do Turista 2ª Etapa,75696-154
+Rua 32,,,11,32,Do Turista 2ª Etapa,75696-157
+Rua 23,,,11,32,Do Turista 2ª Etapa,75696-160
+Rua 25,,,11,32,Do Turista 2ª Etapa,75696-163
+Rua 2,,,11,52,Jardim Jeriquara,75696-170
+Rua 1,,,11,52,Jardim Jeriquara,75696-172
+Rua 3,,,11,52,Jardim Jeriquara,75696-174
+Rua 4,,,11,52,Jardim Jeriquara,75696-176
+Rua 5,,,11,52,Jardim Jeriquara,75696-178
+Rua 6,,,11,52,Jardim Jeriquara,75696-180
+Rua Salomão Medrado,,,11,52,Jardim Jeriquara,75696-182
+Rua 6,,,11,49,Jardim França,75696-190
+Rua 1,,,11,49,Jardim França,75696-192
+Rua 3,,,11,49,Jardim França,75696-194
+Rua 4,,,11,49,Jardim França,75696-196
+Rua Coronel Luiz José Pereira,,,11,82,Parque Jardim Brasil,75696-200
+Avenida Coronel Cirilo Lopes de Morais,,,11,82,Parque Jardim Brasil,75696-203
+Avenida Imperador Dom Pedro I,,,11,82,Parque Jardim Brasil,75696-206
+Avenida Brasília,,,11,82,Parque Jardim Brasil,75696-209
+Rua São Paulo,,,11,82,Parque Jardim Brasil,75696-212
+Rua Rio de Janeiro,,,11,82,Parque Jardim Brasil,75696-215
+Rua Amazonas,,,11,82,Parque Jardim Brasil,75696-218
+Rua Espírito Santo,,,11,82,Parque Jardim Brasil,75696-221
+Rua Coronel Luís Gonzaga de Menezes,,,11,82,Parque Jardim Brasil,75696-224
+Rua Capitão Fernando Delgado Leite de Castilho,,,11,82,Parque Jardim Brasil,75696-227
+Rua José de Assis Mascarenhas,,,11,82,Parque Jardim Brasil,75696-230
+Rua Goiás,,,11,82,Parque Jardim Brasil,75696-233
+Rua Roraima,,,11,82,Parque Jardim Brasil,75696-236
+Rua Acre,,,11,82,Parque Jardim Brasil,75696-239
+Rua Amapá,,,11,82,Parque Jardim Brasil,75696-242
+Rua Rio Branco,,,11,82,Parque Jardim Brasil,75696-245
+Rua Marechal Castelo Branco,,,11,82,Parque Jardim Brasil,75696-248
+Rua Piauí,,,11,82,Parque Jardim Brasil,75696-251
+Rua Francisco Barbosa da Silva,,,11,82,Parque Jardim Brasil,75696-254
+Rua Mato Grosso,,,11,82,Parque Jardim Brasil,75696-257
+Rua Maranhão,,,11,82,Parque Jardim Brasil,75696-260
+Rua Minas Gerais,,,11,82,Parque Jardim Brasil,75696-263
+Rua Pará,,,11,82,Parque Jardim Brasil,75696-266
+Rua Bahia,,,11,82,Parque Jardim Brasil,75696-269
+Rua Rio Grande do Norte,,,11,82,Parque Jardim Brasil,75696-272
+Rua Martinho Coelho de Siqueira,,,11,82,Parque Jardim Brasil,75696-275
+Rua Particular,,,11,82,Parque Jardim Brasil,75696-278
+Rua Auguste de Saint Hilaire,,,11,82,Parque Jardim Brasil,75696-281
+Avenida Imperador Dom Pedro II,,,11,82,Parque Jardim Brasil,75696-284
+Rua Bartolomeu Bueno da Silva,,,11,82,Parque Jardim Brasil,75696-287
+Rua Paraìba,,,11,82,Parque Jardim Brasil,75696-290
+Rua Alagoas,,,11,82,Parque Jardim Brasil,75696-293
+Rua Santa Catarina,,,11,82,Parque Jardim Brasil,75696-296
+Rua Pernambuco,,,11,82,Parque Jardim Brasil,75696-299
+Rua Sergipe,,,11,82,Parque Jardim Brasil,75696-302
+Rua Ceará,,,11,82,Parque Jardim Brasil,75696-305
+Rua Rio Grande do Sul,,,11,82,Parque Jardim Brasil,75696-308
+Avenida Elias Bufaiçal,,,11,44,Jardim Belvedere,75696-320
+Rua 22,,,11,44,Jardim Belvedere,75696-323
+Rua Sebastiana Dias Rodrigues Rosa,,,11,44,Jardim Belvedere,75696-326
+Rua Renato Bernardo Faina,,,11,44,Jardim Belvedere,75696-329
+Rua 26,,,11,44,Jardim Belvedere,75696-332
+Rua JB 3,,,11,44,Jardim Belvedere,75696-335
+Rua 32,,,11,44,Jardim Belvedere,75696-338
+Rua Umbelina Cambardélia,,,11,44,Jardim Belvedere,75696-341
+Rua JB 6,,,11,44,Jardim Belvedere,75696-344
+Rua JB 4,,,11,44,Jardim Belvedere,75696-347
+Rua JB 7,,,11,44,Jardim Belvedere,75696-350
+Rua JB 9,,,11,44,Jardim Belvedere,75696-353
+Rua JB 5,,,11,44,Jardim Belvedere,75696-356
+Rua JB 8,,,11,44,Jardim Belvedere,75696-359
+Rua JB 10,,,11,44,Jardim Belvedere,75696-362
+Rua JB 2,,,11,44,Jardim Belvedere,75696-365
+Rua JB 13,,,11,44,Jardim Belvedere,75696-368
+Rua JB 14,,,11,44,Jardim Belvedere,75696-371
+Rua JB 15,,,11,44,Jardim Belvedere,75696-374
+Rua JB 16,,,11,44,Jardim Belvedere,75696-377
+Rua JB 17,,,11,44,Jardim Belvedere,75696-380
+Rua JB 18,,,11,44,Jardim Belvedere,75696-383
+Rua JB 19,,,11,44,Jardim Belvedere,75696-386
+Avenida Nivaldo Rodrigues da Cunha,,,11,44,Jardim Belvedere,75696-389
+Rua JB 20,,,11,44,Jardim Belvedere,75696-392
+Rua JB 21,,,11,44,Jardim Belvedere,75696-395
+Rua JB 11,,,11,44,Jardim Belvedere,75696-398
+Rua JB 12,,,11,44,Jardim Belvedere,75696-401
+Rua JB 22,,,11,44,Jardim Belvedere,75696-404
+Rua JB 25,,,11,44,Jardim Belvedere,75696-407
+Rua JB 23,,,11,44,Jardim Belvedere,75696-410
+Rua JB 24,,,11,44,Jardim Belvedere,75696-413
+Rua 1,,,11,87,Portal das Águas Quentes,75696-450
+Rua 2,,,11,87,Portal das Águas Quentes,75696-453
+Rua 3,,,11,87,Portal das Águas Quentes,75696-456
+Avenida C,,,11,87,Portal das Águas Quentes,75696-459
+Avenida B,,,11,87,Portal das Águas Quentes,75696-462
+Rua 4,,,11,87,Portal das Águas Quentes,75696-465
+Avenida E,,,11,87,Portal das Águas Quentes,75696-468
+Rua 4 A,,,11,87,Portal das Águas Quentes,75696-471
+Rua 4 B,,,11,87,Portal das Águas Quentes,75696-474
+Avenida D,,,11,87,Portal das Águas Quentes,75696-477
+Rua 5,,,11,87,Portal das Águas Quentes,75696-480
+Rua 6,,,11,87,Portal das Águas Quentes,75696-483
+Rua 14,,,11,87,Portal das Águas Quentes,75696-486
+Rua 13,,,11,87,Portal das Águas Quentes,75696-489
+Rua 12,,,11,87,Portal das Águas Quentes,75696-492
+Rua 11,,,11,87,Portal das Águas Quentes,75696-495
+Rua 10,,,11,87,Portal das Águas Quentes,75696-498
+Rua 7,,,11,87,Portal das Águas Quentes,75696-501
+Rua 8,,,11,87,Portal das Águas Quentes,75696-504
+Rua 9,,,11,87,Portal das Águas Quentes,75696-507
+Rua 15,,,11,87,Portal das Águas Quentes,75696-510
+Rua 16,,,11,87,Portal das Águas Quentes,75696-513
+Rua 17,,,11,87,Portal das Águas Quentes,75696-516
+Rua 18,,,11,87,Portal das Águas Quentes,75696-519
+Avenida A,,,11,87,Portal das Águas Quentes,75696-522
+Rua 19,,,11,87,Portal das Águas Quentes,75696-525
+Rua 20,,,11,87,Portal das Águas Quentes,75696-528
+Rua 21,,,11,87,Portal das Águas Quentes,75696-531
+Rua 22,,,11,87,Portal das Águas Quentes,75696-534
+Rua 23,,,11,87,Portal das Águas Quentes,75696-537
+Rua 24,,,11,87,Portal das Águas Quentes,75696-540
+Rua 25,,,11,87,Portal das Águas Quentes,75696-543
+Rua 26,,,11,87,Portal das Águas Quentes,75696-546
+Rua 27,,,11,87,Portal das Águas Quentes,75696-549
+Rua 28,,,11,87,Portal das Águas Quentes,75696-552
+Avenida F,,,11,87,Portal das Águas Quentes,75696-555
+Avenida G,,,11,87,Portal das Águas Quentes,75696-558
+Rua 40 A,,,11,87,Portal das Águas Quentes,75696-561
+Rua 39,,,11,87,Portal das Águas Quentes,75696-564
+Rua 39 A,,,11,87,Portal das Águas Quentes,75696-567
+Rua 38,,,11,87,Portal das Águas Quentes,75696-570
+Rua 37,,,11,87,Portal das Águas Quentes,75696-573
+Rua 36,,,11,87,Portal das Águas Quentes,75696-576
+Rua 35,,,11,87,Portal das Águas Quentes,75696-579
+Rua 34,,,11,87,Portal das Águas Quentes,75696-582
+Rua 33,,,11,87,Portal das Águas Quentes,75696-585
+Rua 33A,,,11,87,Portal das Águas Quentes,75696-588
+Rua 32,,,11,87,Portal das Águas Quentes,75696-591
+Rua 30,,,11,87,Portal das Águas Quentes,75696-594
+Rua 29,,,11,87,Portal das Águas Quentes,75696-597
+Avenida H,,,11,87,Portal das Águas Quentes,75696-600
+Rua 31,,,11,87,Portal das Águas Quentes,75696-603
+Rua 45,,,11,87,Portal das Águas Quentes,75696-606
+Avenida I,,,11,87,Portal das Águas Quentes,75696-609
+Rua 46,,,11,87,Portal das Águas Quentes,75696-612
+Rua 47,,,11,87,Portal das Águas Quentes,75696-615
+Rua 44,,,11,87,Portal das Águas Quentes,75696-618
+Rua 43,,,11,87,Portal das Águas Quentes,75696-621
+Rua 42,,,11,87,Portal das Águas Quentes,75696-624
+Rua 41,,,11,87,Portal das Águas Quentes,75696-627
+Rua 40,,,11,87,Portal das Águas Quentes,75696-630
+Rua 58,,,11,87,Portal das Águas Quentes,75696-633
+Avenida J,,,11,87,Portal das Águas Quentes,75696-636
+Rua 57,,,11,87,Portal das Águas Quentes,75696-639
+Rua 53,,,11,87,Portal das Águas Quentes,75696-642
+Rua 54,,,11,87,Portal das Águas Quentes,75696-645
+Rua 55,,,11,87,Portal das Águas Quentes,75696-648
+Rua 56,,,11,87,Portal das Águas Quentes,75696-651
+Rua 52,,,11,87,Portal das Águas Quentes,75696-654
+Rua 52 A,,,11,87,Portal das Águas Quentes,75696-657
+Rua 51 B,,,11,87,Portal das Águas Quentes,75696-660
+Rua 51 A,,,11,87,Portal das Águas Quentes,75696-663
+Rua 51,,,11,87,Portal das Águas Quentes,75696-666
+Rua 50,,,11,87,Portal das Águas Quentes,75696-669
+Rua 49,,,11,87,Portal das Águas Quentes,75696-672
+Rua 48,,,11,87,Portal das Águas Quentes,75696-675
+Avenida X,,,11,87,Portal das Águas Quentes,75696-678
+Rua 60,,,11,87,Portal das Águas Quentes,75696-681
+Rua H 1,,,11,87,Portal das Águas Quentes,75696-684
+Rua H 2,,,11,87,Portal das Águas Quentes,75696-687
+Rua H 3,,,11,87,Portal das Águas Quentes,75696-690
+Alameda Três,,,11,87,Portal das Águas Quentes,75696-693
+Rua 59,,,11,87,Portal das Águas Quentes,75696-696
+Rua 59 A,,,11,87,Portal das Águas Quentes,75696-699
+Rua 61,,,11,87,Portal das Águas Quentes,75696-702
+Rua 62,,,11,87,Portal das Águas Quentes,75696-705
+Avenida L,,,11,87,Portal das Águas Quentes,75696-708
+Rua 64,,,11,87,Portal das Águas Quentes,75696-711
+Rua 63,,,11,87,Portal das Águas Quentes,75696-714
+Rua 64 A,,,11,87,Portal das Águas Quentes,75696-717
+Rua 63 B,,,11,87,Portal das Águas Quentes,75696-720
+Rua 63 A,,,11,87,Portal das Águas Quentes,75696-723
+Rua 65,,,11,87,Portal das Águas Quentes,75696-726
+Rua 66,,,11,87,Portal das Águas Quentes,75696-729
+Rua 66 A,,,11,87,Portal das Águas Quentes,75696-732
+Avenida M,,,11,87,Portal das Águas Quentes,75696-735
+Avenida Z,,,11,87,Portal das Águas Quentes,75696-738
+Rua 68,,,11,87,Portal das Águas Quentes,75696-741
+Rua 69,,,11,87,Portal das Águas Quentes,75696-744
+Rua 70,,,11,87,Portal das Águas Quentes,75696-747
+Rua 71,,,11,87,Portal das Águas Quentes,75696-750
+Avenida N,,,11,87,Portal das Águas Quentes,75696-753
+Avenida P,,,11,87,Portal das Águas Quentes,75696-756
+Avenida 72,,,11,87,Portal das Águas Quentes,75696-759
+Rua 75,,,11,87,Portal das Águas Quentes,75696-762
+Avenida O,,,11,87,Portal das Águas Quentes,75696-765
+Rua 76 A,,,11,87,Portal das Águas Quentes,75696-768
+Rua 76,,,11,87,Portal das Águas Quentes,75696-771
+Rua 73,,,11,87,Portal das Águas Quentes,75696-774
+Rua 73 B,,,11,87,Portal das Águas Quentes,75696-777
+Rua 74,,,11,87,Portal das Águas Quentes,75696-780
+Avenida Q,,,11,87,Portal das Águas Quentes,75696-783
+Rua 77,,,11,87,Portal das Águas Quentes,75696-786
+Rua 84 A,,,11,87,Portal das Águas Quentes,75696-789
+Avenida S,,,11,87,Portal das Águas Quentes,75696-792
+Rua 84,,,11,87,Portal das Águas Quentes,75696-795
+Rua 85 B,,,11,87,Portal das Águas Quentes,75696-798
+Rua 85,,,11,87,Portal das Águas Quentes,75696-801
+Rua 85 A,,,11,87,Portal das Águas Quentes,75696-804
+Avenida R,,,11,87,Portal das Águas Quentes,75696-807
+Rua 78,,,11,87,Portal das Águas Quentes,75696-810
+Rua 78 B,,,11,87,Portal das Águas Quentes,75696-813
+Rua 79,,,11,87,Portal das Águas Quentes,75696-816
+Rua 79 B,,,11,87,Portal das Águas Quentes,75696-819
+Rua 80,,,11,87,Portal das Águas Quentes,75696-822
+Rua 80 C,,,11,87,Portal das Águas Quentes,75696-825
+Rua 81,,,11,87,Portal das Águas Quentes,75696-828
+Rua 82,,,11,87,Portal das Águas Quentes,75696-831
+Rua 83,,,11,87,Portal das Águas Quentes,75696-834
+Rua 93,,,11,87,Portal das Águas Quentes,75696-837
+Rua 93 A,,,11,87,Portal das Águas Quentes,75696-840
+Rua 86,,,11,87,Portal das Águas Quentes,75696-843
+Rua 87,,,11,87,Portal das Águas Quentes,75696-846
+Rua 88,,,11,87,Portal das Águas Quentes,75696-849
+Rua 89,,,11,87,Portal das Águas Quentes,75696-852
+Rua 90,,,11,87,Portal das Águas Quentes,75696-855
+Rua 91,,,11,87,Portal das Águas Quentes,75696-858
+Rua 92,,,11,87,Portal das Águas Quentes,75696-861
+Rua 94,,,11,87,Portal das Águas Quentes,75696-864
+Rua 94 B,,,11,87,Portal das Águas Quentes,75696-867
+Rua 95,,,11,87,Portal das Águas Quentes,75696-870
+Rua 95 A,,,11,87,Portal das Águas Quentes,75696-873
+Rua 96 A,,,11,87,Portal das Águas Quentes,75696-876
+Rua 96,,,11,87,Portal das Águas Quentes,75696-879
+Rua 97,,,11,87,Portal das Águas Quentes,75696-882
+Rua 98,,,11,87,Portal das Águas Quentes,75696-885
+Rua 99,,,11,87,Portal das Águas Quentes,75696-888
+Rua 100,,,11,87,Portal das Águas Quentes,75696-891
+Rua 101,,,11,87,Portal das Águas Quentes,75696-894
+Rua 102,,,11,87,Portal das Águas Quentes,75696-897
+Rua 1,,,11,40,Estância Itapuã,75697-040
+Rua 1A,,,11,40,Estância Itapuã,75697-041
+Rua 15,,,11,40,Estância Itapuã,75697-043
+Rua 15A,,,11,40,Estância Itapuã,75697-044
+Rua 14,,,11,40,Estância Itapuã,75697-046
+Rua 18,,,11,40,Estância Itapuã,75697-049
+Rua 16,,,11,40,Estância Itapuã,75697-052
+Rua 12,,,11,40,Estância Itapuã,75697-055
+Rua 10,,,11,40,Estância Itapuã,75697-058
+Rua 17,,,11,40,Estância Itapuã,75697-061
+Rua 8,,,11,40,Estância Itapuã,75697-064
+Rua 8A,,,11,40,Estância Itapuã,75697-065
+Rua 11,,,11,40,Estância Itapuã,75697-067
+Rua 13,,,11,40,Estância Itapuã,75697-070
+Rua 6,,,11,40,Estância Itapuã,75697-073
+Rua 6A,,,11,40,Estância Itapuã,75697-074
+Rua 9,,,11,40,Estância Itapuã,75697-076
+Rua 9A,,,11,40,Estância Itapuã,75697-077
+Rua 7,,,11,40,Estância Itapuã,75697-079
+Rua 7A,,,11,40,Estância Itapuã,75697-080
+Rua 3,,,11,40,Estância Itapuã,75697-082
+Rua 3A,,,11,40,Estância Itapuã,75697-083
+Avenida F1,,,11,40,Estância Itapuã,75697-084
+Rua 4,,,11,40,Estância Itapuã,75697-085
+Circular F1B,,,11,40,Estância Itapuã,75697-086
+Rua 2,,,11,40,Estância Itapuã,75697-088
+Circular F1A,,,11,40,Estância Itapuã,75697-089
+Rua 5,,,11,40,Estância Itapuã,75697-091
+Rua 5A,,,11,40,Estância Itapuã,75697-092
+Avenida D,,,11,115,Residencial Serra Parque,75697-100
+Avenida A,,,11,115,Residencial Serra Parque,75697-102
+Rua Xingu,,,11,115,Residencial Serra Parque,75697-104
+Rua Tupiniquins,,,11,115,Residencial Serra Parque,75697-106
+Rua Javaés,,,11,115,Residencial Serra Parque,75697-108
+Rua Canoeiros,,,11,115,Residencial Serra Parque,75697-110
+Rua Xerentes,,,11,115,Residencial Serra Parque,75697-112
+Rua Xavantes,,,11,115,Residencial Serra Parque,75697-114
+Avenida Tamoios,,,11,115,Residencial Serra Parque,75697-116
+Rua Guaranis,,,11,115,Residencial Serra Parque,75697-118
+Rua Guaicurus,,,11,115,Residencial Serra Parque,75697-120
+Rua Carajás,,,11,115,Residencial Serra Parque,75697-122
+Rua Tapuias,,,11,115,Residencial Serra Parque,75697-124
+Rua Tapajós,,,11,115,Residencial Serra Parque,75697-126
+Rua Tupis,,,11,115,Residencial Serra Parque,75697-128
+Rua Tupinambás,,,11,115,Residencial Serra Parque,75697-130
+Rua Aymorés,,,11,115,Residencial Serra Parque,75697-132
+Rua Caiapós,,,11,115,Residencial Serra Parque,75697-134
+Alameda dos Ipês,,,11,43,Green Gardens,75697-140
+Avenida das Bauhinias,,,11,43,Green Gardens,75697-144
+Alameda das Aroeiras,,,11,43,Green Gardens,75697-148
+Rua das Sucupiras,,,11,43,Green Gardens,75697-152
+Travessa Imbaúba,,,11,43,Green Gardens,75697-156
+Alameda dos Muricis,,,11,43,Green Gardens,75697-160
+Avenida das Paineiras,,,11,43,Green Gardens,75697-164
+Rua dos Jequitibás,,,11,43,Green Gardens,75697-168
+Rua dos Gravatás,,,11,43,Green Gardens,75697-172
+Viela Mutamba,,,11,43,Green Gardens,75697-176
+Avenida das Bromélias,,,11,43,Green Gardens,75697-180
+Rua dos Ingazeiros,,,11,43,Green Gardens,75697-184
+Rua dos Pequis,,,11,43,Green Gardens,75697-188
+Travessa Marmelo,,,11,43,Green Gardens,75697-192
+Rua das Guarirobas,,,11,43,Green Gardens,75697-196
+Viela Moliana,,,11,43,Green Gardens,75697-200
+Viela Japecanga,,,11,43,Green Gardens,75697-204
+Rua das Faveiras,,,11,43,Green Gardens,75697-208
+Rua dos Carvoeiros,,,11,43,Green Gardens,75697-212
+Rua dos Angicos,,,11,43,Green Gardens,75697-216
+Travessa Pacari,,,11,43,Green Gardens,75697-220
+Rua dos Bacuris,,,11,43,Green Gardens,75697-224
+Rua das Jangadeiras,,,11,43,Green Gardens,75697-228
+Alameda das Orquídeas,,,11,43,Green Gardens,75697-232
+Rua das Perobas,,,11,43,Green Gardens,75697-236
+Travessa Caraíbas,,,11,43,Green Gardens,75697-240
+Alameda das Quaresmeiras,,,11,43,Green Gardens,75697-244
+Rua dos Angelins,,,11,43,Green Gardens,75697-248
+Rua dos Guatambus,,,11,43,Green Gardens,75697-252
+Rua dos Jacarandás,,,11,43,Green Gardens,75697-256
+Rua dos Buritis,,,11,43,Green Gardens,75697-260
+Rua das Palmeiras,,,11,43,Green Gardens,75697-264
+Rua das Pitangas,,,11,43,Green Gardens,75697-268
+Rua dos Jatobás,,,11,43,Green Gardens,75697-272
+Rua das Mangabas,,,11,43,Green Gardens,75697-276
+Rua 21,,,11,104,Residencial Nova Canaã,75697-280
+Avenida NC 1,,,11,104,Residencial Nova Canaã,75697-283
+Rua NC 10,,,11,104,Residencial Nova Canaã,75697-286
+Rua NC 11,,,11,104,Residencial Nova Canaã,75697-289
+Rua NC 12,,,11,104,Residencial Nova Canaã,75697-292
+Rua NC 13,,,11,104,Residencial Nova Canaã,75697-295
+Rua NC 14,,,11,104,Residencial Nova Canaã,75697-298
+Rua NC 15,,,11,104,Residencial Nova Canaã,75697-301
+Rua NC 16,,,11,104,Residencial Nova Canaã,75697-304
+Rua NC 17,,,11,104,Residencial Nova Canaã,75697-307
+Rua NC 18,,,11,104,Residencial Nova Canaã,75697-310
+Rua NC 19,,,11,104,Residencial Nova Canaã,75697-313
+Rua NC 2,,,11,104,Residencial Nova Canaã,75697-316
+Rua NC 20,,,11,104,Residencial Nova Canaã,75697-319
+Rua NC 22,,,11,104,Residencial Nova Canaã,75697-322
+Rua NC 3,,,11,104,Residencial Nova Canaã,75697-325
+Rua NC 4,,,11,104,Residencial Nova Canaã,75697-328
+Rua NC 5,,,11,104,Residencial Nova Canaã,75697-331
+Rua NC 6,,,11,104,Residencial Nova Canaã,75697-334
+Rua NC 7,,,11,104,Residencial Nova Canaã,75697-337
+Rua NC 8,,,11,104,Residencial Nova Canaã,75697-340
+Rua NC 9,,,11,104,Residencial Nova Canaã,75697-343
+Avenida 1,,,11,69,Mansões Recanto da Serra,75697-350
+Rua 21,,,11,69,Mansões Recanto da Serra,75697-354
+Rua 11,,,11,69,Mansões Recanto da Serra,75697-358
+Rua 13,,,11,69,Mansões Recanto da Serra,75697-362
+Rua 15,,,11,69,Mansões Recanto da Serra,75697-366
+Rua 16,,,11,69,Mansões Recanto da Serra,75697-370
+Rua 17,,,11,69,Mansões Recanto da Serra,75697-374
+Rua 20,,,11,69,Mansões Recanto da Serra,75697-378
+Rua 7,,,11,69,Mansões Recanto da Serra,75697-382
+Rua 19,,,11,69,Mansões Recanto da Serra,75697-386
+Rua 18,,,11,69,Mansões Recanto da Serra,75697-390
+Rua 10,,,11,69,Mansões Recanto da Serra,75697-394
+Rua 14,,,11,69,Mansões Recanto da Serra,75697-398
+Rua 9,,,11,69,Mansões Recanto da Serra,75697-402
+Rua 8,,,11,69,Mansões Recanto da Serra,75697-406
+Rua 12,,,11,69,Mansões Recanto da Serra,75697-410
+Rua 5,,,11,69,Mansões Recanto da Serra,75697-414
+Rua 6,,,11,69,Mansões Recanto da Serra,75697-418
+Rua 4,,,11,69,Mansões Recanto da Serra,75697-422
+Rua 3,,,11,69,Mansões Recanto da Serra,75697-425
+Rua 2,,,11,69,Mansões Recanto da Serra,75697-430
+Avenida 1,,,11,8,Chácaras Itapema,75697-440
+Rua D,,,11,8,Chácaras Itapema,75697-443
+Rua C,,,11,8,Chácaras Itapema,75697-446
+Rua B,,,11,8,Chácaras Itapema,75697-449
+Rua A,,,11,8,Chácaras Itapema,75697-452
+Rua do Líder,,,11,8,Chácaras Itapema,75697-455
+Rua 11,,,11,8,Chácaras Itapema,75697-458
+Rua 10,,,11,8,Chácaras Itapema,75697-461
+Rua 9,,,11,8,Chácaras Itapema,75697-464
+Rua 8,,,11,8,Chácaras Itapema,75697-467
+Rua 6,,,11,8,Chácaras Itapema,75697-470
+Rua 7,,,11,8,Chácaras Itapema,75697-473
+Rua 5,,,11,8,Chácaras Itapema,75697-476
+Rua 4,,,11,8,Chácaras Itapema,75697-479
+Rua 3,,,11,8,Chácaras Itapema,75697-482
+Rua 1,,,11,8,Chácaras Itapema,75697-485
+Rua 2,,,11,8,Chácaras Itapema,75697-488
+Rodovia GO-213,,,11,16,Condomínio Del Fiori,75697-500
+Rua das Rosas,,,11,16,Condomínio Del Fiori,75697-503
+Rua das Begônias,,,11,16,Condomínio Del Fiori,75697-506
+Rua das Gardênias,,,11,16,Condomínio Del Fiori,75697-509
+Rua das Azaléias,,,11,16,Condomínio Del Fiori,75697-512
+Rua das Helicônias,,,11,16,Condomínio Del Fiori,75697-515
+Rua das Acácias,,,11,16,Condomínio Del Fiori,75697-518
+Rua das Bromélias,,,11,16,Condomínio Del Fiori,75697-521
+Rua das Tulipas,,,11,16,Condomínio Del Fiori,75697-524
+Rua das Hortênsias,,,11,16,Condomínio Del Fiori,75697-527
+Rua das Orquídeas,,,11,16,Condomínio Del Fiori,75697-530
+Rodovia GO-213,,,11,23,Condomínio Residencial Florença,75697-570
+Alameda das Rosas,,,11,120,Residencial Village,75697-590
+Acesso P 5,,,11,120,Residencial Village,75697-593
+Acesso P 1,,,11,120,Residencial Village,75697-596
+Acesso P 4,,,11,120,Residencial Village,75697-599
+Acesso P 3,,,11,120,Residencial Village,75697-602
+Acesso P 2,,,11,120,Residencial Village,75697-605
+Acesso P 6,,,11,120,Residencial Village,75697-608
+Acesso O 2,,,11,120,Residencial Village,75697-611
+Acesso O 1,,,11,120,Residencial Village,75697-614
+Acesso O 3,,,11,120,Residencial Village,75697-617
+Acesso O 4,,,11,120,Residencial Village,75697-620
+Acesso O 8,,,11,120,Residencial Village,75697-623
+Acesso O 9,,,11,120,Residencial Village,75697-625
+Acesso O 7,,,11,120,Residencial Village,75697-626
+Acesso O 6,,,11,120,Residencial Village,75697-629
+Acesso O 5,,,11,120,Residencial Village,75697-632
+Acesso B 2,,,11,120,Residencial Village,75697-635
+Acesso B1,,,11,120,Residencial Village,75697-638
+Acesso B 6,,,11,120,Residencial Village,75697-641
+Acesso da Divisa,,,11,120,Residencial Village,75697-644
+Acesso B 3,,,11,120,Residencial Village,75697-647
+Acesso B 7,,,11,120,Residencial Village,75697-650
+Acesso B 4,,,11,120,Residencial Village,75697-653
+Acesso B 8,,,11,120,Residencial Village,75697-656
+Acesso B 5,,,11,120,Residencial Village,75697-659
+Acesso B 9,,,11,120,Residencial Village,75697-662
+Acesso A 1,,,11,120,Residencial Village,75697-664
+Acesso A 2,,,11,120,Residencial Village,75697-665
+Acesso A 7,,,11,120,Residencial Village,75697-668
+Acesso A 3,,,11,120,Residencial Village,75697-671
+Acesso A 8,,,11,120,Residencial Village,75697-674
+Acesso A 4,,,11,120,Residencial Village,75697-677
+Acesso A 9,,,11,120,Residencial Village,75697-680
+Acesso A 5,,,11,120,Residencial Village,75697-683
+Acesso A 10,,,11,120,Residencial Village,75697-686
+Acesso A 6,,,11,120,Residencial Village,75697-689
+Acesso G 7,,,11,120,Residencial Village,75697-692
+Acesso G 6,,,11,120,Residencial Village,75697-695
+Acesso G 5,,,11,120,Residencial Village,75697-698
+Acesso G 4,,,11,120,Residencial Village,75697-701
+Acesso G 1,,,11,120,Residencial Village,75697-704
+Acesso G 3,,,11,120,Residencial Village,75697-707
+Acesso G 2,,,11,120,Residencial Village,75697-710
+Acesso J 5,,,11,120,Residencial Village,75697-713
+Acesso J 1,,,11,120,Residencial Village,75697-716
+Acesso J 4,,,11,120,Residencial Village,75697-719
+Acesso J 3,,,11,120,Residencial Village,75697-722
+Acesso J 2,,,11,120,Residencial Village,75697-725
+Avenida Central,,,11,25,Condomínio Saint Germain,75697-730
+Rua 1,,,11,25,Condomínio Saint Germain,75697-733
+Rua 2,,,11,25,Condomínio Saint Germain,75697-736
+Rua 3,,,11,25,Condomínio Saint Germain,75697-739
+Avenida A,,,11,25,Condomínio Saint Germain,75697-742
+Rodovia GO-213,,,11,64,Junquerlândia,75698-780
+Rua 1,,,11,64,Junquerlândia,75698-785
+Rua 2,,,11,64,Junquerlândia,75698-790
+Rua 3,,,11,64,Junquerlândia,75698-795
+Rua 6,,,11,64,Junquerlândia,75698-800
+Rua 4,,,11,64,Junquerlândia,75698-805
+Rua 5,,,11,64,Junquerlândia,75698-810
+Avenida das Nações,,,11,29,Das Nações,75698-820
+Rua Canadá,,,11,29,Das Nações,75698-823
+Travessa Paraguai,,,11,29,Das Nações,75698-826
+Travessa Índia,,,11,29,Das Nações,75698-829
+Rua Grã-Bretânha,,,11,29,Das Nações,75698-832
+Rua Áustria,,,11,29,Das Nações,75698-835
+Travessa Uruguai,,,11,29,Das Nações,75698-838
+Rua Argentina,,,11,29,Das Nações,75698-841
+Rua Grécia,,,11,29,Das Nações,75698-844
+Rua Cuba,,,11,29,Das Nações,75698-847
+Rua Espanha,,,11,29,Das Nações,75698-850
+Rua Dinamarca,,,11,29,Das Nações,75698-853
+Travessa Japão,,,11,29,Das Nações,75698-856
+Rua Nicarágua,,,11,29,Das Nações,75698-859
+Rua Venezuela,,,11,29,Das Nações,75698-862
+Rua Turquia,,,11,29,Das Nações,75698-865
+Rua Estados Unidos,,,11,29,Das Nações,75698-868
+Rua Paquistão,,,11,29,Das Nações,75698-871
+Rua Equador,,,11,29,Das Nações,75698-874
+Rua França,,,11,29,Das Nações,75698-877
+Rua China,,,11,29,Das Nações,75698-880
+Rua Bolívia,,,11,29,Das Nações,75698-883
+Rua Suiça,,,11,29,Das Nações,75698-886
+Rua Portugal,,,11,29,Das Nações,75698-889
+Rua Alemanha,,,11,29,Das Nações,75698-892
+Área Rural,,,11,2,Área Rural de Caldas Novas,75698-899
